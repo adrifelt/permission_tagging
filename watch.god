@@ -1,7 +1,3 @@
-God.watch do |w|
-  w.name = "APK Check"
-  w.start = "ruby /Users/Jonathan/Desktop/eecs350/permission_upload.rb > output.txt"
-end
 
 God::Contacts::Email.defaults do |d|
   d.from_email = 'watcher@eecs350.com'
@@ -28,3 +24,12 @@ God.contact(:email) do |c|
   c.to_email = 'PengXu2012@u.northwestern.edu'
 end
 
+God.watch do |w|
+  w.name = "APK Check"
+  w.start = "ruby /Users/Jonathan/Desktop/eecs350/permission_upload.rb > output.txt"
+  w.transition(:up, :start) do |on|
+    on.condition(:process_exits) do |c|
+      c.notify = 'developers'
+    end
+  end
+end
