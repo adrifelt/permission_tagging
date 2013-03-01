@@ -1,0 +1,2080 @@
+app {
+  id: "v2:com.ebay.mobile:1:29"
+  title: "Official eBay Android App"
+  appType: APPLICATION
+  creator: "eBay Mobile"
+  version: "2.1.2.15"
+  rating: "4.1289134"
+  ratingsCount: 236011
+  ExtendedInfo {
+    description: "A must-have app for eBay Buyers and Sellers that makes it easy to browse, shop, sell and manage your eBay activity whenever and wherever you are!  \n\n\nNEW!!\n\n\342\234\223 Personalize your eBay notifications with custom ringtones!\n\n\342\234\223 Silence notification sounds while sleeping or at work with the \"Quiet times\" setting.\n\n\342\234\223 The new streamlined checkout flow makes paying for your items faster and easier than ever.\n\n\nThanks to all our loyal app fans for your support and great advice! We know that our customers come first and we work very hard to provide the best eBay app in the Android market. If you are having problems with the app or want to send us your ideas and suggestions, please contact us using our online help forum: http://getsatisfaction.com/ebaymobile.\n \n_____________________________________\nOVERVIEW\n \nManage all your eBay activities on the go:\n \n\342\234\223 Buy, Bid or Make Offers with just a couple of taps\n\342\234\223 Pay for items securely\n\342\234\223 Get notifications and reminders about items ending, being outbid, outstanding offers, new items matching your saved search criteria, new messages and more\n\342\234\223 Track package shipments to find out where your item is and when it will arrive\n\342\234\223 Leave feedback for sellers when you have a few spare minutes\n\342\234\223 Check and respond to eBay Messages wherever you are\n\n\nQuickly find just what you are looking for:\n \n\342\234\223 Browse through eBay\342\200\231s extensive categories to discover items of interest\n\342\234\223 Scan a barcode to easily find and compare popular items\n\342\234\223 Refine your search to narrow down to the results you want\n\342\234\223 View completed listings to help you research and compare prices\n\342\234\223 Save your common searches and get notified when new items match\n\342\234\223 Save your favorite sellers to quickly see what they\342\200\231ve listed recently\n \n \nTake advantage of the mobile-optimized experience for the Motors enthusiast (US only, more countries coming soon):\n \n\342\234\223 Quickly scan your vehicle\342\200\231s VIN to prefill the details about the make, model and year and add it to \342\200\234My Vehicles\342\200\235\n\342\234\223 Easily find compatible parts and accessories for cars you own\n\342\234\223 Search by Make, Model and Year to find your dream car, truck or motorcycle\n\342\234\223 Contact sellers to get more information or to arrange a vehicle purchase\n\342\234\223 Check out weekly episodes of unique motors-inspired video series including modJobs, BUILT by eBay, The World\342\200\231s Fastest Car Show and more\n \n\nSelling couldn\342\200\231t be easier:\n \n\342\234\223 Start-to-finish listing in just minutes\n\342\234\223 Prefill details of popular items by scanning the barcode or selecting the item from the product catalog\n\342\234\223 Add and edit photos taken with your phone or import photos from your gallery\n\342\234\223 Revise, relist, or sell similar items on the go\n\342\234\223 Add shipment tracking information to items using the barcode scanner\n \n\n_____________________________________\nLANGUAGE AND FEATURE SUPPORT BY COUNTRY\n \n\342\234\223 Language support:\nEnglish, French, Italian, German, Spanish\n \n\342\234\223 Search support:\nAustralia, Austria, Belgium, Canada, France, Germany, India, Ireland, Italy, Malaysia, Netherlands, Philippines, Poland, Singapore, Spain, Switzerland, United Kingdom, United States\n \n\342\234\223 Payments support:\nAustralia, Austria, Canada, France, Germany, Ireland, Italy, Malaysia, Netherlands, Philippines, Poland, Spain, Singapore, Switzerland, United Kingdom, United States\n \n\342\234\223 Selling support:\nAustralia, Austria, Canada, France, Germany, India, Italy, Spain, United Kingdom, United States\n \n_____________________________________\nEBAY WIDGETS\n \nFind the eBay Widgets app in the Google Play store and customize your device with useful eBay shortcuts!\n \n_____________________________________\nCAMERA PERMISSION\n \nThe app requires permission to use the device camera to take photos for listing an item and provide the ability to scan barcodes to find or list items."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "com.ebay.mobile.permission.C2D_MESSAGE"
+    permissionId: "com.ebay.mobile.permission.EBAY_USER_CONFIG"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 5699089
+    packageName: "com.ebay.mobile"
+    category: "Shopping"
+    contactEmail: "mobilehelp@ebay.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://mobile.ebay.com"
+    screenshotsCount: 8
+    promoText: "The power of eBay in the palm of your hand!"
+    recentChanges: "v2.1.2\n\n\342\234\223 Personalize your eBay notifications with custom ringtones!\n\n\342\234\223 Silence notification sounds while sleeping or at work with the \'Quiet times\' setting.\n\n\342\234\223 The new streamlined checkout flow makes paying for your items faster and easier than ever.\n\n\342\234\223 Bug fixes and performance enhancements.\n\nNote: Notifications are now being delivered via Google Cloud Messaging. This requires you to give a new permission before it can be installed."
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"eBay Mobile\""
+  packageName: "com.ebay.mobile"
+  versionCode: 29
+}
+app {
+  id: "v2:com.duduapps.craigslistfree:1:48"
+  title: "Craigslist Mobile"
+  appType: APPLICATION
+  creator: "YYH Creative"
+  version: "1.48"
+  rating: "4.1277256"
+  ratingsCount: 58931
+  ExtendedInfo {
+    description: "Craigslist Mobile provides a simple and intuitive interface, but an extensive set of features to search, post, browser and reply on craigslist.org.\n\nWhat will you find inside?\n\n\342\234\223 \342\234\223 The only Android App that allows you to search and post an ads directly from your phone!!\n\342\234\223 Sophisticated mobilizer algorithm to make the Craigslist webpage fit in the phone screen nicely.\n\342\234\223 Posting ads directly from your Android Phone.\n\342\234\223 Posting with or without an account.\n\342\234\223 Browsing and searching the craigslist.org\n\342\234\223 Quick preview of the posts along with thumbnail of the photos.\n\342\234\223 Support all major countries and states.\n\342\234\223 Email the post to friends or yourself.\n\342\234\223 Contact the poster via email or phone call.\n\342\234\223 Battery life friendly! No background service to drain your phone\'s battery.\n\342\234\223 Save the post to favorite.\n\342\234\223\342\234\223 And more!\n\nIf you have any question and suggestion, please email us at duduapps@gmail.com. Please include the Category, Location and search keywords when you report any problem.\nThanks and enjoy!\n\nNOTES on Permissions needed by Craigslist Mobile App:\n\n- DIRECTLY CALL PHONE NUMBERS\n   This feature is only used when you are trying to contact the sellers on the craigslist via phone call.\n\n- TAKE PICTURES AND VIDEOS\n   This feature is only used when you need to post a new ads on craigslist with a picture taking with your phone."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 648752
+    packageName: "com.duduapps.craigslistfree"
+    category: "Shopping"
+    contactEmail: "duduapps@gmail.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://twitter.com/#!/DuduApps"
+    screenshotsCount: 8
+    promoText: "Searching with photo preview and Posting to Craigslist from your Android Phone."
+    recentChanges: "Version 1.47\n fix expired post\n\nVersion 1.46\n  fix image preview\n\nVersion 1.45\n   tablet support\n   fix duplicated images. \n\nVersion 1.43\n  Fix reply by email.\n\nVersion 1.42\n  Fix listing problem\n  Fix posting problem\n  \nPlease also check out our ads-banner free version App.\n https://play.google.com/store/apps/details?id=com.duduapps.craigslistpro\n\nWe are looking for your feedback! Send us an email duduapps@gmail.com\n\nEnjoy!"
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "\"YYH Creative\""
+  packageName: "com.duduapps.craigslistfree"
+  versionCode: 48
+}
+app {
+  id: "v2:com.amazon.mShop.android:1:43"
+  title: "Amazon Mobile"
+  appType: APPLICATION
+  creator: "Amazon Mobile LLC"
+  version: "2.3.0"
+  rating: "4.5131717"
+  ratingsCount: 57472
+  ExtendedInfo {
+    description: "The Amazon Mobile App allows Android users to browse and \342\200\234Shop by Department\342\200\235, quickly search, compare prices, read reviews, share products with friends, access Gold Box Deals (US only), and make purchases on Amazon.com. To make on-the-go shopping and price comparison even easier, the Amazon Mobile App includes helpful shopping features that allow users to scan a barcode, snap a photo, or type a search, to quickly compare prices and check availability. Customers can sign up to receive a daily notification for Lightning Deals and also stay up to date on status of their orders (US only).\n\nShoppers are able to access any of Amazon\'s sites around the world from a single app by simply selecting their desired Amazon country store. Amazon customers have full access to their existing cart, wish lists, payment and Amazon Prime member shipping options, order history, 1-Click settings and can also take advantage of Amazon.com\' Subscribe & Save (US only). All purchases made on Amazon Mobile are routed through Amazon\'s secure servers just as they are on the web.\n\n** Requires Android OS 2.0 & up and rear facing camera.\n \nImportant note regarding permissions. Amazon Mobile requires access to the following services to operate properly:\n \nLocation: due to the fact that this is now a world wide app, location permissions are required to support a delivery service feature offered by Amazon in France and Japan. Only in those stores is the location data required or used. In those locations you are able to request delivery to a convenience store closest to your current location. That service is not available in other Amazon countries.\n \nPhone calls: within the app you are able to place a call to Amazon Customer Service. Tap Menu -> More -> Help -> Call Customer Service, and we will place the proper number in the phone app and dial it.\n \nTake pictures: bar code scanning and image search require access to the camera function if you choose to start the bar code scanner from the app.\n \nAccount Permissions: This permission is used by the Amazon app suite for account authentication on select handsets."
+    downloadsCount: 0
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.MANAGE_ACCOUNTS"
+    permissionId: "android.permission.USE_CREDENTIALS"
+    permissionId: "android.permission.AUTHENTICATE_ACCOUNTS"
+    permissionId: "com.amazon.dcp.sso.permission.USE_DEVICE_CREDENTIALS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.amazon.mShop.android.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    installSize: 5347062
+    packageName: "com.amazon.mShop.android"
+    category: "Shopping"
+    contactEmail: "feedback-amazon-app-android@amazon.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.amazon.com/"
+    screenshotsCount: 8
+    promoText: "Browse, search & buy millions of products right from your Android device."
+    recentChanges: "\342\200\242  Now available for Amazon.ca. Shop Amazon.ca in addition to Amazon.com, Amazon.co.uk, Amazon.de, Amazon.fr, Amazon.it, Amazon.cn or Amazon.co.jp from a single app\n\342\200\242  Subscribe & Save: Save 15% when you subscribe to 5 items arriving in the same month (US only)\n\342\200\242  Amazon Mobile for Tablets is available on Google Play (US only). Search for \"Amazon Tablet\" to install the app and begin shopping.\n\342\200\242  Bug fixes and performance improvements"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Amazon Mobile LLC\""
+  packageName: "com.amazon.mShop.android"
+  versionCode: 43
+}
+app {
+  id: "v2:com.google.zxing.client.android:1:87"
+  title: "Barcode Scanner"
+  appType: APPLICATION
+  creator: "ZXing Team"
+  version: "4.3.1"
+  rating: "4.2408204"
+  ratingsCount: 310659
+  ExtendedInfo {
+    description: "Scan barcodes on products then look up prices and reviews. You can also scan Data Matrix and QR Codes containing URLs, contact info, etc.\n\nAlso share your contacts, apps, and bookmarks via QR Code. This is why contacts permissions are needed. See FAQ below."
+    downloadsCount: 0
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "com.android.browser.permission.READ_HISTORY_BOOKMARKS"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    installSize: 585377
+    packageName: "com.google.zxing.client.android"
+    category: "Shopping"
+    contactEmail: "zxing-external@google.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://code.google.com/p/zxing/wiki/FrequentlyAskedQuestions"
+    screenshotsCount: 5
+    promoText: "Scan barcodes on products then look up prices and reviews. You can also scan Data Matrix and QR Codes containing URLs, contact info, etc.\n\nAlso share your contacts, apps, and bookmarks via QR Code. This is why contacts permissions are needed. See FAQ below."
+    recentChanges: "* Disabled exposure control as it caused problems on several buggy devices.\n* Other small bug fixes."
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"ZXing Team\""
+  packageName: "com.google.zxing.client.android"
+  versionCode: 87
+}
+app {
+  id: "v2:com.groupon:1:2770"
+  title: "Groupon - Daily Deals, Coupons"
+  appType: APPLICATION
+  creator: "Groupon, Inc."
+  version: "2.3.2770"
+  rating: "4.6001773"
+  ratingsCount: 172619
+  ExtendedInfo {
+    description: "Groupon brings you unbeatable deals with discounts of 50\342\200\22390% off the best stuff to do, see, eat, and buy in more than 500 cities and eleven fiefdoms around the world.\n\nDownload the Groupon app to get freshly hatched deals and discounts delivered to your Android device each morning, customized to fit your preferences. Whether you are looking to discover a new local restaurant, try out a new \342\200\230do at the salon, or get some adrenaline pumping at the gym, our daily featured deals offer deep discounts to tickle your fancy.\n\nYou\342\200\231ll also be able to browse tons of on-demand, real-time discounts on dining experiences, spa treatments, fitness classes, and other local, nearby deals\342\200\224ready for immediate use\342\200\224with Groupon Now!.\n\nWith the Groupon Android app, you can:\n\n- Buy and redeem Groupons directly from your Android device.\n- Track your purchased coupons by location and expiration date.\n- Save ink and avoid traumatic paper cuts by never printing another voucher or coupon.\n\nExtended Features:\n\n- Browse and buy local, on-demand Groupon Now! deals for restaurants, spas, fitness centers, and activities near you.\n- Take an exotic vacation or a quick weekend trip with Groupon Getaways.\n- Use Groupon Goods to discover discounted products made of reliably bonded molecules.\n- Effect change in your community by supporting Groupon Grassroots campaigns.\n- Browse fun, seasonally themed collections year-round or find great holiday gifts with Grouponicus deals.\n- Share Groupon deals with friends, family, and tech-savvy housecats via social media.\n- Add the Groupon widget to your device\342\200\231s home screen so you never miss out on the next big deal. Just hold your finger on the home screen and select Groupon from the widget list.\n\nDownload the Groupon Android app today and start exploring the best your favorite neighborhoods have to offer with discounts of up to 90% off."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "com.groupon.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 12676816
+    packageName: "com.groupon"
+    category: "Shopping"
+    contactEmail: "support+android@groupon.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18777887858"
+    contactWebsite: "http://www.groupon.com"
+    screenshotsCount: 5
+    promoText: "Unbeatable deals daily on the best stuff to do in cities across the world!"
+    recentChanges: "Looking for a particular deal?  We have a brand new search and filtering experience to make it faster to find great deals.  Search for deal categories (food, spas, pizza, etc.) or merchant names and we will show you the best deals that are close to you.\nYou can also use the drop down category filters to narrow down results in the Goods and Nearby tabs.\n\nAlso, this release has tons of performance improvements to make app startup and browsing be much faster and smoother.  Come check it out!"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Groupon, Inc.\""
+  packageName: "com.groupon"
+  versionCode: 2770
+}
+app {
+  id: "v2:com.usablenet.mobile.walgreen:1:22"
+  title: "Walgreens"
+  appType: APPLICATION
+  creator: "Walgreen Co."
+  version: "3.3.2"
+  rating: "4.3320293"
+  ratingsCount: 20191
+  ExtendedInfo {
+    description: "REWARDS PROGRAM FEATURES\n\342\200\242\tIntroducing Balance\342\204\242 Rewards from Walgreens\n\342\200\242\tSave, earn, redeem, in store and online\n\342\200\242\tGet exclusive pricing as a member\n\nPHARMACY FEATURES\n\342\200\242\tRefill by Scan* - Simply scan the barcode on your prescription bottle for instant refills\n\342\200\242\tTransfer Prescription by Scan \342\200\223 Scan your current Rx bottle and transfer to your local Walgreens\n\342\200\242\tRefill Reminders \342\200\223 Sign up to get Rx Text Alerts to know when it\342\200\231s time to refill your prescriptions\n\nPHOTO FEATURES \n\342\200\242\tQuickPrints \342\200\223 Choose pictures from your phone\342\200\231s albums to print and pick up at your local Walgreens in about an hour\342\200\224no log-in or account required\n\342\200\242\tPrint from Facebook \342\200\223 Select photos from your Facebook albums to print and pick up at your local Walgreens in about an hour\n\342\200\242\tPrintWorthy\342\204\242 \342\200\223 Create and print a PrintWorthy\342\204\242 card using a photo from your Facebook albums with likes and comments\n\342\200\242\tPhoto Editing \342\200\223 Edit your photos using filters and a variety of editing tools\n\nSHOPPING FEATURES\n\342\200\242\tCoupons & Offers - Access multiple exclusive mobile offers with the Mobile Coupons feature and view local weekly offers in our Weekly Ad\n\342\200\242\tIn Store Maps \342\200\223 Use your Shopping List to map and find items on a Walgreens store map, coupons are now displayed on the map with a pin or banner ad\n\342\200\242\tHoliday Gift Guide \342\200\223 Creative gift ideas for everyone on your list \n\342\200\242\tLocal Shopping \342\200\223 Set your preferred store and search your store\342\200\231s product catalog \n\342\200\242\tBarcode and QR Code Scanner - Learn more about our products by scanning product barcodes or QR codes from our paper Weekly Ads"
+    downloadsCount: 0
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.WRITE_SETTINGS"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 10698863
+    packageName: "com.usablenet.mobile.walgreen"
+    category: "Shopping"
+    contactEmail: "customerservice@mail2.walgreens.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18479142500"
+    contactWebsite: "http://www.walgreens.com"
+    screenshotsCount: 8
+    promoText: "Quickly refill prescriptions by scanning your Walgreens prescription label"
+    recentChanges: "Easily access your Rx status & history \342\200\223 811 error is now resolved\n\nMove the Walgreens app to your SD card"
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "\"Walgreen Co.\""
+  packageName: "com.usablenet.mobile.walgreen"
+  versionCode: 22
+}
+app {
+  id: "v2:com.wanelo.android:1:23"
+  title: "Wanelo Shopping"
+  appType: APPLICATION
+  creator: "Wanelo, Inc."
+  version: "2.3"
+  rating: "4.6739974"
+  ratingsCount: 9776
+  ExtendedInfo {
+    description: "The best in shopping entertainment. Wanelo (from Want, Need, Love) gives you an endless stream of the most unique products online, all posted by people like you. Buy everything right away, or save your favorite products to your profile for later.\n\nWe should mention that Wanelo is dangerous for your free time and wallet. Our users think so, too:\n\n\"I wish I had all the money in the world. I would just spend all of it on Wanelo.\"\n@madewithevol\n\n\342\200\234I\'m doing all of my Christmas shopping on Wanelo #obsessed\"\n@lendaathompson\n\n\"#Wanelo you can have all of my money! #obsessed\"\n@TheBigOlivia\n\n\"@Wanelo app for android!? brb, DYING.\"\n@flexinBITTY\n\n\342\200\234I absolutely love wanelo! I\'m over the moon now that they have an app! :D\342\200\235\nJessica Purvis"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.wanelo.android.permission.C2D_MESSAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 2555091
+    packageName: "com.wanelo.android"
+    category: "Shopping"
+    contactEmail: "hello@wanelo.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://wanelo.com"
+    screenshotsCount: 5
+    promoText: "The best in shopping entertainment. Wanelo (from Want, Need, Love) gives you an endless stream of the most unique products online, all posted by people like you. Buy everything right away, or save your favorite products to your profile for later.\n\nWe should mention that Wanelo is dangerous for your free time and wallet. Our users think so, too:\n\n\"I wish I had all the money in the world. I would just spend all of it on Wanelo.\"\n@madewithevol\n\n\342\200\234I\'m doing all of my Christmas shopping on Wanelo #obsessed\"\n@lendaathompson\n\n\"#Wanelo you can have all of my money! #obsessed\"\n@TheBigOlivia\n\n\"@Wanelo app for android!? brb, DYING.\"\n@flexinBITTY\n\n\342\200\234I absolutely love wanelo! I\'m over the moon now that they have an app! :D\342\200\235\nJessica Purvis"
+    recentChanges: "New in this version: receive push notifications when someone @-mentions you on a product, or when someone follows you. We have limits in place so as not to overwhelm you.\n\nWe also made the app a little better, stronger, faster.\n\nWe love hearing from you and read every word: hello@wanelo.com.\n\n<3,\nWanelo"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"Wanelo, Inc.\""
+  packageName: "com.wanelo.android"
+  versionCode: 23
+}
+app {
+  id: "v2:com.ebay.redlaser:1:21"
+  title: "RedLaser Barcode & QR Scanner"
+  appType: APPLICATION
+  creator: "eBay Mobile"
+  version: "4.1.0"
+  rating: "4.291741"
+  ratingsCount: 43165
+  ExtendedInfo {
+    description: "RedLaser Barcode and QR Scanner \342\200\224 Shop Smarter\n  \nRated as a top shopping app by US Today, The New York Times, CNN Money, PC Magazine and Smart Money magazine, RedLaser helps millions of shoppers shop smarter every day - and it can help you too! \n\n\342\230\206 GET THE BEST PRICES \nRedLaser searches millions of products across thousands of online and local retailers to find the best prices \n\n\342\230\206 FIND MORE WAYS TO SAVE  \nFind deals and coupons from hundreds of stores (US Only)\n\n\342\230\206 EASY CHECK-OUT WITH REDLASER \nRedLaser makes it easy, fast, and secure to buy from select retailers \n\n\342\230\206 DISCOVER RELATED PRODUCTS \nFind alternatives and accessories for the product you just viewed\n\n\342\230\206 DIGITIZE YOUR WALLET\nScan & store your loyalty cards and even share cards with family and friends\n\n \342\230\206 SHOP HEALTHY AND SAFE\nWhen you scan almost any food product with RedLaser, we\342\200\231ll tell you everything you need to know\342\200\224including product ratings , nutrition facts, and critical allergen information\n\n\n\342\227\217 FEATURES \342\227\217\n \342\234\223 Scan all major retail barcodes (including UPC, EAN, UPC-E, and EAN-8) and QR codes\n\342\234\223 Search for prices from thousands of online retailers for millions of products\n\342\234\223 Search hundreds of local retailers to compare prices, find the nearest locations, and even check out books at the library\n\342\234\223 Buy on the go, right from your phone.  Have items shipped to your home or pick up in-store from select local retailers\n\342\234\223 Get product descriptions, reviews, and nutritional information to help you make the right decision\n\342\234\223 Find deals and coupons from many merchants. You can view top deals of the day or browse deals by store.  \n\342\234\223 View popular products scanned by other RedLaser users. \n\342\234\223 Create personalized QR codes with your info, contacts, website\342\200\231s URL, location and more with our powerful QR code engine\n\342\234\223 Create shopping, wish, and gift lists to share with friends and family.  Also great for archiving your book, CD, DVD, and even your wine collection!\n\342\234\223 Keyword, Voice, and Image recognition search to find the best deal, even when you don\342\200\231t have a barcode handy\n\nNote: RedLaser uses your contacts to generate QR Codes if you use that feature.  Otherwise your contacts are not used, and your information is never sent to us.\n\n- Coverage -\n\nFeatured as a top comparison shopping app by E! News, Marie Claire, Better Homes & Gardens, The Oprah Magazine and All You.\n \nTop five comparison shopping app by Smart Money magazine, as featured on CBS news\n \nFirst app mentioned in PC Magazine\342\200\231s ten best shopping apps to compare prices \342\200\250\n\n\"This is probably the most fully featured app-based barcode reader on the market.\" \n- Entrepreneur Magazine\n\n\"\342\200\246RedLaser is a perfect shopping companion.\"\n- The New York Times\n\n\"It\'s great for comparison shopping, reading product reviews, or simply making note of a specific product for later.\"\n- Martha Stewart Living\n\n\"In my review last winter I said RedLaser was the only app with which I\'d ever made a profit. It\'s still true and it just keeps on saving me money.\"\n- Houston Chronicle\n\n- Testimonials -\n\n\"A seriously impressive & useful App. Anyone who likes a bargain or even better anyone that doesn\'t like to throw away money this App is EXCELLENT\" \n- Jimmy\n\n\"This is like the best app ever! It really works!\" \n- Desmond\n\n\"A must have utility. I have been finding that most local retailers will honor the prices found by this utility. It has saved me a lot of money.\" \n- Philip\n\n\"Awesome app almost bought something at a store that was $25 scanned it and found it for $ 6.76\" \n- Brian\n\nAlt: red, laser, redlazer, lazer\n\n* Android Permissions to access your contact list are only for the create QR codes from your contacts feature.  We will never store your contacts.\n\n* Android Permissions to directly call phone numbers are only to allow you to call your local store from RedLaser.  We will not make calls without your permission."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    installSize: 3067339
+    packageName: "com.ebay.redlaser"
+    category: "Shopping"
+    contactEmail: "support@redlaser.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.redlaser.com"
+    screenshotsCount: 6
+    promoText: "Impossibly accurate barcode scanning!\n\nScan. Compare. Save. For Free!"
+    recentChanges: "New in 4.1.0\n- More online and in-store deals from your favorite retailers.\n- Keep track of the deals you want to watch by saving them for later.\n- Bug fixes to Loyalty Cards\n- Improved Search suggestions"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"eBay Mobile\""
+  packageName: "com.ebay.redlaser"
+  versionCode: 21
+}
+app {
+  id: "v2:com.walmart.android:1:141"
+  title: "Walmart"
+  appType: APPLICATION
+  creator: "Walmart"
+  version: "1.4.1"
+  rating: "4.324061"
+  ratingsCount: 9239
+  ExtendedInfo {
+    description: "2012 Mobile Retailer of the Year (Mobile Commerce Daily)\n2012 #1 in Commerce (Mobile Excellence Awards)\n\nSave money. Live better.\n\nLooking to grab great values on the go? The Walmart app helps you find and buy quality products at unbeatable prices whether you\342\200\231re at home, in our stores or anywhere in between. You\342\200\231ll also be able to stay up-to-date on exclusive app-only shopping events.\n \nYou\342\200\231ll love using this handy app to:\n- Shop Rollbacks and save a bundle\n- Grab the Value of the Day before it\342\200\231s gone\n- Browse your store\342\200\231s Local Ad\n- Scan barcodes and QR codes for additional information\n- Check store inventory\n- Find store hours and directions\n- Order refills and view $4 prescriptions\n- Access the app with one tap using our Value of the Day and Search widgets\n \nA note about Permissions:\n- The app requires access to your device\'s \"Hardware controls for pictures & videos\" to scan barcodes and QR codes. We do not use the camera for any other purpose.\n- The app requires knowledge of the \"accounts on the device\" to send notifications. This permission does not give us access to any passwords or personal information. You can turn off notifications anytime in the More menu.\n \nShip for less:\n- Free shipping when you send your order to any Walmart store\n- Free shipping when you order $45 or more of Home Free items \n- 97-Cent shipping for select products"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.walmart.android.permission.C2D_MESSAGE"
+    installSize: 7071881
+    packageName: "com.walmart.android"
+    category: "Shopping"
+    contactEmail: "androidapp@walmart.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://mobile.walmart.com"
+    screenshotsCount: 7
+    promoText: "Save money. Live better."
+    recentChanges: "v1.4.1\n- Holiday updates \n\nv1.4\n- Updated Home screen design\n- Page through the Local Ad and tap items to learn more\n- Features to help you shop and save on holiday items\n- Bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Walmart"
+  packageName: "com.walmart.android"
+  versionCode: 141
+}
+app {
+  id: "v2:com.livingsocial.www:1:1820199"
+  title: "LivingSocial"
+  appType: APPLICATION
+  creator: "LivingSocial, Inc."
+  version: "1.8.2.0"
+  rating: "3.8528786"
+  ratingsCount: 9380
+  ExtendedInfo {
+    description: "LivingSocial helps you discover the best of your city even when you\342\200\231re on the go. We have the inside scoop on the best shopping, restaurants, activities and more\342\200\224all handpicked, unique, and an incredible value.\n\nLocal Discovery\nWe give you access to nearby deals all over the world, so you can explore like a local no matter where you are.\n\nInstant Deals\nFind the best deals closest to you. Purchase and redeem all on your Android, instantly.\n\nExplore Your City with LivingSocial\nDaily Deals \342\200\223 a great local deal, every day.\nInstant \342\200\223 location-based deals to use in real time.\nEscapes \342\200\223 unique vacation packages across town or across the globe.\nFamilies \342\200\223 family-friendly activities and services in your area.\nAdventures \342\200\223 exciting excursions for the bold and active.\n\nExperience LivingSocial in these places:\n\nNORTH AMERICA\nUnited States: Alabama, Arkansas, Arizona, Phoenix, California, Los Angeles, Oakland, SF, San Francisco, San Diego, Colorado, Denver, Connecticut, District of Columbia, Washington DC, Delaware, Florida, Miami, Orlando, Tampa, Georgia, Atlanta, Hawaii, Honolulu, Iowa, Idaho, Illinois, Chicago, Indiana, Indianapolis, Kansas, Kentucky, Louisville, Louisiana, Baton Rouge, New Orleans, Massachusetts, Boston, Maryland, Baltimore, Montgomery County, Maine, Portland, Michigan, Detroit, Minnesota, Minneapolis, Twin Cities, St. Paul, Missouri, Kansas City, St. Louis, Mississippi, North Carolina, Charlotte, Raleigh, Nebraska, Lincoln, Omaha, New Hampshire, New Jersey, New Mexico, Albuquerque, Nevada, Las Vegas, Reno, New York, Buffalo, Long Island, New York City / NYC, Queens, Ohio, Cincinnati, Cleveland, Columbus, Oklahoma, Oregon, Pennsylvania, Philadelphia, Pittsburgh, Rhode Island, Providence, South Carolina, Tennessee, Knoxville, Memphis, Nashville, Texas, Austin, Dallas, Houston, San Antonio, Utah, Salt Lake City, Virginia, Richmond, Washington, Seattle, Wisconsin, Green Bay, Madison, Milwaukee\nCanada: Calgary, Edmonton, Montreal, Ottawa, Toronto, Vancouver\n\nOCEANIA \nAustralia: Adelaide, Brisbane, Canberra, Darwin, Geelong, Gold Coast, Hobart, Melbourne, Newcastle, Perth, Sydney, Wollongong\nNew Zealand: Auckland, Wellington\n\nEUROPE\nUnited Kingdom: Belfast, Birmingham, Blackpool, Brighton, Edinburgh, Glasgow, Leeds, Liverpool, London, Manchester, Newcastle, North Cheshire, Norwich, Nottingham, Plymouth, Portsmouth, Sheffield, Southampton, Sunderland, Swansea, Wirral, York\nNetherlands: Amsterdam, Den Haag, Rotterdam\nIreland: Cork, Dublin, Galway, Limerick\nFrance: Paris"
+    downloadsCount: 0
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "com.livingsocial.www.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3684209
+    packageName: "com.livingsocial.www"
+    category: "Shopping"
+    contactEmail: "android@livingsocial.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://livingsocial.com"
+    screenshotsCount: 4
+    promoText: "The best daily deals in your city from LivingSocial."
+    recentChanges: "Version 1.8.2.0 Release\n\n* added \"first time user experience\"\n* implemented hasoffers SDK integration\n* addressed several security concerns\n* various bug fixes."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"LivingSocial, Inc.\""
+  packageName: "com.livingsocial.www"
+  versionCode: 1820199
+}
+
+app {
+  id: "v2:thecouponsapp.coupon:1:911"
+  title: "The Coupons App"
+  appType: APPLICATION
+  creator: "Most Popular Download"
+  version: "9.11"
+  rating: "4.564214"
+  ratingsCount: 88555
+  ExtendedInfo {
+    description: "Unbelievable coupon savings and shopping deals at your favorite stores, restaurants & gas stations - coupons always at your fingertips, everywhere you go! \n\nThe Coupons App - Deals features: \n\n  * Coupon WIDGET - Real-time coupons and daily deals throughout each day. Shopping has never been easier or more fun when the deals come to you!\n  * GAS prices - Cheapest gas at local gas stations nearby.  Gas pricing updates based on your current location - save money on gas whenever you fill up the car no matter where you are.\n  * BARCODE scanner  - Price comparison shopping tool.\n  * SHARE Coupon - Text deals & email coupons, Twitter coupons, even coupon sharing onto Facebook!\n  * VOICE search coupons - Fast, easy and hands-free coupon and product deal searching means it is now even easier to find exactly what you want at the lowest price available.\n  * SAVE Coupons - Coupon to calendar, one-tap maps navigate you to the nearest venue, phone the nearest location shown in each coupon and much more! \n\nCoupons continuously update throughout each day, it\'s like a fresh coupon buffet at your fingertips! Place the coupon widget onto your home screen and preview coupons instantly as they become available.  \n\nSMS Text coupon & deals - share each deal coupon with any phone. You may even text each coupon to older analog phones without The Coupons App - Deals installed & on other carriers!\n\nSearch coupons and local Groupon daily deals while shopping - Coupon & deal searching even while shopping in the store checkout line.\n\nRedeeming coupons from The Coupons App offers is easy! Simply display coupon on your phone to cashier.\n\nValentine\'s Day Valentine"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_UPDATES"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_CALENDAR"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    installSize: 819037
+    packageName: "thecouponsapp.coupon"
+    category: "Shopping"
+    contactEmail: "aaroninmarketing@yahoo.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.thecouponsapp.com"
+    screenshotsCount: 8
+    promoText: "Unbelievable coupon savings at your favorite stores, restaurants & gas stations!"
+    recentChanges: "* v9.11 Improvements:\nReboot crash fix & others addressed following last upgrade\n* ADDED: Progress bar during load\n* Tweaked convenience features\n* Various minor fixes addressed\n* Security improvements"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Most Popular Download\""
+  packageName: "thecouponsapp.coupon"
+  versionCode: 911
+}
+app {
+  id: "v2:com.google.android.apps.shopper:1:19504"
+  title: "Shopper"
+  appType: APPLICATION
+  creator: "Google Inc."
+  version: "3.1"
+  rating: "4.158786"
+  ratingsCount: 33542
+  ExtendedInfo {
+    description: "Google Shopper helps you find information on millions of products. Google Shopper recognizes products by cover art, barcode, voice and text search. You can find local and online prices, reviews, specifications, videos, and more to help you make the best purchasing decision. With one click you can save items to your shopping list and share with your friends."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.RECORD_AUDIO"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.USE_CREDENTIALS"
+    permissionId: "android.permission.MANAGE_ACCOUNTS"
+    permissionId: "com.google.android.apps.shopper.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.WAKE_LOCK"
+    installSize: 2665284
+    packageName: "com.google.android.apps.shopper"
+    category: "Shopping"
+    contactEmail: "shopper-feedback@google.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.google.com/mobile/shopper"
+    screenshotsCount: 8
+    promoText: "Shop smarter with Shopper"
+    recentChanges: "* Bug fixes, UI enhancements and performance improvements."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Google Inc.\""
+  packageName: "com.google.android.apps.shopper"
+  versionCode: 19504
+}
+app {
+  id: "v2:com.target.ui:1:800311"
+  title: "Target"
+  appType: APPLICATION
+  creator: "Target Corporation"
+  version: "3.1.1"
+  rating: "3.8193734"
+  ratingsCount: 7629
+  ExtendedInfo {
+    description: "We totally redesigned and rebuilt the Target App for Android to make shopping and exploring even more enjoyable. The improved speed and navigation lets you get more done more quickly. Stay organized with TargetLists, view our Weekly Ad, check prices with the Barcode Scanner and much more. Now shopping at Target is as easy as tap, tap, done.\n\nNot only can you browse and purchase items right on your phone, the Target App makes it easier to shop in-store too. Create and organize shopping lists, get special offers, check prices and more. You can buy, store and use GiftCards on your phone, and enjoy special features, like voice recognition, to make shopping easier than ever. Looking for something specific? With Map view you can see which Target stores have it in stock and check store hours all at a glance.\n\nFeatures:\n\nShop Target Anywhere.\n\342\200\242     Shop, add to cart and check out, all in a made-for-mobile experience.\n\nWeekly Ad.\n\342\200\242     Do you like deals? Us too. Check out our sale items every week right on your phone.\n\nDaily Deals. \n\342\200\242     Get today\342\200\231s deals instantly. Act fast, save big and get it shipped free.\n\nCoupons.\n\342\200\242     Sign up from the app to get deals sent to you twice a month. No scissors required.\n\nTarget Baby.\n\342\200\242     Easily manage your registry for your little bundle of joy. Then sleep. You\342\200\231ll need it.\n\nTarget Wedding.\n\342\200\242     View your registry, add items and share it with friends and family in a snap. Marital bliss starts here.\n\nTargetLists.\n\342\200\242     Don\342\200\231t forget toothpaste. Use TargetLists to keep track of everything you need. Check items off your list with a tap.\n\nStore Finder.\n\342\200\242     One tap and there it is! Find the nearest Target store, wherever you are.\n\nBarcode and QR Code Scanning.\n\342\200\242     Use your device\342\200\231s camera to get prices and check item availability. Just so you know, barcode scanning doesn\'t work on devices without rear-facing cameras, and may not work as well without autofocus.\n\nGiftCards.\n\342\200\242     It\'s a GiftCard minus the card. Store, use and manage digital GiftCards right on your phone. Even buy and send them to others as gifts.\n\nRatings and Reviews.\n\342\200\242     Check out what fellow shoppers have to say about items you\'re interested in.\n\nPharmacy.\n\342\200\242     Track and refill prescriptions at Target from anywhere, and avoid extra trips to the pharmacy.\n\nFeatured.\n\342\200\242     Check out everything from new arrivals to seasonal specials. It\'s the easy way to stay on top of what\'s hot at Target.\n\nFind Items in Store.\n\342\200\242     Looking for something specific? See if it\'s in stock before you make a trip.\n\nMy Accounts.\n\342\200\242     Manage your REDcard, update your address, see payment information and more."
+    downloadsCount: 0
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.FLASHLIGHT"
+    installSize: 2928763
+    packageName: "com.target.ui"
+    category: "Shopping"
+    contactEmail: "Mobile.Development@Target.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://target.com/anywhere"
+    screenshotsCount: 8
+    promoText: "Can we help you find something? The Target app makes shopping easy & enjoyable."
+    recentChanges: "What\'s new in 3.1.1\n\n\342\200\242 Fixed bug that was causing issues with HoneyComb devices (G Slate)\n\342\200\242 Other minor bug fixes\n\nWhat\'s new in version 3.1\n\nWe appreciate the feedback from guests on the previous versions of the application. Please continue to share your reviews.\n\nUpdates include:\n\n\342\200\242 Create Target Wedding or Baby Registries\n\342\200\242 Shop GiftCards quicker and easier\n\342\200\242 See more accurate and relevant Store Finder results\n\342\200\242 Improved accessibility for Jellybean\n\342\200\242 Minor bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Target Corporation\""
+  packageName: "com.target.ui"
+  versionCode: 800311
+}
+app {
+  id: "v2:com.etsy.android:1:36"
+  title: "Etsy"
+  appType: APPLICATION
+  creator: "Etsy"
+  version: "1.1"
+  rating: "3.5089774"
+  ratingsCount: 1281
+  ExtendedInfo {
+    description: "The official Etsy Android app. \n\nFall in love with Etsy, anywhere. Shop on the go with our free Android app!\n\nDiscover over 17 million unique items from 800,000 sellers around the world.\nExplore what kindred spirits are favoriting on Etsy.\nShop whenever inspiration hits.\nConnect with members of the Etsy community on the go.\n\nEtsy for Android is available in English, German, French, and Dutch.\n\nFor support, go to http://www.etsy.com/help\nHelp report bugs at https://www.etsy.com/teams/7720/bugs/discuss/ \n\nAbout Etsy:\nEtsy is the world\342\200\231s handmade marketplace. Our mission is to empower people to change the way the global economy works. We see a world in which very-very small businesses have much-much more sway in shaping the economy, local living economies are thriving everywhere, and people value authorship and provenance as much as price and convenience. We are bringing heart to commerce and making the world more fair, more sustainable, and more fun. www.etsy.com"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "com.etsy.android.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 2662802
+    packageName: "com.etsy.android"
+    category: "Shopping"
+    contactEmail: "androidsupport@etsy.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.etsy.com"
+    screenshotsCount: 5
+    promoText: "Shop on-the-go with our free Android app!"
+    recentChanges: "What\'s New in 1.1:\nAccess to your favorite items, shops, and Treasuries! \nBug fixes\n\nKnown issues being worked on:\nCan\342\200\231t buy or redeem Gift Cards\nMissing shop management tools for sellers"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "Etsy"
+  packageName: "com.etsy.android"
+  versionCode: 36
+}
+app {
+  id: "v2:com.capigami.outofmilk:1:335"
+  title: "Out of Milk Shopping List"
+  appType: APPLICATION
+  creator: "Capigami, Inc."
+  version: "3.3.5"
+  rating: "4.497681"
+  ratingsCount: 21994
+  ExtendedInfo {
+    description: "Shopping List, Pantry List & To-Do List in a small, intuitive and easy-to-use app. With Out of Milk, your Shopping List stays with you everywhere you go and you\'ll have it on-hand once you\'re ready to go grocery shopping. The Pantry List allows you keep track of your pantry items (spices, essentials, etc...) so that you always know what you have at home. The To-Do list helps you keep track of any other items on your daily list.\n\n\342\230\205 Creating an Out of Milk account, syncing and list sharing is completely FREE \342\230\205\n\nBabble \'#1 of Top 25 Apps For Moms\', Nielsen \'Top 10 Most-Used Shopping Apps\', CNET How To \'Simplify your grocery shopping on Android\', Mashable \'Grocery List Apps That Make Shopping, Syncing Lists Simple\'\n\n### Out of Milk Features ###\n\n-- Standard Features --\n\342\230\205 Multiple shopping & to-do lists\n\342\230\205 Sync and share your shopping lists with others in real-time\n\342\230\205 Access your lists online from anywhere on http://www.outofmilk.com/\n\342\230\205 Save time by grouping items into categories\n\342\230\205 Scan or manually enter items in your shopping lists\n\342\230\205 Plan grocery list\n\342\230\205 Shopping list history remembers items\n\342\230\205 Pantry lists let you inventory anything so you always know what\'s in your pantry\n\342\230\205 Share lists by text or email\n\342\230\205 Move or copy items between shopping list and pantry lists\n\342\230\205 Displays grand total and running total on your shopping list\n\342\230\205 View price history while editing a shopping list item\n\342\230\205 Mark items in your shopping list as tax-free. Out of Milk will also remember your choice for future reference\n\342\230\205 Browse and search local grocery deals, sales and promotions\n\nOn top of all of our standard/free features (that stay free forever), we are also offering a Pro version for only $1.99! Just search for \"out of milk unlocker\" to purchase/install the key that will enable all Pro features. You need both this app and the \"Out of Milk Pro Unlocker\" installed for it to work.\n\n-- Pro Features --\n* Pick from different themes\n* Pick from different fonts\n* Customize tap and long-press actions\n* Widgets - Add list widgets to your homescreens\n* Coupons - Keep track of coupons in your shopping lists\n\nAs an Out Of Milk user, you will also get incredible support from our team which you won\'t get from other apps. So if you have a problem, just email us at support@capigami.com\n\n### Permission Information ###\n* Camera permission is needed for Barcode Scanner. - We only use this permission for the ability to use our barcode scanning feature. We do not record or store any photos or images. This is a basic, required permission.\n\n* Internet access permission is needed to lookup barcodes/product names. Internet access is also needed to sync with the cloud.\n\n* Vibrate permission is needed for To-Do reminder vibrate option.\n\n* Start At Boot - This permission is used so that we can send and receive push notifications in a timely manner. Push notifications are provided by http://www.parse.com in order to ensure a fast and seamless syncing process for our users."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    installSize: 7036349
+    packageName: "com.capigami.outofmilk"
+    category: "Shopping"
+    contactEmail: "support@capigami.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://support.outofmilk.com/"
+    screenshotsCount: 8
+    promoText: "\342\230\205 Best shopping list app for your phone. Featured on Google Play \342\230\205"
+    recentChanges: "v.3.3.5:\n* Minor bug fixes\n\nv3.3.4:\n* Browse and search deals and promotions in your zip code (U.S. users only for now)\n* An enhanced autocomplete lets you add items on the fly. No typing necessary\n* Opening a list is much faster\n* Added ability to undo certain actions\n* Notes are always visible\n* New Category mgmt. screen\n* Enabled lockscreen widget for devices running Android 4.2 and up\n* Easy login using Google Accounts\n* Ability to scan barcodes on devices with only a front-facing camera"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"Capigami, Inc.\""
+  packageName: "com.capigami.outofmilk"
+  versionCode: 335
+}
+app {
+  id: "v2:com.biggu.shopsavvy:1:60086"
+  title: "ShopSavvy Barcode Scanner"
+  appType: APPLICATION
+  creator: "ShopSavvy, Inc."
+  version: "6.1.0"
+  rating: "4.2127504"
+  ratingsCount: 91323
+  ExtendedInfo {
+    description: "Find the right product at the best price! The original, fastest, most accurate and comprehensive scanner on Android.\n\nAim the camera at any product\'s barcode, wait for the beep and ShopSavvy will provide you with a list of online and local prices.\n\n\n**** Media Reviews ****\n\n\342\200\234[Users] can make sure they\342\200\231re getting the best prices with ShopSavvy, a free app that can scan a barcode and pull up prices of that item at competing retail shops.\342\200\235 - NY Times\n\n\"This is one of the best barcode apps for Android.\" - Gizmodo\n\n\n*** Features \342\200\223 More than a barcode scanner ***\n\n-- Search and Scan --\n* Fast barcode scan (all UPC, EAN and QR formats) using multiple orientations.\n* Search by keywords. If you don\342\200\231t have a barcode, type in the title and search.\n* Community-powered. If we are missing a barcode, you can add it to our system. \n* Multicurrency (USD, EUR, GBP).\n* Organize your searches in lists.\n\n-- Prices --\n* Find the lowest online or local price \n* Search across more merchants in North America and Europe than any other app. \n* Tap into almost every major retailer.\n* If we don\342\200\231t have the correct price from a retailer, you can help us fix it. Just edit and submit for review.\n\n-- Buy Online --\n* If you find a deal, buy it directly from the merchant ecommerce site or save it to buy online later. \n\n-- Shop Locally --\n* Get retailer location, directions, and phone number.\n* Price match at local merchants. View price matching policies when available.\n* Look for the \"blue dot\" next to a store or price to know if a product is in stock.\n\n-- Deals --\n* View shipping promos, coupon codes, rebates, weekend sales and more\n* See special offers and new features\n* View local Groupon offers of the day\n\n-- Share and Save --\n* Share products, prices and lists with friends by email, Facebook, or Twitter.\n* Write your own product reviews.\n\n\nalt: shop savy savvy savey christmas shopping black friday"
+    downloadsCount: 0
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "com.biggu.shopsavvy.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 10347770
+    packageName: "com.biggu.shopsavvy"
+    category: "Shopping"
+    contactEmail: "androidsupport@shopsavvy.mobi"
+    downloadsCountText: ">250,000"
+    contactPhone: "+12145503555"
+    contactWebsite: "http://shopsavvy.mobi"
+    screenshotsCount: 4
+    promoText: "The original barcode scanner for Android. Find the best online and local prices."
+    recentChanges: "-An all new product page, with additional photos, videos and more important details on the products you want to buy.\n-Improved image quality throughout the app\n-Improved the app speed, and reduced the load time of the app\n-Increased App stability\n-Bug Fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"ShopSavvy, Inc.\""
+  packageName: "com.biggu.shopsavvy"
+  versionCode: 60086
+}
+app {
+  id: "v2:com.bestbuy.android:1:653"
+  title: "Best Buy"
+  appType: APPLICATION
+  creator: "Best Buy, Inc."
+  version: "6.5.3"
+  rating: "4.266874"
+  ratingsCount: 43084
+  ExtendedInfo {
+    description: "Where technology meets a simpler, more convenient way to shop Best Buy. The newest version of the Best Buy App lets you gain instant Reward Zone Membership access, browse our entire product catalog, compare specs,  find the best deals and much more. Now shopping in-store is as easy as tapping on your phone."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_MOCK_LOCATION"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.SEND_SMS"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "com.bestbuy.android.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 4804400
+    packageName: "com.bestbuy.android"
+    category: "Shopping"
+    contactEmail: "bestbuymobileapps@bestbuy.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://m.bestbuy.com"
+    screenshotsCount: 3
+    promoText: "Making Technology Work For You."
+    recentChanges: "\342\200\242 We\342\200\231ve given our app a facelift to make a better customer experience with the same great features.\n\342\200\242 Access your Reward Zone account information, redeem certificates and check your points balance.\n\342\200\242 Check out the new All Deals section where you can view the Weekly Ad, see the latest Featured Offers, or even check out our current in-store Clearance and Open Box product inventory.\n\342\200\242 You can now also opt-in for push notifications to receive real-time updates for the Deals of the Day!"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Best Buy, Inc.\""
+  packageName: "com.bestbuy.android"
+  versionCode: 653
+}
+app {
+  id: "v2:com.trixiesoft.clapp:1:31"
+  title: "Craigslist for Android (CLapp)"
+  appType: APPLICATION
+  creator: "Trixiesoft"
+  version: "2.6.3"
+  rating: "4.3708744"
+  ratingsCount: 10362
+  ExtendedInfo {
+    description: "CLapp attempts to be the easiest to use and the most visually appealing Craigslist search application in the Marketplace and is written by a Craigslist addict for Craigslist addicts, this isn\'t my day job!\n\nKey features:\n - Tabbed views for search, bookmarked searches, favorite items or just browse\n - Modern simple user interface, just swipe between views\n - Search MULTIPLE Craigslist locations, choose by via a full list, proximity or recently searched locations.\n - Bookmark your searches and mark favorite ads.\n - Image preview, large, small turn them off to save on Internet usage\n - Image gallery that allows you to share an image, zoom or pan to get a better look\n - Reply to Ad poster while viewing the ad via Email, Phone or Text Message!  \n - Share the ad with a friend\n - Tablet Support\n\302\240- Beta feature: see a map of the location of that item, see if it\'s worth getting!\n\nNote to all those concerned about privacy!\nWe don\'t do ANYTHING to read or transmit your private data, we do not sell your private data, location is used only used passively (we don\'t turn on the GPS) for the Nearest Location feature in helping you select your search location and for targeted ads in the search results. Some phone information its needed only to do the sending of email, text messages and dialing the phone when contacting the person who placed an ad (at your request).  We show the one ad on the results page and collect nothing about you.  We\'ll be placing a blog post on the subject in the near future on our web site.\n\nOther features:\n\nAdd background searching and notifications using the CLapp Notify add-on app. Downloadable for free from the Android Market.\n\nPlease give us feedback!  We\'d love to ad more features that will make your craigslist experience even better! If you don\'t like something shoot us an email and we\'ll see what we can do. If you can\'t rate it 5 out of 5 there is something we can do.\n\nAnd if you could, click on an ad once in a while, it gives us a few dollars for our efforts.\n\nThank you for trying out our app!"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_MOCK_LOCATION"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 1940324
+    packageName: "com.trixiesoft.clapp"
+    category: "Shopping"
+    contactEmail: "support@trixiesoft.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.trixiesoft.com"
+    screenshotsCount: 8
+    promoText: "CLapp attempts to be the easiest to use and the most visually appealing Craigslist search application in the Marketplace and is written by a Craigslist addict for Craigslist addicts, this isn\'t my day job!\n\nKey features:\n - Tabbed views for search, bookmarked searches, favorite items or just browse\n - Modern simple user interface, just swipe between views\n - Search MULTIPLE Craigslist locations, choose by via a full list, proximity or recently searched locations.\n - Bookmark your searches and mark favorite ads.\n - Image preview, large, small turn them off to save on Internet usage\n - Image gallery that allows you to share an image, zoom or pan to get a better look\n - Reply to Ad poster while viewing the ad via Email, Phone or Text Message!  \n - Share the ad with a friend\n - Tablet Support\n\302\240- Beta feature: see a map of the location of that item, see if it\'s worth getting!\n\nNote to all those concerned about privacy!\nWe don\'t do ANYTHING to read or transmit your private data, we do not sell your private data, location is used only used passively (we don\'t turn on the GPS) for the Nearest Location feature in helping you select your search location and for targeted ads in the search results. Some phone information its needed only to do the sending of email, text messages and dialing the phone when contacting the person who placed an ad (at your request).  We show the one ad on the results page and collect nothing about you.  We\'ll be placing a blog post on the subject in the near future on our web site.\n\nOther features:\n\nAdd background searching and notifications using the CLapp Notify add-on app. Downloadable for free from the Android Market.\n\nPlease give us feedback!  We\'d love to ad more features that will make your craigslist experience even better! If you don\'t like something shoot us an email and we\'ll see what we can do. If you can\'t rate it 5 out of 5 there is something we can do.\n\nAnd if you could, click on an ad once in a while, it gives us a few dollars for our efforts.\n\nThank you for trying out our app!"
+    recentChanges: "** Version 2.6.3 \n- Fixes a bad update file (2.6.2) \n\n** Version 2.6.2 **\n- Several bug fixes\n\n** Version 2.6.1 **\n- Bug fixes to handle images stemming from updates to the web site\n- Several crash fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Trixiesoft"
+  packageName: "com.trixiesoft.clapp"
+  versionCode: 31
+}
+app {
+  id: "v2:com.whaleshark.retailmenot:1:1104"
+  title: "RetailMeNot Coupons"
+  appType: APPLICATION
+  creator: "WhaleShark Media, Inc"
+  version: "1.1"
+  rating: "4.4153156"
+  ratingsCount: 3578
+  ExtendedInfo {
+    description: "The RetailMeNot Coupons app features a huge variety of coupons, deals and special offers to the stores and restaurants you love most. It\342\200\231s never been easier to snag a free shipping code or to score an in-store coupon directly from your phone. Our mobile coupons app boasts the biggest arsenal of top coupon categories for use on the go or to save and use later. As the #1 coupon site in the world, our promo codes and deals deliver the best savings on clothes, electronics, food, entertainment and more! What are you waiting for? Get our free coupons app today.\n\nRetailMeNot.com\342\200\224Save When You Want, Where You Want\342\204\242\n\nThe RetailMeNot Coupons app makes it easy to save when you want, where you want at all your favorite stores. Search from hundreds of thousands of online and in-store coupons\342\200\224whether you\342\200\231re on the go or in the comfort of your home. \n\n\nBrowse the RetailMeNot Top Coupons, Popular Stores, Categories and Today\342\200\231s Hot Deals. Save online with simple tap-to-use code redemption for a seamless mobile experience. Save in the store by presenting the coupon directly from your phone to your cashier. Not ready to make a purchase yet? It\'s easy to save your coupons for later. \n\n\nFeatures:\n\342\200\242 Explore tens of thousands of stores, with new stores added daily.\n\342\200\242 Choose from hundreds of thousands of coupons.\n\342\200\242 Browse using RetailMeNot\342\200\231s Top Coupons, Popular Stores, Categories and Today\'s Hot Deals.\n\342\200\242 Discover our highest-quality coupons highlighted by community-powered success ratings.\n\342\200\242 Redeem online coupon codes with a simple tap-to-use feature for seamless on-the-go savings. \n\342\200\242 Redeem in-store coupons at checkout directly from your phone. \n\342\200\242 Save coupons for later if you\'re not quite ready to make a purchase. \n\342\200\242 Share coupons and deals with your friends.\n\342\200\242 No login or sign-up required."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 6535834
+    packageName: "com.whaleshark.retailmenot"
+    category: "Shopping"
+    contactEmail: "appsupport@retailmenot.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.retailmenot.com/contact"
+    screenshotsCount: 5
+    promoText: "Save When You Want, Where You Want\342\204\242"
+    recentChanges: "v1.1 changes:\n* Tablet support.\n* Now save coupons directly from coupon lists.\n* Showcasing more in-store coupons.  You can share feedback about merchants that don\'t have in-store or online coupons\n* Slide to reveal menu.  Grab the edge of the screen and swipe right to access the menu\n* Other stability improvements\n\nv1.0.5 improvements:\n* Fixed force closes reported in crash reports\n* Other stability improvements"
+    promotionalVideo: "http://www.youtube.com/watch?v=yYJWM6dJsSs&feature=youtu.be"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"WhaleShark Media, Inc\""
+  packageName: "com.whaleshark.retailmenot"
+  versionCode: 1104
+}
+app {
+  id: "v2:com.amazon.pricecheck:1:14"
+  title: "Price Check by Amazon"
+  appType: APPLICATION
+  creator: "Amazon Mobile LLC"
+  version: "1.2"
+  rating: "4.276786"
+  ratingsCount: 1120
+  ExtendedInfo {
+    description: "Use Price Check to scan a barcode, snap a picture, or type or say an item name to check prices instantly on millions of Amazon products and buy it directly from the app. And to make in-store price comparison even better, we\342\200\231re introducing a new price sharing feature that helps ensure our prices remain competitive for our customers. \n\nSearch for products using four easy methods: \n\342\200\242 Scan a barcode: Amazon\342\200\231s barcode scanner will match your item and provide Amazon and merchant product pricing in seconds.\n\342\200\242 Snap a picture: This app uses Amazon\342\200\231s photo matching algorithm to instantly match your picture to books, DVDs, CDs, video games, and more. \n\342\200\242 Say the product name: Speak your search queries and use voice search to return accurate product matches and Amazon\342\200\231s pricing.\n\342\200\242 Type your search: Type the product name to retrieve instant matches.\n\342\200\242 Buy directly from the app: Buy with confidence and complete a secure purchase directly from the app.\nPrice Check provides access to Amazon.com product descriptions and customer reviews to guide you in making informed purchase decisions. When you find a low price while using the Price Check app, simply log into your Amazon account to complete a secure purchase. Price Check also supports add to Wish List; sharing via Twitter, Facebook, text message or e-mail link; immediate purchasing using 1-Click ordering and Amazon Prime. \nAll products are from the US catalog; all prices are in US dollars. Price Check is compatible with Android devices with auto-focus cameras and Android 2.1 or greater.\nThe categories available within Price Check include: Books, Textbooks, Movies, Music, Video Games, CDs, Electronics, Home & Garden, Automotive, Baby, Beauty, Camera & Photo, Cell Phone & Services, Clothing, Computers, Grocery, Health & Personal Care, Home Improvement, Industrial & Scientific, Jewelry, Kindle, Kitchen & Dining, Magazines, Music Instruments, Office Products, Patio & Garden, Shoes, Software, Sports & Outdoors, Video, & Watches.\n\n* Copyright: \302\251 2011 Amazon.com and its affiliates."
+    downloadsCount: 0
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.RECORD_AUDIO"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    installSize: 3263732
+    packageName: "com.amazon.pricecheck"
+    category: "Shopping"
+    contactEmail: "feedback-pricecheck-android-us@amazon.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.amazon.com/"
+    screenshotsCount: 6
+    promoText: "Use Price Check to scan a barcode, snap a picture, or type or say an item name to check prices instantly on millions of Amazon products and buy it directly from the app. And to make in-store price comparison even better, we\342\200\231re introducing a new price sharing feature that helps ensure our prices remain competitive for our customers. \n\nSearch for products using four easy methods: \n\342\200\242 Scan a barcode: Amazon\342\200\231s barcode scanner will match your item and provide Amazon and merchant product pricing in seconds.\n\342\200\242 Snap a picture: This app uses Amazon\342\200\231s photo matching algorithm to instantly match your picture to books, DVDs, CDs, video games, and more. \n\342\200\242 Say the product name: Speak your search queries and use voice search to return accurate product matches and Amazon\342\200\231s pricing.\n\342\200\242 Type your search: Type the product name to retrieve instant matches.\n\342\200\242 Buy directly from the app: Buy with confidence and complete a secure purchase directly from the app.\nPrice Check provides access to Amazon.com product descriptions and customer reviews to guide you in making informed purchase decisions. When you find a low price while using the Price Check app, simply log into your Amazon account to complete a secure purchase. Price Check also supports add to Wish List; sharing via Twitter, Facebook, text message or e-mail link; immediate purchasing using 1-Click ordering and Amazon Prime. \nAll products are from the US catalog; all prices are in US dollars. Price Check is compatible with Android devices with auto-focus cameras and Android 2.1 or greater.\nThe categories available within Price Check include: Books, Textbooks, Movies, Music, Video Games, CDs, Electronics, Home & Garden, Automotive, Baby, Beauty, Camera & Photo, Cell Phone & Services, Clothing, Computers, Grocery, Health & Personal Care, Home Improvement, Industrial & Scientific, Jewelry, Kindle, Kitchen & Dining, Magazines, Music Instruments, Office Products, Patio & Garden, Shoes, Software, Sports & Outdoors, Video, & Watches.\n\n* Copyright: \302\251 2011 Amazon.com and its affiliates."
+    recentChanges: "Bug fixes."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Amazon Mobile LLC\""
+  packageName: "com.amazon.pricecheck"
+  versionCode: 14
+}
+
+app {
+  id: "v2:com.froogloid.kring.google.zxing.client.android:1:89"
+  title: "Key Ring Reward Cards"
+  appType: APPLICATION
+  creator: "Mobestream Media"
+  version: "6.0.5"
+  rating: "4.1273317"
+  ratingsCount: 29804
+  ExtendedInfo {
+    description: "Key Ring Features:\n\342\200\242 Add all your loyalty/reward cards\n\342\200\242 FREE Coupons from the top retailers!  % Off, $ Off, BOGO\n\342\200\242 Now supports online coupon codes \n\342\200\242 Share cards with family members \n\342\200\242 Supports 1,500 + programs\n\342\200\242 Join new reward programs\n\342\200\242 Barcode scanner\n\342\200\242 Free lifetime backup of cards \n\342\200\242 Homescreen widget\n\342\200\242 Grocery coupons for 29 chains(v 2.1 and above)  \n\342\200\242 Store locator, notes, community info, store info\n\nUpdate Help:  If you receive a \"app signed not correctly\" error this means you have the amazon app store version installed.  Make sure you have an account, uninstall the amazon version and then install the android version.  This will fix the error. \n\nAs seen in: USA Today, Oprah, Money Magazine, Real Simple, Mashable, Lifehacker, Entrepreneur Magazine, PC World, Men\'s Health, CNBC, Fox Business, Time, Parade, Wall Street Journal, NY Times, LA Times, Wired, TLC, ABC news, and various others.  \n\nSearch: keyring, keyringapp, keychain, key chain, keychainapp, deals, offers, coupon, cellfire, keytag, card, deals, grocery, savings, black friday"
+    downloadsCount: 0
+    permissionId: "com.android.launcher.permission.INSTALL_SHORTCUT"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WRITE_SETTINGS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "com.froogloid.kring.google.zxing.client.android.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3753051
+    packageName: "com.froogloid.kring.google.zxing.client.android"
+    category: "Shopping"
+    contactEmail: "info@keyringapp.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.keyringapp.com"
+    screenshotsCount: 8
+    promoText: "Save All Loyalty Cards to Your Phone Using the #1 Loyalty Card Mgmt App Key Ring"
+    recentChanges: "Ver 6.0.5 - \n\342\200\242 Fixed barcode scanner for Nexus 4\n\nVer 6.0.4 - \n\342\200\242 Minor bug fixes\n\nVer 6.0 - \n\342\200\242 Flag cards as favorites to move to top of list\n\342\200\242 Add gift cards & pin\n\342\200\242 Card category indicators in list view\n\nVer 5.9.2 - \n\342\200\242 Completely new high performance barcode scanner\n\342\200\242 Ability to scan PDF417 (Walgreens) and Codabar (Library)\n\342\200\242 Fixed zoom issue for Razr & others\n\nVer 5.8.3 - \n\342\200\242 Added navigation buttons to make browsing circulars easier\n\342\200\242 Card list now has circular inidicators (icons)"
+    promotionalVideo: "http://www.youtube.com/watch?v=m3WlTLK3PVE"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Mobestream Media\""
+  packageName: "com.froogloid.kring.google.zxing.client.android"
+  versionCode: 89
+}
+app {
+  id: "v2:com.thehomedepot:1:10"
+  title: "The Home Depot"
+  appType: APPLICATION
+  creator: "The Home Depot, Inc."
+  version: "3.5"
+  rating: "3.7363572"
+  ratingsCount: 2822
+  ExtendedInfo {
+    description: "More saving. More doing. On the go.\n\nENHANCED SHOPPING FROM YOUR MOBILE DEVICE\nBrowse and shop for over 350,000 home improvement products: appliances, bathroom, decorating ideas, kitchen remodeling, patio furniture, power tools, BBQ grills, carpeting, lumber, concrete, lighting, ceiling fans and more!\n\nAlso, check inventory for your local store or nearby stores and view the aisle location for most products that are sold in stores.\nBUY NOW. PICK UP IN STORE\nThe Home Depot\'s Pick Up In Store option offers you the convenience of placing an order on homedepot.com and subsequently picking up your item(s) at a Home Depot store location. This feature not only saves you shipping charges but also helps you expedite any time-sensitive projects.  \n\nVOICE SEARCH\nSimply speak the item into our search for a fast and convenient way to find what you need.\n\nSTORE LOCATOR & MAP\nFind the closest Home Depot location by using our Store Finder.  It also includes directions, store phone number, and hours of operation.  Once you are in the store, use the in-store map to help you get where you need to go.\n\nREVIEWS\nUse the barcode reader to scan an item and read what other customers have to say.  Use the Home Depot app to write your own reviews and even upload an image."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.RECORD_AUDIO"
+    permissionId: "android.permission.BLUETOOTH"
+    permissionId: "com.thehomedepot.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 2428163
+    packageName: "com.thehomedepot"
+    category: "Shopping"
+    contactEmail: "onlinecustomercare@homedepot.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18004663337"
+    contactWebsite: "http://www.homedepot.com"
+    screenshotsCount: 6
+    promoText: "Research and purchase over 300,000 products directly from The Home Depot."
+    recentChanges: "In our last release, we added the ability to save Home Depot workshops to your calendar for convenience. Unfortunately, by adding this feature we were labeled with some pretty generic and scary permissions that caused concern with a lot of users.  While we really thought this feature was helpful, we have decided to remove it and therefore eliminate the need for the extra permissions.  We apologize for any confusion this caused\342\200\246"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"The Home Depot, Inc.\""
+  packageName: "com.thehomedepot"
+  versionCode: 10
+}
+app {
+  id: "v2:com.zappos.android:1:34"
+  title: "Zappos"
+  appType: APPLICATION
+  creator: "Zappos.com"
+  version: "2.8.0"
+  rating: "4.505237"
+  ratingsCount: 8497
+  ExtendedInfo {
+    description: "Zappos.com just made it possible for you to go shopping without putting your pants on! We\342\200\231ve worked overtime to create the same awesome experience you get on our website with the added convenience of portability.\n\nNow you can get the latest styles for men, women, and children, plus free shipping and free returns, all in the palm of your hand! Browse footwear, clothing, bags, accessories, housewares, and cosmetics from top brands like Nike, The North Face, UGG\302\256 Australia, Frye, Clarks, and Stuart Weitzman!\n\nOur app includes express checkout, and allows you to track your order and initiate returns. It also enables you to find similar items to the ones you\342\200\231re browsing from every product page! \n\nAnd if that\342\200\231s not enough to WOW you, you\342\200\231ll get 24/7 access to world-class customer service with our mobile-device-dedicated customer support team. Throw in a staggering 365-day return policy, and you\342\200\231ve got yourself a party!\n(And since you don\342\200\231t have your pants on, it should be a fun one\342\200\246)"
+    downloadsCount: 0
+    permissionId: "android.permission.NFC"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.zappos.android.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    installSize: 5504789
+    packageName: "com.zappos.android"
+    category: "Shopping"
+    contactEmail: "cs-mobile@zappos.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18779272335"
+    contactWebsite: "http://twitter.com/#!/Zappos_Mobile"
+    screenshotsCount: 8
+    promoText: "Free shipping and returns on shoes, clothing, housewares and more!"
+    recentChanges: "- We optimized your account pages. Watch for more features soon!\n- Whole new favorites with much better scrolling.\n- You have a coupon manager in your cart - no more guessing what your code is!\n- Phones that run Android 4.0.4 or newer and support NFC... now have NFC sharing in several places."
+    promotionalVideo: "http://www.youtube.com/watch?v=U-oNyK9kl_Q&feature=youtu.be"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "Zappos.com"
+  packageName: "com.zappos.android"
+  versionCode: 34
+}
+app {
+  id: "v2:com.shopkick.app:1:52"
+  title: "shopkick: rewards for shopping"
+  appType: APPLICATION
+  creator: "Treat Yourself While Shopping."
+  version: "3.3.1"
+  rating: "4.328026"
+  ratingsCount: 70656
+  ExtendedInfo {
+    description: "Join the more than 4 million users who love shopkick. You get rewarded for the shopping you already do. Earn kicks (reward points) just for walking into stores like Target, Macy\'s, Best Buy, Old Navy, American Eagle and Crate&Barrel. Get even more kicks when you scan items and make purchases.You\'ll also find great products, discounts, and deals in the app. It\342\200\231s a magical experience, and it\'s free.\n\nYou can use your kicks anytime to treat yourself with a free latte at Starbucks, gift cards at many stores, iTunes song downloads, even designer merchandise and trips. Give shopkick a try. You\'ve got nothing to lose. We think you\'re going to love it."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.RECORD_AUDIO"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.BLUETOOTH"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.READ_SMS"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.shopkick.app.permission.C2D_MESSAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    installSize: 11954129
+    packageName: "com.shopkick.app"
+    category: "Shopping"
+    contactEmail: "feedback@shopkick.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.shopkick.com"
+    screenshotsCount: 5
+    promoText: "shopkick - Treat Yourself."
+    recentChanges: "Browse and save your favorite products before you go to the store. \n\nUnlock special offers, videos, and more after scanning products in the store. \n\nAdditional bug fixes, UI improvements, and optimizations."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Treat Yourself While Shopping.\""
+  packageName: "com.shopkick.app"
+  versionCode: 52
+}
+app {
+  id: "v2:com.lowes.android:1:39"
+  title: "Lowe\'s"
+  appType: APPLICATION
+  creator: "Lowe\'s"
+  version: "2.1"
+  rating: "3.7688112"
+  ratingsCount: 917
+  ExtendedInfo {
+    description: "Finally, an app worthy of your toolbox. The handy Lowe\342\200\231s app allows you to shop for your favorite products, review ratings, create lists, locate the closest store, and access inspiring photos and how-to videos.\n\nLooking for a way to customize home improvement?\nWith MyLowe\342\200\231s, you can view your purchase history and Home Profile, create shopping lists so you\342\200\231re always ready for your next project and store your MyLowe\342\200\231s card for use on the go.\n\nThis handy Lowe\342\200\231s app enables you to shop the entire online catalog, read product information, make your purchase for in-store pickup or have items delivered to your home.\n\nWondering what everyone else is thinking?\nSee what others are saying with real-time ratings and reviews. Get the inside scoop on products and how others use them to accomplish their DIY dreams.\n\nNot sure which way to go?\nGet driving directions to your closest stores via GPS, or find a Lowe\342\200\231s on the go by entering your city and state into the store locator. \n\nLooking for a little inspiration?\nView designer rooms outfitted with the latest styles, and entice your imagination to create your own work of art.  \n\nWant to see how it\342\200\231s done? \nView useful how-to videos on the Lowe\342\200\231s YouTube channel.\n\nItching to scan something?\nActivate in-store barcodes and Microsoft Tags with scanning capabilities. Buy now, access ratings and reviews, watch videos and more."
+    downloadsCount: 0
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 4232404
+    packageName: "com.lowes.android"
+    category: "Shopping"
+    contactEmail: "LowesMobileSupport@lowes.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.lowes.com"
+    screenshotsCount: 5
+    promoText: "Shop products, review ratings, access your MyLowe\342\200\231s account and find a store."
+    recentChanges: "* Modified Folders and Lists in MyLowe\'s to simplify the experience \n* Added the ability to upload photos (up to 10 mbs) from your device to your MyLowe\'s Lists and Home Profile\n* Added the ability to view photos uploaded on Lowes.com in your MyLowe\'s Lists and Home Profile \n* Added the ability to view notes saved to files uploaded on Lowes.com in your MyLowe\'s Lists and Home Profile\n* Added an additional permission (Storage) so photos can be uploaded from your device"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Lowe\'s"
+  packageName: "com.lowes.android"
+  versionCode: 39
+}
+app {
+  id: "v2:com.amazon.ember.android:1:1"
+  title: "AmazonLocal"
+  appType: APPLICATION
+  creator: "Amazon Mobile LLC"
+  version: "1.0"
+  rating: "4.5226784"
+  ratingsCount: 463
+  ExtendedInfo {
+    description: "AmazonLocal offers customers awesome deals so they can enjoy deep discounts not only from local businesses, but also from national chains and online merchants. We deliver savings of up to 75% on restaurants, spas, events, travel getaways, hotels and more so you can enjoy familiar favorites and new experiences in your city.\n\nDownload the AmazonLocal Android app to:\n\342\200\242 View and buy deals within seconds on your Android smartphone\n\342\200\242 Use deals directly without printing vouchers\n\342\200\242 Set preferences to get deals tailored for you \n\nWith our nifty app you can:\n\342\200\242 Quickly mark deals as used and see your unused deals\n\342\200\242 Receive notifications for deals\n\342\200\242 Decide whether you\342\200\231d like to receive emails or push notifications or both for your cities\n\342\200\242 Lock the app with a passcode for added security\n\342\200\242 Share deals with your friends and family \n\nTerms of Use: http://local.amazon.com/terms"
+    downloadsCount: 0
+    permissionId: "com.amazon.android.push.NOTIFICATION"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.USE_CREDENTIALS"
+    permissionId: "android.permission.MANAGE_ACCOUNTS"
+    permissionId: "android.permission.AUTHENTICATE_ACCOUNTS"
+    permissionId: "com.amazon.dcp.sso.permission.account.changed"
+    permissionId: "com.amazon.dcp.sso.permission.AMAZON_ACCOUNT_PROPERTY"
+    permissionId: "com.amazon.dcp.sso.permission.AmazonAccountPropertyService.property.changed"
+    permissionId: "com.amazon.dcp.sso.permission.USE_DEVICE_CREDENTIALS"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "com.amazon.identity.auth.device.perm.AUTH_SDK"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.amazon.ember.android.permission.C2D_MESSAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 4536789
+    packageName: "com.amazon.ember.android"
+    category: "Shopping"
+    contactEmail: "amazon-local-cs@amazon.com"
+    downloadsCountText: "50,000-250,000"
+    contactPhone: "+18663952090"
+    contactWebsite: "http://local.amazon.com"
+    screenshotsCount: 4
+    promoText: "Save up to 75% on restaurants, spas, getaways, hotels and more in your city."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Amazon Mobile LLC\""
+  packageName: "com.amazon.ember.android"
+  versionCode: 1
+}
+app {
+  id: "v2:com.newegg.app:1:16"
+  title: "Newegg Mobile"
+  appType: APPLICATION
+  creator: "Newegg Inc."
+  version: "2.1.0"
+  rating: "4.327601"
+  ratingsCount: 5931
+  ExtendedInfo {
+    description: "The Newegg Mobile application allows Android users to search, shop, read reviews and make purchases on Newegg.com. \nOnce you know, you Newegg\302\256.\n\nFeatures:\n- Comprehensive product specifications.\n- 1.7+ millions customer reviews.\n- Detailed item image gallery.\n- Quick and simple shopping flow.\n- Simple and quick search function.\n* Search by category\n* Guided search\n* Advanced search\n* Sorting\n- Good for deal hunting: Shell Shockers, Daily Deals and Free Shipping.\n- All purchases made on Newegg Mobile are routed through Newegg\'s secure servers."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    installSize: 2314583
+    packageName: "com.newegg.app"
+    category: "Shopping"
+    contactEmail: "NeweggAndroidMaster@newegg.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.newegg.com"
+    screenshotsCount: 8
+    promoText: "The Newegg Mobile application allows Android users to search, shop, read reviews and make purchases on Newegg.com. \nOnce you know, you Newegg\302\256.\n\nFeatures:\n- Comprehensive product specifications.\n- 1.7+ millions customer reviews.\n- Detailed item image gallery.\n- Quick and simple shopping flow.\n- Simple and quick search function.\n* Search by category\n* Guided search\n* Advanced search\n* Sorting\n- Good for deal hunting: Shell Shockers, Daily Deals and Free Shipping.\n- All purchases made on Newegg Mobile are routed through Newegg\'s secure servers."
+    recentChanges: "- Add Newegg Preferred Account to help you shop smart.\n- Bug fixes."
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"Newegg Inc.\""
+  packageName: "com.newegg.app"
+  versionCode: 16
+}
+app {
+  id: "v2:com.zoomingo:1:32"
+  title: "Zoomingo - Local Sales & Deals"
+  appType: APPLICATION
+  creator: "Top Local App for Fashion, Home, & Electronics"
+  version: "3.16"
+  rating: "4.458309"
+  ratingsCount: 5217
+  ExtendedInfo {
+    description: "The #1 TOP RATED shopping app for finding the best LOCAL deals! Featured on Oprah, USA Today, CNBC, FOX, Forbes and Cosmopolitan, Zoomingo is the perfect app for making your New Year\342\200\231s Resolutions come true at a great price.  Discover great local deals on fashion, home, electronic and fitness items at 80+ national retailers like Macy\342\200\231s, Walmart, Nordstrom, Target, JC Penney, Kohl\342\200\231s, H&M, Best Buy, Toys R Us, Sears, Sports Authority, REI, Staples and many others. We do all the hard work of poring through weekly ads and catalogs to identify the best deals and savings in a fun, easy to browse app.\n\n\342\200\242\tOptimized for both smartphones and tablets. Zoomingo is featured as a MUST HAVE Tablet App on Google Play \n\342\200\242\tPlan your shopping whether at home or at the shopping mall. Zoomingo utilizes your phone\342\200\231s GPS to locate the best deals and discounts at stores and malls near you. No cumbersome barcode scanning required!\n\342\200\242\tSave your favorite deals and coupons to a shopping list that you can take while shopping. Handy store maps provide the directions to the closest store. Receive an alert for the deal or coupon you saved when you visit the mall.\n\342\200\242\tZoomingo makes shopping fun too with Daily and Weekly prizes and rewards! Play our fun \342\200\234Hot or Not\342\200\235 game and earn points towards an exciting Weekly Prize. Go to the mall and play our new Spin N\342\200\231 Win game for a chance to win a daily cash prize\n\342\200\242\tFind great online deals too with our \342\200\234Pinterest Picks\342\200\235 section. Like an item but not the price, \342\200\234Watch it\342\200\235 and we will send you a sale alert when it drops in price.\n\342\200\242\tCheckout our \342\200\234Today\342\200\231s Markdowns\342\200\235 section for items that have gone on sale in the last 24 hours. Grab them before they are gone!\n\nHere\342\200\231s what Cosmopolitan had to say:\n\342\200\234$$$ - Saving App. Searching for the hot new dress (on sale) to wear tonight? Zoomingo, a free app, lets you see the best deals in stores right around you.\342\200\235\n\nLife Lift \342\200\223 The Oprah Blog\n\342\200\234Best bargain hunting strategies\342\200\235\n\nCNBC\nA Stress-Free Holiday Is Only One App Away\n\nFox Business\nBest Black Friday App\n\nForbes\nBest Apps for Black Friday Shopping\n\nTechcrunch\n\342\200\234With a focus on clothes, shoes, jewelry, handbags, beauty and home products, the app appeals to the everyday bargain shopper\342\200\235\n\342\200\234I was pleasantly surprised to find a ton of deals in my area for everything from kid\342\200\231s toys to new handbags to beauty items and much more\342\200\235"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "com.zoomingo.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 4984438
+    packageName: "com.zoomingo"
+    category: "Shopping"
+    contactEmail: "support@zoomingo.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+14256438405"
+    contactWebsite: "http://www.zoomingo.com"
+    screenshotsCount: 6
+    promoText: "Find the best local sales around you"
+    recentChanges: "This release includes fixes and improvements,to personalize the application to find more deals and stores that are relevant for you."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Top Local App for Fashion, Home, & Electronics\""
+  packageName: "com.zoomingo"
+  versionCode: 32
+}
+app {
+  id: "v2:com.avantar.wny:1:53"
+  title: "White & Yellow Pages"
+  appType: APPLICATION
+  creator: "Yellow Pages Directories"
+  version: "4.1.6"
+  rating: "4.296289"
+  ratingsCount: 10024
+  ExtendedInfo {
+    description: "White & Yellow Pages, the best of both worlds. Cool & simple navigation. Speak or type your search. Look for people or businesses by name or land-line phone number. Includes GPS-enabled driving directions, add contacts, save favorites, track history, and when available the links to business\' websites. \n\nMillions can\'t be wrong. There is a reason why White & YellowPages is a Top 30 most-downloaded Android app. Collectively, over eighty million monthly listings are served to our users.\n\nFEATURES\n- Tons of Ratings and Reviews.\n- Select restaurants include menus and reservations.\n- Save money with our Deal Section.\n- Movies: \342\200\234Showtimes\342\200\235 integration includes trailers, descriptions, posters, ratings, driving direction, plot, etc.\n- Location auto detect or custom location.\n- Results based on distance from you.\n- Add business info to your Contacts.\n- Share through Facebook, Twitter, email, and SMS.\n- Mapping for every business.\n- Turn-by-turn voice navigation options.\n- Easy shortcuts for most commonly used search terms like Pizza, Auto Services, Doctors, Restaurants, etc.\n- When available, business:\n- Ratings \n- Descriptions \n- Logo \n- Website \n- More.\n\nWe greatly appreciate your feedback. Please email us with your ideas or comments.\n\nThis is an Avantar app."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_GPS"
+    permissionId: "android.permission.ACCESS_ASSISTED_GPS"
+    permissionId: "android.permission.ACCESS_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_CONTACTS"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_CALL_LOG"
+    installSize: 3829187
+    packageName: "com.avantar.wny"
+    category: "Shopping"
+    contactEmail: "androidsupport@avantar.us"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.Avantar.us"
+    screenshotsCount: 6
+    promoText: "The best of both worlds. Millions of users can\'t be wrong."
+    recentChanges: "* General improvements, bug fixes, a better app :)\n\nThank you for your feedback, they help us deliver a better product for you, keep the feedback coming! \n\nWrite to us at androidsupport@yellowpagesdir.com"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Yellow Pages Directories\""
+  packageName: "com.avantar.wny"
+  versionCode: 53
+}
+app {
+  id: "v2:com.ScanLife:1:36"
+  title: "ScanLife Barcode & QR Reader"
+  appType: APPLICATION
+  creator: "Scanbuy, Inc."
+  version: "4.6.1"
+  rating: "4.000695"
+  ratingsCount: 35968
+  ExtendedInfo {
+    description: "ScanLife turns your camera phone into an all-in-one, lightning fast QR and barcode reader! Newly enhanced with Facebook to make it easy to share what you find and see what ScanLife users recommend as you\342\200\231re scanning. \n\nThis is the only barcode scanner you need because it scans it all!\n\nScan any 2D barcode (QR Code, Datamatrix, EZcode) that you find on print ads, packaging, or business cards to launch websites, videos, deals, or contact information.\302\240\n\nPlus, scan regular UPC/EAN barcodes from all products, like DVDs, books, and food to see a variety of information and buy the products in just a few clicks:\302\240\n- Prices from over 30 different online retailers including Amazon, Home Depot, Macy\342\200\231s, Best Buy, and more\302\240\n- Local prices to find out if the product is sold near you (US only)\302\240\n- Millions of customer reviews from Amazon & Best Buy\302\240\n- Related deals & coupons\302\240\n- Related accessories\302\240\n- Nutritional information & ingredients (US only)\302\240\n- You can even buy the product in a few clicks!\302\240\n\nOther features:\302\240\n- Connect using your Facebook account so you can sync your favorites to your Facebook page. Share what you find with your Facebook network \342\200\223 a great way to suggest a holiday wish list. \n\n- Discover scans happening in real time from around the world.  Click on the products to view the information as if you scanned it yourself.\302\240\n\n- Use QRcard to create your personalized QR Code with your contact details & share it with others.\302\240\n\n- Easily share the content of the QR Code or UPC Code via your Twitter account, or email it to yourself as a reminder of what you found.\302\240\n\n- Save all your QR Code & UPC scans in your History, even if you are not connected to the Internet.\302\240\n\n- Personalize your experience by choosing from scanning themes like Fighter Jet.\302\240\n\n- You can even \342\200\234scan\342\200\235 images of a QR Code or UPC Code that you have saved to your photo gallery. Great if you want to view the content from a code you received in an email.\302\240\n\nWant your own QR Codes?  Just go to www.scanlife.com to create your own personal account, or a Business account for more advanced features and QR Code analytics.\302\240\n\302\240\n- NOTES ON PERMISSIONS - \nWe take your privacy seriously, so it is important to understand why we ask for certain permissions.  \n\n\"INTERNET\": \nThe app connects to the Internet to show content after you scan a barcode.\n\n\"ACCESS WIFI STATE and ACCESS NETWORK_STATE\":\nThe app verifies if a network connection is available in order to connect to the Internet.\n\n\"CAMERA\":\nThe app uses the camera to scan barcodes.  \n\n\"ACCESS FINE LOCATION\": \nLocation is used to give you more relevant information like local prices when available. You will be prompted before Location data is used.\n\n------------------------\nQR Code, qrcode, barcode, scancode, UPC, prices, price check, datamatrix, reviews, deals, coupons"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    installSize: 8143624
+    packageName: "com.ScanLife"
+    category: "Shopping"
+    contactEmail: "support@scanlife.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.scanlife.com"
+    screenshotsCount: 6
+    promoText: "Scan QR & UPC barcodes to discover information, prices, & coupons in seconds."
+    recentChanges: "- Bug fixes including support for various video types\n- Live Feed now called Discover\n- Additional product sources with more prices\n\nAlso the great features from ScanLife 4.6!\n\342\200\242Easily sync your favorite scans to your Facebook page \n\342\200\242Quickly share what you have scanned with others"
+    promotionalVideo: "http://www.youtube.com/watch?v=yVV8F9zZd0k"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Scanbuy, Inc.\""
+  packageName: "com.ScanLife"
+  versionCode: 36
+}
+
+app {
+  id: "v2:com.mtag.att.codescanner:1:130"
+  title: "AT&T Code Scanner: QR,UPC & DM"
+  appType: APPLICATION
+  creator: "AT&T Services, Inc."
+  version: "3.0.4"
+  rating: "3.997124"
+  ratingsCount: 10083
+  ExtendedInfo {
+    description: "AT&T Code Scanner reads UPC, QR and Data Matrix barcodes that you find on products, in ads or on-line, allowing you to compare product prices, read product reviews, view mobile web sites and video clips, get coupons and discounts or learn more about your favorite products."
+    downloadsCount: 0
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.WRITE_CONTACTS"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.NFC"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    permissionId: "android.permission.WRITE_CALL_LOG"
+    installSize: 2711612
+    packageName: "com.mtag.att.codescanner"
+    category: "Shopping"
+    contactEmail: "ATTSUPPORT@MOBILETAG.COM"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18003310500"
+    contactWebsite: "http://www.att.com/codescanner"
+    screenshotsCount: 3
+    promoText: "AT&T Code Scanner reads UPC, QR and Data Matrix barcodes. Scan, Shop, Save."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"AT&T Services, Inc.\""
+  packageName: "com.mtag.att.codescanner"
+  versionCode: 130
+}
+app {
+  id: "v2:com.rfi.sams.android:1:27"
+  title: "Sam\'s Club"
+  appType: APPLICATION
+  creator: "Sam\'s Club"
+  version: "3.0.1"
+  rating: "3.822478"
+  ratingsCount: 4084
+  ExtendedInfo {
+    description: "A must-have app for every Sam\342\200\231s Club Member. Browse products, Sam\342\200\231s Instant Savings and more!\nTap. Shop. Save!\nThe must-have app for every Sam\342\200\231s Club Member. Whether you\342\200\231re on a road trip and need to find your nearest Club or at home planning a weekend shopping trip, you can do it all with your Sam\342\200\231s Club mobile app. \n\342\200\242 Shop straight from the app! \no Shop our extended product selection available on SamsClub.com\no Click \342\200\230N\342\200\231 Pull \342\200\223 Shop your local Club, we\342\200\231ll pull the order for you\no View your order history\n\342\200\242 Signup, renew and upgrade your Sam\342\200\231s Club Membership\n\342\200\242 Enroll in Auto Renewal\n\342\200\242 Locate and get driving directions to any Sam\342\200\231s Club \342\200\223 narrow the selection by services, including: Photo, Gas, Tire and Battery and more\n\342\200\242 Get in-depth product details and Member reviews by using the built-in barcode scanner or browsing the product catalog\n\342\200\242 Sam\342\200\231s Club Plus Members: check your account to see your available Instant Savings and view your Instant Savings while you shop\n\342\200\242 Check product availability and featured items in your Club \n\342\200\242 Get updates and alerts about your Membership, Instant Savings, featured products, local Club events and more\n\342\200\242 View information about your Club including hours of operation, contact information and a detailed Club map.\nYour Sam\342\200\231s Club Application makes it easy to enjoy Savings Made Simple? no matter where you are!"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 5500987
+    packageName: "com.rfi.sams.android"
+    category: "Shopping"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.samsclub.com"
+    screenshotsCount: 6
+    promoText: "A must-have app for every Sam\342\200\231s Club Member. Browse products, eValues and more!"
+    recentChanges: "You spoke, we listened. What\342\200\231s new in this release:\n\302\267 We had several users report they couldn\342\200\231t update their profile information, this has been resolved.\n\302\267 Bug fixes and performance enhancements.\n\302\267 Better in-stock notification on the product details page.\n\302\267 Not a Sam\342\200\231s Club Member?  Use the \342\200\234look around\342\200\235 feature at the bottom of the first screen to browse the app and see what Sam\342\200\231s Club is all about.\n \nReminder: 3.0 Update\n\302\267 Mobile pharmacy refills \342\200\223 New feature is available in the menu screen."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Sam\'s Club\""
+  packageName: "com.rfi.sams.android"
+  versionCode: 27
+}
+app {
+  id: "v2:com.kroger.mobile:1:18"
+  title: "Kroger Co."
+  appType: APPLICATION
+  creator: "The Kroger Co."
+  version: "8.0"
+  rating: "4.1273174"
+  ratingsCount: 3668
+  ExtendedInfo {
+    description: "Looking for the ultimate mobile/tablet shopping experience? Save time and money with the Kroger App! The Kroger App puts convenience and savings at your fingertips. Simply download the app, create an account and register your Kroger Shopper\342\200\231s Card to take advantage of all these great benefits:\n\nLoad online coupons directly to your Shopper\342\200\231s Card and your shopping list.\n\nCreate an online shopping list that you can update and use any time.\n\nView Weekly Ads and quickly add Weekly Ad items to your shopping list.\n\nAccess exclusive promotions and save money with personalized offers.\n\nRefill your Kroger Pharmacy prescriptions directly from your phone or tablet. Type or scan your prescription number and select your Pharmacy to schedule a convenient pickup time.\n\nCheck your fuel points and view your rewards history.\n\nUse the store locator to find stores and fuel centers nearby.\n\nTo use the Kroger App, you must first have a Kroger online account. Register online at www.kroger.com. Be sure to register your Shopper\342\200\231s Card to take advantage of all these benefits. Don\342\200\231t have a Shopper\342\200\231s Card? Get one on the spot when you visit any one of the Kroger Family of Stores.\n\nYour Kroger App helps you save at any of the Kroger Family Stores which include: Kroger, Baker\342\200\231s, City Market, Dillons, Food 4 Less, Foods Co., Fred Meyer, Fry\342\200\231s, Gerbes, Jay C, King Soopers, Owen\342\200\231s, Pay Less, QFC, Ralphs and Smith\342\200\231s.\n\nComing Soon!\nUpdates to the Shopping List will allow you to create multiple lists, save items as favorites and save money when you choose items from our Smart Suggest feature.\n\nThank you for providing your feedback and suggestions. More updates are coming soon. Check kroger.com or Google Play for the latest digital news."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 5665714
+    packageName: "com.kroger.mobile"
+    category: "Shopping"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18662214141"
+    contactWebsite: "http://www.kroger.com"
+    screenshotsCount: 8
+    promoText: "Save with Kroger! Coupons, ads, rewards, find stores & shopping list in one app!"
+    recentChanges: "Tablet form factor\nUpdate to email opt ins\nReset/Change your password\nMiscellaneous user experience improvements and bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"The Kroger Co.\""
+  packageName: "com.kroger.mobile"
+  versionCode: 18
+}
+app {
+  id: "-1675030752661351830"
+  title: "AutoZone for Android"
+  appType: APPLICATION
+  creator: "AutoZone"
+  version: "1.0.0.7"
+  rating: "4.2175727"
+  ratingsCount: 6237
+  ExtendedInfo {
+    description: "The AutoZone App streamlines your shopping experience. Get unlimited access to AutoZone\342\200\231s free vehicle repair guides. Easily find the parts and accessories you need. Create shopping lists, check availability and pricing, locate a store, track your Rewards and more. Get in the Zone - AutoZone!"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 1147156
+    packageName: "com.autozone.mobile"
+    category: "Shopping"
+    contactEmail: "android.support@autozone.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18002886966"
+    contactWebsite: "http://www.autozone.com"
+    screenshotsCount: 2
+    promoText: "The AutoZone App offers DIY repair information and convenient shopping tools."
+    recentChanges: "- Fixed problem with HTC EVO"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "AutoZone"
+  packageName: "com.autozone.mobile"
+  versionCode: 8
+}
+app {
+  id: "v2:com.zillow.android.rentals:1:38"
+  title: "Zillow Rentals - Houses & Apts"
+  appType: APPLICATION
+  creator: "Zillow.com"
+  version: "1.3.38"
+  rating: "4.030488"
+  ratingsCount: 1148
+  ExtendedInfo {
+    description: "Find apartments and houses for rent with this app designed for renters in a hurry and on the go  by Zillow, the leader in mobile real estate.\n\nFilter for rental homes in seconds based on location (you can even draw your own search neighborhoods on the map) and home type. Get automatic notifications when new homes for rent hit the market. Rent Zestimates help you decide how much the rental home is worth. Save and share your favorite rentals, automatically track who you\342\200\231ve contacted, and view a side-by-side comparison of all your favorites. You\342\200\231ll be an expert apartment finder in no time!\n\nFeatures of Zillow Rentals - Apartments & Houses:\n- Search near your GPS location or draw your own search boundaries anywhere on the map.\n- Filter for houses and apartments that fit your budget and criteria.\n- Automatically receive notifications when new rental homes matching your criteria hit the market, with no login or sign-up required.\n- Quickly browse your list of search results, adding those you like to your Favorites.\n- Rent Zestimates on most homes for rent give you a starting point for deciding the best rent price to pay for a house or apartment.\n- Contact landlords by phone or email. Those you contact are automatically added to your Favorites with a note, so you can keep track of who\342\200\231s who.\n- Compare your Favorites side-by-side to easily decide which apartment or house has the best balance of price, size, freshness, and availability.\n- View your Favorite houses and apartments on a map and get directions to visit in person.\n\nZillow Rentals is the only apartment guide you\342\200\231ll need."
+    downloadsCount: 0
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "com.zillow.android.rentals.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    installSize: 2043668
+    packageName: "com.zillow.android.rentals"
+    category: "Shopping"
+    contactEmail: "androidrentalsfeedback@zillow.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.zillow.com/"
+    screenshotsCount: 8
+    promoText: "Zillow Rentals is the easiest way to find your next apartment or rental home."
+    recentChanges: "You can now enjoy a fullscreen photo gallery experience in landscape mode with the ability to double-tap, pinch, and spread to examine the details of the photos. We also added support for high resolution photos for devices that can handle it, and rid the code of some pesky bugs along the way."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Zillow.com"
+  packageName: "com.zillow.android.rentals"
+  versionCode: 38
+}
+app {
+  id: "v2:com.costco.app.android:1:4"
+  title: "Costco Wholesale"
+  appType: APPLICATION
+  creator: "Costco Wholesale"
+  version: "1.0.3"
+  rating: "3.4095428"
+  ratingsCount: 1006
+  ExtendedInfo {
+    description: "Go beyond the warehouse walls with the ease of your smartphone. We\342\200\231ve made it even easier for members to access the incredible values found only at Costco. Members can now shop, refill and check prescriptions, find locations, view current member-exclusive coupons and much more! \n\nOur Costco Mobile App Saves Time & Money:\n\n - SHOP Costco.com\342\200\231s unique, expanded selection, offering thousands of items not found at your local warehouse, delivered straight to your door.\n\n - LOCATE your nearest Costco, even filtering for specific departments such as Gas or Pharmacy.\n\n - SAVE by viewing the latest member-exclusive online and in-store Costco coupons.\n\n - REFILL and check the status of your Costco Pharmacy prescriptions.\n\n - COMPARE and save when using Costco Services, like our Auto or Mortgage & Home Financing Programs.\n\n - DELIVER straight to your business when you order from our Business Delivery locations.\n\n - READ the latest issue of our award-winning member magazine, \342\200\234The Costco Connection.\342\200\235\n\n - LIST your Costco needs on our handy shopping notepad \342\200\223 no more lost shopping lists!\n\n - JOIN Costco, renew your membership or give the gift of Costco membership.\n\n\nHave an idea? We\342\200\231re hard at work designing even more features that our members want. We welcome your feedback: apps@costco.com."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "com.costco.app.android.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.CALL_PHONE"
+    installSize: 1801858
+    packageName: "com.costco.app.android"
+    category: "Shopping"
+    contactEmail: "apps@costco.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.costco.com"
+    screenshotsCount: 5
+    promoText: "Go beyond the warehouse walls with the ease of your smartphone. We\342\200\231ve made it even easier for members to access the incredible values found only at Costco. Members can now shop, refill and check prescriptions, find locations, view current member-exclusive coupons and much more! \n\nOur Costco Mobile App Saves Time & Money:\n\n - SHOP Costco.com\342\200\231s unique, expanded selection, offering thousands of items not found at your local warehouse, delivered straight to your door.\n\n - LOCATE your nearest Costco, even filtering for specific departments such as Gas or Pharmacy.\n\n - SAVE by viewing the latest member-exclusive online and in-store Costco coupons.\n\n - REFILL and check the status of your Costco Pharmacy prescriptions.\n\n - COMPARE and save when using Costco Services, like our Auto or Mortgage & Home Financing Programs.\n\n - DELIVER straight to your business when you order from our Business Delivery locations.\n\n - READ the latest issue of our award-winning member magazine, \342\200\234The Costco Connection.\342\200\235\n\n - LIST your Costco needs on our handy shopping notepad \342\200\223 no more lost shopping lists!\n\n - JOIN Costco, renew your membership or give the gift of Costco membership.\n\n\nHave an idea? We\342\200\231re hard at work designing even more features that our members want. We welcome your feedback: apps@costco.com."
+    recentChanges: "v 1.0.2\n\n- General Bug Fixes\n\n\n\nv 1.0.1\n\nNew Features:\n\n\342\200\223 Push Notifications: Receive hot buy or special offer alerts\n\342\200\223 Inbox: Easily locate notifications in one folder (under the More menu)\n\342\200\223 QR Code Scanner: Learn more about products, offers or articles in The Connection by scanning QR codes\n\nAdditional Improvements:\n\n\342\200\223 Corrected issue preventing some devices from being recognized\n\nWe appreciate our members\342\200\231 feedback! It is invaluable when creating and\nrefining the app\342\200\231s features."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Costco Wholesale\""
+  packageName: "com.costco.app.android"
+  versionCode: 4
+}
+app {
+  id: "v2:com.google.android.apps.offers:1:77"
+  title: "Google Offers"
+  appType: APPLICATION
+  creator: "Google Inc."
+  version: "1.7"
+  rating: "3.9617555"
+  ratingsCount: 1595
+  ExtendedInfo {
+    description: "From food to fun, Google Offers connects you with great deals every day in your city.\n\nWe have hundreds of offers you can purchase in advance and thousands of free offers that you can use instantly or save for later. Either way, when you are ready to use your offer, simply open your Google Offers app at the business and show your offer!\n\nGoogle Offers has partnered with dozens of deal sites and thousands of local businesses to bring you great offers across many categories. Our app notification will alert you of great featured offers so you don\342\200\231t miss a great chance to save money. Enjoy the convenience of browsing, buying and redeeming offers near you on-the-go. Easily redeem your offers without having to print your vouchers.\n\nCities available (US only): Atlanta, Austin, Baltimore, Boston, Brooklyn, Charlotte, Chicago, Columbus, Dallas, Denver, Detroit, Fort Worth, Houston, Indianapolis, Kansas City, Long Beach, Los Angeles, Miami, Milwaukee, Minneapolis, NYC, Philadelphia, Phoenix, Pittsburgh, Portland, Oakland / East Bay, Oklahoma City, Omaha, Orlando, Sacramento, Salt Lake City, San Antonio, San Diego, San Francisco, San Jose, Seattle, St. Paul, St. Louis, Tampa and Washington D.C."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.NFC"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.USE_CREDENTIALS"
+    permissionId: "android.permission.MANAGE_ACCOUNTS"
+    permissionId: "com.google.android.apps.offers.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.WAKE_LOCK"
+    installSize: 1607127
+    packageName: "com.google.android.apps.offers"
+    category: "Shopping"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://support.google.com/offers/?hl=en"
+    screenshotsCount: 7
+    promoText: "Discover, buy and redeem great deals with your Android phone."
+    recentChanges: "*Greatly improved purchase experience\n*Assorted bugfixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Google Inc.\""
+  packageName: "com.google.android.apps.offers"
+  versionCode: 77
+}
+app {
+  id: "v2:com.mm.views:1:27"
+  title: "Coupons & Shopping - GeoQpons"
+  appType: APPLICATION
+  creator: "Most Useful Shopping App"
+  version: "3.2.4"
+  rating: "4.39349"
+  ratingsCount: 6943
+  ExtendedInfo {
+    description: "MOST USEFUL SHOPPING APP FOR SAVING MONEY WITH COUPONS AT YOUR FAVORITE BRAND RETAILERS, RESTAURANTS, AND LOCAL SHOPS.\n    \nGeoQpons delivers thousands of mobile coupons, offers & deals every day from top name brand retailers, restaurants and local businesses. You have access to coupons, price check with barcode scanning, store locator and navigation.  \n  \nGeoQpons opens with offers and coupons from major, recognizable Brand Retailers.  By clicking on the local tab, you can find coupons and offers from local stores around you. Just show the coupon image or coupon code on your phone to the cashier at checkout to achieve your savings. \n\nUse built-in shopping and coupon tools:\n1. Barcode scanner for price check and coupons\n\n2. Add coupons to calendar for reminders on expiration dates; \n\n3.Mark (star) your favorite stores and offers for easy access;\n\n4.Savings Calculator to determine exact dollar amount of savings opportunities; \n\n5.Search for coupons using search button and entering coupon search text.\n\nSend coupons to friends and family via email or SMS.  Print coupons by emailing coupons to yourself.   Facebook and Twitter integration makes sharing coupons even easier.  The app contains more coupons and offers than any other coupons app in the market today. \n       \nSearch Tags: Coupons, Coupon, barcode scanning, store finder, Deals, offers, store coupons, mobile coupons, geocoupons, shopping, mobile shopping, shopping discounts, social, social shopping, local deals, Groupon, Living Social, online offers, online deals"
+    downloadsCount: 0
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.SEND_SMS"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.ACCESS_MOCK_LOCATION"
+    permissionId: "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3981402
+    packageName: "com.mm.views"
+    category: "Shopping"
+    contactEmail: "android_support@geoqpons.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.geoqpons.com"
+    screenshotsCount: 8
+    promoText: "MOST USEFUL APP FOR SAVING MONEY WHEN SHOPPING AT YOUR FAVORITE BRAND STORES."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Most Useful Shopping App\""
+  packageName: "com.mm.views"
+  versionCode: 27
+}
+app {
+  id: "-1351512611258534008"
+  title: "Coupons.com"
+  appType: APPLICATION
+  creator: "Coupons.com Inc."
+  version: "1.0.8"
+  rating: "2.8704884"
+  ratingsCount: 471
+  ExtendedInfo {
+    description: "Take advantage of all the benefits of Coupons.com - right from your phone or tablet!\n\nSaving money on your favorite brands has never been easier. Just select the coupons you want and save in the store. Choose from over a hundred manufacturer coupons to save on groceries, household goods, personal care items and more.\n\nWith the Coupons.com app, you can access printable coupons, Savings Card coupons, and local coupons. Printable coupons can be redeemed at the store just like the ones you find in the Sunday newspaper. Add coupons to your grocery store Savings Card and have your savings automatically applied at checkout. \n\nFeatures:\n\342\200\242 Get all the same coupons you see on Coupons.com\n\342\200\242 Email coupons to print from a computer\n\342\200\242 Add coupons directly to your grocery store Savings Card\n\342\200\242 Save on the brands you love most!"
+    downloadsCount: 0
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.RESTART_PACKAGES"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 736728
+    packageName: "com.coupons.ciapp"
+    category: "Shopping"
+    contactEmail: "couponsdev@gmail.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.coupons.com"
+    screenshotsCount: 3
+    promoText: "Save Better"
+    recentChanges: "Fixes for Android 4.0 (Ice Cream Sandwich)"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Coupons.com Inc.\""
+  packageName: "com.coupons.ciapp"
+  versionCode: 2
+}
+app {
+  id: "v2:com.thefancy.app:1:212"
+  title: "Fancy"
+  appType: APPLICATION
+  creator: "thingd"
+  version: "2.12.7"
+  rating: "4.380004"
+  ratingsCount: 9692
+  ExtendedInfo {
+    description: "Fancy is the place to discover, collect and buy from a crowd-curated catalog of amazing goods, wonderful places and great stores.\n\nPart store, magazine and wishlist, Fancy is the best place to buy great things. Use Fancy to find a gift for any occasion and share your favorite discoveries with all your friends. \n\nSend feedback to android@thefancy.com\n\nNote: We collect usage data to improve the service. You may disable this in the settings."
+    downloadsCount: 0
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.USE_CREDENTIALS"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.thefancy.app.permission.C2D_MESSAGE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 6192309
+    packageName: "com.thefancy.app"
+    category: "Shopping"
+    contactEmail: "androidsupport@thefancy.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.thefancy.com"
+    screenshotsCount: 5
+    promoText: "Discover amazing stuff, collect the things you love, buy it all in one place!"
+    recentChanges: "Version 2.12\n- New Google Plus integration!\n- New on Thing Page - Long press on image to save or copy url.\n- Web Link can be added on Uploading\n- Fixed: Add To List dialog showing all lists unchecked\n- Fixed: Some crashes on resuming the app\n\nVersion 2.11\n- New Languages: Basque, Chinese (Taiwan), Czech, Lithuanian, Thai, Ukrainian\n- New: Sharing user profiles\n- New: FancyBox subscription screen\n- New Facebook SDK implemented\n- Minor UI Improvements and Optimizations  \n- Fixed: Twitter Sign-in"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "thingd"
+  packageName: "com.thefancy.app"
+  versionCode: 212
+}
+
+app {
+  id: "v2:com.coupons.GroceryIQ:1:21"
+  title: "Grocery iQ"
+  appType: APPLICATION
+  creator: "Coupons.com Inc."
+  version: "2.6.3"
+  rating: "3.8608456"
+  ratingsCount: 6906
+  ExtendedInfo {
+    description: "Grocery shopping made quick and easy with the features you expect from the #1 grocery shopping list app. Build lists from our extensive product database using text, barcode, or voice search; sync and share lists with other devices and the GroceryiQ.com website; find related coupons and much more! \n\n\"Grocery iQ takes the old-fashioned grocery list to the 21st century\" \342\210\274 Forbes.com \n\n\"Helps you when you\'re grocery shopping\342\200\246sync up with your friends or your roommates or your family\'s list\" \342\210\274 The Today Show \n\n\"We all want to save money, so why not use your iPhone? The king of coupons is Grocery iQ...If you regularly shop at a grocery store or other retailer, be sure to install their app\" \342\210\274 GiGaOM.com \n\n\"If your shopping list is currently the back of an envelope that you\342\200\231ve scribbled some items on (mom!), then it\342\200\231s time for you to check out GroceryIQ.\" \342\210\274 InteriordesignHQ.com \n\nKey Features:\n\342\234\223 Lists: Build grocery lists quickly from our database of millions of items. \n\n\342\234\223 Aisles: Create custom aisles and reorder aisles for any list. \n\n\342\234\223 Favorites: Easily add frequently purchased items to new lists, search and filter favorites to build lists quickly. \n\n\342\234\223 History: Keep track of what you\'ve checked out and filter history by list. Easily create lists from history items. \n\n\342\234\223 Multi-Barcode Scan: Add multiple items by simply pointing your camera at any product barcodes. \n\n\342\234\223 Voice Search: Use advanced voice search to add items to your list. \n\n\342\234\223 All List Items: Never forget an item again by viewing all items in \"All List Items\". Toggle your lists settings to view \"All List Items\" on any list you choose. \n\n\342\234\223 Store Locator: Find nearby grocery stores and add your loyalty card. \n\n\342\234\223 Sync: Sync your lists with the GroceryiQ.com website, friends and family. \n\n\342\234\223 Coupons: Search free coupons, view recommended coupons, email or add coupons to your store loyalty card. \n\n\342\234\223 Item Details: Add price and description, weight, quantity and more. \n\nStart simplifying your grocery shopping today!"
+    downloadsCount: 0
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.RESTART_PACKAGES"
+    installSize: 11845547
+    packageName: "com.coupons.GroceryIQ"
+    category: "Shopping"
+    contactEmail: "androidgiq@couponsinc.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.groceryiq.com"
+    screenshotsCount: 8
+    promoText: "Grocery iQ is packed with features you\342\200\231d expect from a great shopping list app"
+    recentChanges: "New in 2.6.3:\n\342\234\223Bug fixes for list sync related issues\n\nNew in 2.6:\n\342\234\223 Simplified List Management \n\342\234\223 Search\n\342\234\223 Quick Filters for Favorites and History \n\342\234\223 Multi-Barcode Scan\n\342\234\223 Multi-Word Voice Search \n\342\234\223 Coupons Recommendations \n\342\234\223 Updated Navigation \n\342\234\223 Meijer Loyalty Card Support  \n\342\234\223 Numerous bug fixes and stability improvements\n\342\234\223 Support for Nexus 10 tablet and sync on Nexus 7 and similar devices\n\342\234\223 Improved barcode scanning"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Coupons.com Inc.\""
+  packageName: "com.coupons.GroceryIQ"
+  versionCode: 21
+}
+app {
+  id: "v2:com.zulily.android:1:11"
+  title: "zulily"
+  appType: APPLICATION
+  creator: "zulily, inc."
+  version: "1.1.3"
+  rating: "4.7039475"
+  ratingsCount: 1824
+  ExtendedInfo {
+    description: "Cuteness is waiting for you. \n\nThe zulily app is your on-the-go source for all things adorable. Our featured brands change every day, so you never know exactly what you\'ll find for you and your little one. But you can be sure it\'s worth a look. We\'re obsessed with making you smile. \n\nThe zulily app offers quick, free access to sweet style \n\342\200\242 Daily deals for moms, babies and kids open at 6am pt\n\342\200\242 Boutique brands at up to 90% off retail prices \n\342\200\242 See what\'s coming soon and set alarms\n\342\200\242 Invite new members and earn credit\n\342\200\242 Share finds with your friends\n\nNot a zulily member yet? No problem! It\'s free and you can join from the app. Take a peek into our whimsical world. See what you see. We think you\'ll love it!\n\n\nBy signing in to our app, you agree to the zulily Terms and Conditions & our Privacy Practices\nhttp://www.zulily.com/terms-conditions\nhttp://www.zulily.com/privacy-practices"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    installSize: 5722623
+    packageName: "com.zulily.android"
+    category: "Shopping"
+    contactEmail: "android_feedback@zulily.com"
+    downloadsCountText: "50,000-250,000"
+    contactPhone: "+18777795615"
+    contactWebsite: "http://www.zulily.com"
+    screenshotsCount: 6
+    promoText: "All the cute in the palm of your hand."
+    recentChanges: "We\'ve used your feedback to make a new version of the zulily app \342\200\224 thanks for being in touch! \n\nKeep your ideas coming to android_feedback@zulily.com."
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"zulily, inc.\""
+  packageName: "com.zulily.android"
+  versionCode: 11
+}
+app {
+  id: "v2:endorse.android.app:1:584"
+  title: "Endorse"
+  appType: APPLICATION
+  creator: "Endorse Corp."
+  version: "1.0.BUILD_584"
+  rating: "4.111111"
+  ratingsCount: 243
+  ExtendedInfo {
+    description: "Going shopping?  Endorse is the simple way to get cash back for buying your favorite products in stores.  Download the free app now!\n\nEarn from 10% up to 100% cash back on your everyday purchases wherever you shop including Walmart, Target, Walgreens, Kroger, Safeway, CVS, Whole Foods, Costco and Trader Joe\342\200\231s.\n\n\342\234\223  Get personalized product offers from leading consumer brands.\n\342\234\223  Upload an image of your receipt and get cash back.\n\342\234\223  Use it everytime you shop, anywhere you buy\n\342\234\223  Earn points for every single receipt to fund local school projects at DonorsChoose.org.\n\nGet started today."
+    downloadsCount: 0
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "endorse.android.app.permission.C2D_MESSAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 7301220
+    packageName: "endorse.android.app"
+    category: "Shopping"
+    contactEmail: "hi@endorsecorp.com"
+    downloadsCountText: "10,000-50,000"
+    contactPhone: "+16507626038"
+    contactWebsite: "http://www.endorse.com"
+    screenshotsCount: 4
+    promoText: "The simple way to get cash back for buying your favorite brands in stores."
+    recentChanges: "Improved upload flow."
+    promotionalVideo: "http://www.youtube.com/watch?v=bL2M3DlzggA"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"Endorse Corp.\""
+  packageName: "endorse.android.app"
+  versionCode: 584
+}
+app {
+  id: "v2:com.kmart.android:1:80"
+  title: "Kmart"
+  appType: APPLICATION
+  creator: "Sears Holdings Management Corporation"
+  version: "3.0.59"
+  rating: "4.0419073"
+  ratingsCount: 2768
+  ExtendedInfo {
+    description: "A fast, easy way to shop \342\200\223 on the go and on your phone! Our app has access to the full listing of items and categories available on Kmart.com. Search, browse and buy, right in the app, then have your order shipped to your door. Easily find your local store locations, hours and contact info, using GPS or zip code."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_LOCATION"
+    permissionId: "android.permission.ACCESS_GPS"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 5368355
+    packageName: "com.kmart.android"
+    category: "Shopping"
+    contactEmail: "Mobile_Android_Feedback@searshc.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.kmart.com"
+    screenshotsCount: 3
+    promoText: "A fast, easy way to shop \342\200\223 on the go and on your phone!"
+    recentChanges: "Our new Express Checkout feature will come in handy this Holiday Season for when you are on the go. All you have to do is setup your preferences then you will be able to checkout with minimal delay.  Now you will be able to redeem your Shop Your Way Reward points for your Holiday purchases! After the purchase you will see how many Shop Your Way Rewards points you earned. Happy Holidays!"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Sears Holdings Management Corporation\""
+  packageName: "com.kmart.android"
+  versionCode: 80
+}
+app {
+  id: "v2:com.droidwax.foodcouponsapp:1:17"
+  title: "Dining Deals - Food Coupons"
+  appType: APPLICATION
+  creator: "Best Coupons & Deals"
+  version: "3.28"
+  rating: "4.581357"
+  ratingsCount: 4259
+  ExtendedInfo {
+    description: "Dining Deals is a free, top-reviewed coupons app that gives you the best deals for your favorite restaurants.\n\nFeatures Include:\n\n- The Best Hand-Picked Restaurant Deals: updated daily by our team of coupon clippers and deal finders. Every deal is hand-selected by our team. We\'re always adding new brands based on user feedback.\n\n- The Best Reviews: more than one thousand five hundred 5-star ratings and a 4.7 score make us one of the best reviewed applications in the shopping category. Download the app and find out why. \n\n- Simple Organization: you can sort our deals by brand (e.g. T.G.I. Friday\'s, Chili\'s, etc), newest arrivals, Hottest deals (the best deals) and deals you have liked.\n\n- Hot Deal Alerts: you can sign up for Hot Deal Alerts in the app and never miss another great deal. We send an Android notification when we find really great deals. If you don\'t like to receive notifications, you can easily turn them off.\n\n- Share Deals: you can share our deals with your friends via SMS and Email. \n\n- Exclusive Offers: we don\'t put annoying banner ads in our application. Instead, we run exclusive offer pages that give you the opportunity to sign up for emails from top brands. \n\nInstructions:\n\nDownload the application and open it. The first time the application launches, we offer the opportunity to sign up for Hot Deal Alerts. You can also deactivate or activate this feature later in the Alerts section. We also offer a chance to sign up for emails for exclusive deals. If you sign up, you will see our exclusive deals, then our hottest deals. If not, then you will just see our hottest deals page and a button to load all of our coupons.\n\nClick \"Load All Coupons\" to access our vast restaurant deals from top brands. The top restaurants change regularly, but some of our popular brands include: T.G.I. Friday\'s, Chili\'s, Whole Foods, Olive Garden, McDonald\'s, Long John Silver\'s, KFC, Denny\'s, Papa John\'s, CiCi\'s Pizza, Restaurant.com, Pizza Hut, Arby\'s, Black Angus Steakhouse, Domino\'s Pizza, Boston Market, Carl\'s Jr., Red Lobster, Hardee\'s, Del Taco, Chuck E. Cheese\'s, Quiznos, Jack\'s, Wendy\'s, Buca di Beppo, Maggiano\'s, Benihana, Baskin Robbins, Lonestar Steakhouse, MiMi\'s Cafe, Jamba Juice, Subway, Smashburger, Fresh Choice, Outback Steakhouse and many more!\n\nCoupons are displayed as either coupon codes (for use online) or digital coupons (for use in stores). When possible, we always recommend that you print our coupons at home prior to using them in the restaurant. Some restauants don\'t accept coupons when displayed on a phone. You can print the coupon by navigating to the coupon details page, clicking Email This and then emailing the coupon to yourself to print from a computer.\n\nFeedback:\n\nWant to see more of a particular brand? Have problems with our application? Other ideas? Let us know in a review or by sending an email to bestcouponsanddeals@gmail.com.\n\nTerms of Use and Privacy Policy:\n\nBy using this application you agree to our Terms of Use and Privacy Policy - http://pastehtml.com/view/bnr5klhqb.rtxt"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "com.droidwax.foodcouponsapp.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 1225888
+    packageName: "com.droidwax.foodcouponsapp"
+    category: "Shopping"
+    contactEmail: "bestcouponsanddeals@gmail.com"
+    downloadsCountText: ">250,000"
+    screenshotsCount: 7
+    promoText: "Find great deals for your favorite restaurants!"
+    recentChanges: "- Support for additional restaurants and deal types"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"Best Coupons & Deals\""
+  packageName: "com.droidwax.foodcouponsapp"
+  versionCode: 17
+}
+app {
+  id: "v2:com.tmobile.apppack:1:500056"
+  title: "Music Hub"
+  appType: APPLICATION
+  creator: "T-Mobile USA"
+  version: "1.05.56"
+  rating: "2.8077102"
+  ratingsCount: 17276
+  ExtendedInfo {
+    description: "Music Hub is where you can search for, browse, purchase and download MP3s and ringtones. \n\nYou can also get really cool FREE music apps:\nHear music you like, but don\342\200\231t recognize? Use Shazam to find out!\n\nLocal radio! Use TuneIn Radio to listen to your favorite local stations and programs. Find new stations to love from all around the world!\n\nHeard of Pandora? Then you\342\200\231ll love Slacker. With over 2.5 million tracks in Slacker\342\200\231s catalog, you can listen for hours without hearing the same song."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.WRITE_CONTACTS"
+    permissionId: "android.permission.READ_LOGS"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.CHANGE_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_SETTINGS"
+    permissionId: "android.permission.SET_WALLPAPER"
+    permissionId: "android.permission.ACCESS_DRM"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    permissionId: "android.permission.WRITE_CALL_LOG"
+    installSize: 3807204
+    packageName: "com.tmobile.apppack"
+    category: "Shopping"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.t-mobile.com"
+    screenshotsCount: 2
+    promoText: "Music Hub is where you can search for, browse, purchase and download MP3s and ringtones. \n\nYou can also get really cool FREE music apps:\nHear music you like, but don\342\200\231t recognize? Use Shazam to find out!\n\nLocal radio! Use TuneIn Radio to listen to your favorite local stations and programs. Find new stations to love from all around the world!\n\nHeard of Pandora? Then you\342\200\231ll love Slacker. With over 2.5 million tracks in Slacker\342\200\231s catalog, you can listen for hours without hearing the same song."
+    recentChanges: "T-Mobile Mall is now Music Hub. Get MP3s, ringtones, and cool music apps Shazam, TuneIn Radio and Slacker.\n- Buy MP3s & ringtones\n- Browse CallerTunes\n- Get cool FREE music apps like Shazam, TuneIn Radio and Slacker"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"T-Mobile USA\""
+  packageName: "com.tmobile.apppack"
+  versionCode: 500056
+}
+app {
+  id: "v2:com.claspics:1:28"
+  title: "Craigslist by ClasPics"
+  appType: APPLICATION
+  creator: "ClasPics"
+  version: "1.5.1"
+  rating: "4.350485"
+  ratingsCount: 2371
+  ExtendedInfo {
+    description: "Search or browse craigslist at the speed of light with less mess and confusion. Quickly post ads to craigslist with an unlimited number of high resolution images.\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205\n\n- Search or browse all items for sale, housing, jobs, personals, community, gigs, and services posts on craigslist.\n\n- Save searches and set up notifications to receive alerts when new items are posted matching your criteria.\n\n- Search results presented with an emphasis on speed & simplicity.\n\n- Automatically removes unnecessary & repetitive characters from the title and text of each ad for a cleaner browsing experience.\n\n- Optimized to use as little data & battery as possible while streaming hundreds of search results in less than a second.\n\n- Optimized to be used with tablets.\n\n- Call, text/SMS, email, or share ads.\n\n- Bookmark ads to view them later.\n\n- Indicates the ads you have already read.\n\n- Filter & sort results.\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205\n\n- Post to for sale, services, community, and personals categories on craigslist, others are in the works.\n\n- Upload an unlimited number of high quality images to include with your craigslist listing.\n\n- Image uploads are performed in the background while you write the text of the ad, saving you time when you post.\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205\n\nLEGAL NOTE : Craigslist does not sponsor nor endorse this application and is not affiliated with ClasPics.\n\nTESTIMONIALS :\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 - \"Best craigslist app. By far the greatest craigslist app ever\" - Webmaster\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 - \"Better than Craiglist app hands down\" - Reese\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 - \"Perfect. Best. Cl. Checking application\" - Josh\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 - \"Best posting app on the market bar none\" - Rick\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 - \"Best app to post on craigslist! FAST AND EASY!\" - Angela\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 - \"I love it! Makes things so simple. Thank you!!!\" - Alisha\n\nThank you for trying the app, we aim to continue improving your mobile experience, feel free to contact us with issues & suggestions."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 1016456
+    packageName: "com.claspics"
+    category: "Shopping"
+    contactEmail: "android@claspics.com"
+    downloadsCountText: "50,000-250,000"
+    screenshotsCount: 8
+    promoText: "Quickly search & post to craigslist."
+    recentChanges: "v1.5.1\n- Performance enhancements.\n- Some bug fixes.\n\nv1.5.0\n- Save searches.\n- Set up notifications for saved searches.\n- Some bug fixes."
+    promotionalVideo: "http://www.youtube.com/watch?v=b2-h0aS2XaA"
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "ClasPics"
+  packageName: "com.claspics"
+  versionCode: 28
+}
+app {
+  id: "v2:com.ibotta.android:1:1402"
+  title: "Ibotta"
+  appType: APPLICATION
+  creator: "Ibotta"
+  version: "1.3.2"
+  rating: "4.545901"
+  ratingsCount: 5501
+  ExtendedInfo {
+    description: "Ibotta is a fun and easy way to earn real money just for buying your favorite products. \n\n- It\'s easy. Learn about products by taking polls, reading facts or watching short videos - you choose how much or how little. \n\n- It works in over 2 dozen of your favorite retailers including Walmart, Target, Kroger, Safeway, Rite Aid, CVS, Walgreens, Publix, Meijer, H-E-B, Stop & Shop, ShopRite, Pavilions, Tom Thumb, Dominick\342\200\231s, Fry\342\200\231s, Dillons, Vons, Ralphs, Fred Meyer, Smith\342\200\231s, Duane Reade, King Soopers, Pick \342\200\230n Save, with new stores being added all the time.\n\n- It\'s fast. Get your money within hours of taking a photo of your receipt. \n\n- It\'s real cash. Earnings can be transferred securely to your PayPal account or donated to any school in America with the click of a button. \n\n- It\342\200\231s personalized. Every time you redeem an offer, we\342\200\231ll send a new one. Tell us your likes and dislikes and we\342\200\231ll send you personalized offers. \n\n- It\342\200\231s full of your favorite products. Ibotta sends you offers from all the top brands. \n\n- It\'s secure. Your information is private and we intend to keep it that way. We never share your email address with anyone. Credit card information is not stored or kept. \n\n\n++++++++++++++++++++++++++++++++\n\n\nHere\'s how it works: \n\n1. Before shopping, choose your offers. The more you choose, the more cash back you\'ll earn.\n\n2. Go Shopping. Buy your chosen products at any of the major retailers that Ibotta supports. \n\n3. Take a photo of your receipt and barcode scan your products. We\'ll verify your purchases and credit your account right away. \n\n4. Get your cash. Yes, real money, loaded onto your PayPal account or donated to any school in America. \n\nStart earning money today! \n\n---------\nKnown Issues\n---------\n\nFor help inquiries, please visit: http://ibotta.desk.com\n\nFor tips on barcode scanning visit: https://ibotta.desk.com/customer/portal/articles/906509\n\nLG Lucid - Receipt images on the LG Lucid coming out unreadable Android 4.x. We have acquired an LG Lucid and are working on a fix.\n\nVideo - We have re-encoded our videos, and are getting feedback that they are now playing for users that previously had issues. Please write into customer support if you are still having issues.\n\n----------\nPermissions We Request and Why\n----------\n\n* Hardware Controls - This gives us access to the camera so that you can take pictures of your receipts.\n\n* Your Location - In order to find schools near you that you may want to donate to, we need to know your current location. Location data is not currently used in any other capacity.\n\n* Network Communication - Ibotta must use your network in order to communicate with our servers. This is how we deliver offers, record your engagement responses, receive your receipts, etc. We also request permission to read the state of the network so that we can detect when internet is unavailable.\n\n* Read Your Contacts - In order to present a list of people that you may want to invite to use Ibotta, we must have permission to read your contacts. We do not use your contacts for any other purpose than this.\n\n* Storage - When you take a picture of your receipts, we need to store the image on disk temporarily until the receipts are completely uploaded, or you cancel out of the camera. We also request permission to check whether disk storage is accessible.\n\n* System Tools - In order to allow you to watch a video to completion without the phone going to sleep we must have this permission. It simply allows us to keep the screen on during video playback.\n\n* Your Accounts - We deliver system notifications to your device when we want to communicate newsworthy events, such as the status of one of your receipts or new offers. You have control over which notifications you want to receive in the Settings section of the app. Notifications are delivered through Google\'s Cloud Messaging (GCM) framework. In order to target your device for a notification, GCM, and therefore Ibotta, must know the account you are currently using."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.ibotta.android.permission.C2D_MESSAGE"
+    permissionId: "com.ibotta.android.permission.MAPS_RECEIVE"
+    permissionId: "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 8221946
+    packageName: "com.ibotta.android"
+    category: "Shopping"
+    contactEmail: "support@ibotta.com"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://www.ibotta.com"
+    screenshotsCount: 5
+    promoText: "The best way to make money shopping."
+    recentChanges: "1.3.2\n\n\342\200\242 Removing fine location (GPS permission requirement)\n\342\200\242 Improvements to the store locator\n\342\200\242 Miscellaneous bug fixes\n\n1.3.1\n\n\342\200\242 Emergency bug fix for Facebook (login / registration)\n\342\200\242 Emergency bug fix for Twitter 301 error\n\n1.3.0\n\n\342\200\242 New store finder for retailers\n\342\200\242 Shop Here earning opportunity\n\342\200\242 Clearer expiration dates\n\342\200\242 Facebook upgrade\n\342\200\242 Bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Ibotta"
+  packageName: "com.ibotta.android"
+  versionCode: 1402
+}
+app {
+  id: "v2:com.macys.android:1:8"
+  title: "Macy\'s"
+  appType: APPLICATION
+  creator: "Macy\'s Inc"
+  version: "1.2.2"
+  rating: "3.5228217"
+  ratingsCount: 964
+  ExtendedInfo {
+    description: "Official Macy\342\200\231s Android App.\nDiscover a new way to shop your favorite store on the go! The new Macy\342\200\231s app for Android puts everything right at your fingertips. Enjoy special offers & in-store savings, access your registry & find gifts for others, manage your account or use our new scan feature to get instant access to product details, videos & more. Plus, now it\342\200\231s easier than ever to explore Macy\342\200\231s Herald Square store in New York City! Our new location-specific technology provides easy in-store navigation exclusively for our Herald Square store to help you find your favorite brands & departments faster. You can also access the store\342\200\231s restaurant menus, daily event calendars and more.\n\nFeatures:\n\nShop: Shop our entire online assortment\342\200\224anytime, anywhere.\n\nFind a Store: Our store locator is faster than ever, featuring an easier-to-use interface, saved prior store search, auto-complete city searches & more.\n\nGift Registry: Shopping in-store? Scan an item\342\200\231s barcode & add gifts directly to your registry in no time. Create and manage your own registry or locate other registries to purchase gifts.\n\nSpecial Offers: Enjoy exclusive discounts, offers & promotions, including in-store savings passes.\n\nScan Feature: Scan barcodes to get product details, pricing info & customer reviews; scan QR codes to watch videos, visit URLs & find out more about a product or a promotion.\n\nMy Account: Update your personal information & pay your Macy\342\200\231s credit card bill right from your smartphone."
+    downloadsCount: 0
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 19434672
+    packageName: "com.macys.android"
+    category: "Shopping"
+    contactEmail: "app.support@macys.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.macys.com"
+    screenshotsCount: 5
+    promoText: "Official Macy\342\200\231s Android App."
+    recentChanges: "\342\200\242 A newly-designed shop screen & revised home screen make it easier than ever to navigate the app and shop incredible finds in the department of your choice.\n\n\342\200\242 Fixed other minor bugs.\n\nIn case you missed our last update\342\200\246\n\n\342\200\242 We listened to your feedback & fixed the log-in issue some of you were having (really!)"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Macy\'s Inc\""
+  packageName: "com.macys.android"
+  versionCode: 8
+}
+app {
+  id: "v2:com.sears.android:1:90"
+  title: "Sears"
+  appType: APPLICATION
+  creator: "Sears Holdings Management Corporation"
+  version: "3.1.41"
+  rating: "3.8257985"
+  ratingsCount: 2411
+  ExtendedInfo {
+    description: "A fast, easy way to Shop Your Way \342\200\223 on the go. Search, browse and buy, right in the app, then pick up in-store or have it sent to your door.* \n\n*Not all items are available for store pickup \342\200\223 see app for details."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_LOCATION"
+    permissionId: "android.permission.ACCESS_GPS"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 6371803
+    packageName: "com.sears.android"
+    category: "Shopping"
+    contactEmail: "Mobile_Android_Feedback@searshc.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.sears.com"
+    screenshotsCount: 3
+    promoText: "Sears - A fast, easy way to Shop Your Way \342\200\223 on the go."
+    recentChanges: "Our new Express Checkout feature will come in handy this Holiday Season for when you are on the go. All you have to do is setup your preferences then you will be able to checkout with minimal delay.  Now you will be able to redeem your Shop Your Way Reward points for your Holiday purchases! After the purchase you will see how many Shop Your Way Rewards points you earned. Happy Holidays!"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Sears Holdings Management Corporation\""
+  packageName: "com.sears.android"
+  versionCode: 90
+}
+

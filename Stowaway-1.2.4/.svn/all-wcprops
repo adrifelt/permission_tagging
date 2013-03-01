@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/i-svn/sch/!svn/ver/2499/androidTests/appAnalysis/Stowaway-1.2.4
+END
+sendActionIntentAnalysis.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/i-svn/sch/!svn/ver/2499/androidTests/appAnalysis/Stowaway-1.2.4/sendActionIntentAnalysis.rb
+END
+permissionmap.csv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/permissionmap.csv
+END
+FieldObj.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/FieldObj.rb
+END
+collateCounts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/collateCounts.rb
+END
+ReflectObj.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/ReflectObj.rb
+END
+removepackages.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/removepackages.py
+END
+Register.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/Register.rb
+END
+stowaway.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/stowaway.sh
+END
+recvActionManifestAnalysis.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/recvActionManifestAnalysis.rb
+END
+reflectionsHack.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/reflectionsHack.py
+END
+ddx1.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/ddx1.14.jar
+END
+IntentObj.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/IntentObj.rb
+END
+provideranalysis.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/provideranalysis.rb
+END
+baksmali-1.2.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/baksmali-1.2.8.jar
+END
+apktool
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/apktool
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/README.TXT
+END
+interfaceclassess.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/interfaceclassess.txt
+END
+removeirrelevant.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/removeirrelevant.py
+END
+publicmethods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/publicmethods.txt
+END
+getuses.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/getuses.rb
+END
+providermap.csv
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/providermap.csv
+END
+apktool.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/apktool.jar
+END
+ManifestGeneration.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/ManifestGeneration.class
+END
+getclasscalls.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/getclasscalls.rb
+END
+providerperms.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/providerperms.py
+END
+allstringsanalysis.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/allstringsanalysis.rb
+END
+methodlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/methodlist.txt
+END
+allResults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/allResults.rb
+END
+packages.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/packages.txt
+END
+get_apis.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/get_apis.rb
+END
+reflectionanalysis.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/reflectionanalysis.rb
+END
+SinkObj.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/SinkObj.rb
+END
+interfacemethods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/interfacemethods.txt
+END
+AXMLPrinter2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/AXMLPrinter2.jar
+END
+ParseManifest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/i-svn/sch/!svn/ver/2497/androidTests/appAnalysis/Stowaway-1.2.4/ParseManifest.rb
+END
+androidProviderList.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/androidProviderList.txt
+END
+collateResults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/collateResults.rb
+END
+classToService.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/classToService.txt
+END
+classToInterface.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/classToInterface.txt
+END
+uncovered.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/uncovered.txt
+END
+allmethods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/allmethods.txt
+END
+equivalencies.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/equivalencies.txt
+END
+DisallowedBroadcasts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/DisallowedBroadcasts.txt
+END
+versionNotes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/versionNotes.txt
+END
+compare.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/i-svn/sch/!svn/ver/2496/androidTests/appAnalysis/Stowaway-1.2.4/compare.py
+END

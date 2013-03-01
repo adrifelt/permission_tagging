@@ -1,0 +1,2101 @@
+app {
+  id: "v2:com.google.earth:1:13045140"
+  title: "Google Earth"
+  appType: APPLICATION
+  creator: "Google Inc."
+  version: "7.0.3.8527"
+  rating: "4.467899"
+  ratingsCount: 153764
+  ExtendedInfo {
+    description: "Fly around the planet with a swipe of your finger with Google Earth for Android. Explore distant lands or reacquaint yourself with your childhood home. Search by voice for cities, places, and businesses. Browse layers including roads, borders, places, photos and more. Visit the Earth Gallery to find exciting maps such as real-time earthquakes, planes in flight, hiking trails, city tours, and more.\n\nUse the new \342\200\234tour guide\342\200\235 to easily discover exciting new places to explore.  With a quick swipe on the tab at the bottom of the screen, you can bring up a selection of virtual tours from around the globe.\n\nWith new 3D imagery, you can now fly through complete 3D recreations of select cities, including San Francisco, Boston, Rome, and others.  With every building modeled in 3D, you truly get a sense of flying above the city.  3D imagery is available on select devices, including most tablets.\n\nYou can easily navigate with your fingers, using:\n * A one finger swipe to move the globe\n * A two-finger pinch and rotate to zoom in and out and rotate your viewpoint\n * Two-fingers swiped together to tilt your view\n * A one-finger double-tap to zoom in\n * A two-finger double-tap to zoom out"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.NFC"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.USE_CREDENTIALS"
+    permissionId: "android.permission.MANAGE_ACCOUNTS"
+    permissionId: "com.google.android.portable.permission.READ"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 8366999
+    packageName: "com.google.earth"
+    category: "Travel & Local"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.google.com/mobile/earth"
+    screenshotsCount: 5
+    promoText: "Explore the world from the palm of your hand with Google Earth."
+    recentChanges: "New in 7.0.3.8527:\n* Bug fixes\n\nNew in 7.0:\n * Tour guide: Explore places you never thought to search for with new tours of your favorite cities, historic landmarks and natural wonders.\n * 3D imagery: Take flight above entire cities in 3D. Get started with Los Angeles, Boston, San Francisco, Geneva or Rome and look for new additions in the coming weeks.  Available for devices with dual-core processors."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Google Inc.\""
+  packageName: "com.google.earth"
+  versionCode: 13045140
+}
+app {
+  id: "v2:gbis.gbandroid:1:52"
+  title: "GasBuddy - Find Cheap Gas"
+  appType: APPLICATION
+  creator: "GasBuddy.com"
+  version: "2.21"
+  rating: "4.5818934"
+  ratingsCount: 414899
+  ExtendedInfo {
+    description: "Find Cheap Gas Prices\n\nGas prices can vary by up to 20 cents per gallon or more. GasBuddy helps you find the cheapest gas prices with one tap.\n\nSubmitting gas prices helps everyone save money on gas.\n\nFEATURES:\n- Find cheapest gas near you\n- Find cheapest gas by city/zip/postal code\n- Report gas prices to help other people find cheap gas\n- Chance of winning $250 gas every week\n- Earn points for reporting gas prices\n- Earn awards for posting gas prices\n- Save money every time you fill up at the cheapest stations\n\nUSER REVIEWS:\n- \"This app saves me so much it\'s ridiculous.\"\n- \"This app is a no brainer! The accuracy is astounding and WILL save you money. Trust me, you want this app!\"\n- \"I love this app! It helped me find a gas station just a mile from my house that I never knew existed. This app is easy to use and saves you money.\"\n\nGasBuddy uses gas price information provided by our users to bring drivers together to support the common goal of saving money on gas.\n\nGas prices only for USA and Canada"
+    downloadsCount: 0
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 2067815
+    packageName: "gbis.gbandroid"
+    category: "Travel & Local"
+    contactEmail: "gbsupport@gasbuddy.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.gasbuddy.com"
+    screenshotsCount: 3
+    promoText: "GasBuddy helps you find the cheapest gas prices in your area."
+    recentChanges: "V2.21\n- Just fixing some bugs\n\nV2.20\n- Ever wonder who else reports stations in your neighborhood? Check out our cool new feature\342\200\246Top Price Spotters at each station!\n- Improved image quality in high resolution devices\n- We also fixed some bugs"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "GasBuddy.com"
+  packageName: "gbis.gbandroid"
+  versionCode: 52
+}
+app {
+  id: "v2:com.google.android.apps.maps:1:614030402"
+  title: "Maps"
+  appType: APPLICATION
+  creator: "Google Inc."
+  version: "6.14.3"
+  rating: "4.373332"
+  ratingsCount: 2424232
+  ExtendedInfo {
+    description: "Download the latest release of Google Maps, and never carry a paper map again. Google Maps for Android with Navigation (Beta) has:\n\n* Detailed maps with 3D buildings\n* Voice guided turn-by-turn GPS navigation\n* Driving, public transit, biking, and walking directions\n* Live traffic information to avoid congestion\n* Local search and business reviews\n* Google Maps Street View\n* Indoor maps for select airports, hotels, retail stores, and more\n\nWhether you need directions to your destination, the closest good place for a bite to eat, or just a sense of where you are, Google Maps for Android can help.\n\nKeywords: maps, navigation, places, latitude, directions, indoor maps, local search, Street View, traffic, transit"
+    downloadsCount: 0
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.WRITE_CONTACTS"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.google.android.googleapps.permission.GOOGLE_AUTH"
+    permissionId: "com.google.android.googleapps.permission.GOOGLE_AUTH.local"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "com.android.providers.im.permission.READ_ONLY"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.RECORD_AUDIO"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.DISABLE_KEYGUARD"
+    permissionId: "com.android.launcher.permission.INSTALL_SHORTCUT"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.MANAGE_ACCOUNTS"
+    permissionId: "android.permission.USE_CREDENTIALS"
+    permissionId: "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.google.android.apps.maps.permission.C2D_MESSAGE"
+    permissionId: "android.permission.NFC"
+    permissionId: "com.google.googlenav.friend.permission.OPT_IN"
+    permissionId: "com.google.android.apps.maps.permission.PREFETCH"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    permissionId: "android.permission.WRITE_CALL_LOG"
+    installSize: 7239813
+    packageName: "com.google.android.apps.maps"
+    category: "Travel & Local"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.google.com/mobile/maps/"
+    screenshotsCount: 8
+    promoText: "Download the latest release of Google Maps, and never carry a paper map again."
+    recentChanges: "* Bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "\"Google Inc.\""
+  packageName: "com.google.android.apps.maps"
+  versionCode: 614030402
+}
+app {
+  id: "v2:com.yelp.android:1:8079"
+  title: "Yelp"
+  appType: APPLICATION
+  creator: "Yelp"
+  version: "3.8.4"
+  rating: "4.3617873"
+  ratingsCount: 75362
+  ExtendedInfo {
+    description: "Looking for a burrito joint open now? An Irish pub nearby? A gas station you can drive to before your tank hits empty? Yelp for Android is here to help. Use us to search for places to eat, shop, drink, relax and play then read reviews from an active community of locals in the know. \n\nFEATURES: \n\342\230\205 Search for businesses near you \n\342\230\205 Tap quick links to find nearby bars, restaurants, cafes and more \n\342\230\205 Narrow your searches by \'hood, distance, price, and what\'s open now \n\342\230\205 Browse reviews to read what\'s great (and not so great) in your city \n\342\230\205 Find great Deals offered by your favorite local businesses \n\342\230\205 Add Quick Tips, photos, and draft reviews for your favorite businesses \n\342\230\205 Check-in and share on Facebook and Twitter \n\342\230\205 Make reservations on OpenTable without leaving the Yelp app \n\342\230\205 Look up addresses and phone numbers for thousands of businesses, then call or map them from your phone \n\342\230\205 Yelp does augmented reality with Monocle. Overlay business information onto the world around you."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.yelp.android.permission.C2D_MESSAGE"
+    permissionId: "com.yelp.android.permission.MAPS_RECEIVE"
+    permissionId: "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    installSize: 8611522
+    packageName: "com.yelp.android"
+    category: "Travel & Local"
+    contactEmail: "android-feedback@yelp.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.yelp.com"
+    screenshotsCount: 8
+    promoText: "Find and read reviews about great local businesses near you."
+    recentChanges: "\342\230\206 Now add even longer tips - we\'ve bumped up the max character limit, so keep the great tips coming!\n\342\230\206 We\'ve been super busy working on our meteor protection shield over Yelp HQ (a.k.a. the Burst Defender 3000), but we still got in a few more bug fixes."
+    promotionalVideo: "http://www.youtube.com/watch?v=VFaIengNrxY"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Yelp"
+  packageName: "com.yelp.android"
+  versionCode: 8079
+}
+app {
+  id: "v2:com.google.android.street:1:18102"
+  title: "Street View on Google Maps"
+  appType: APPLICATION
+  creator: "Google Inc."
+  version: "1.8.1.2"
+  rating: "4.3010488"
+  ratingsCount: 479231
+  ExtendedInfo {
+    description: "With Google Maps\302\240Street\302\240View, you can explore the world at\302\240street level. See popular landmarks, check out places you want to visit in your hometown or far away, and take a virtual trip around the world.\n\nTo use\302\240Street\302\240View, open Google Maps, search for a place or long-press the map, and tap the\302\240Street\302\240View\302\240option.\n\nTo learn more about\302\240Street\302\240View\302\240and see where it\'s available, visit maps.google.com/streetview."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    installSize: 264451
+    packageName: "com.google.android.street"
+    category: "Travel & Local"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.google.com/mobile/maps/"
+    screenshotsCount: 4
+    promoText: "With Street View on Google Maps, explore the world at street level."
+    recentChanges: "* Bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Google Inc.\""
+  packageName: "com.google.android.street"
+  versionCode: 18102
+}
+app {
+  id: "v2:com.mapquest.android.ace:1:24"
+  title: "MapQuest"
+  appType: APPLICATION
+  creator: "MapQuest"
+  version: "1.7.0"
+  rating: "4.0910897"
+  ratingsCount: 7553
+  ExtendedInfo {
+    description: "FEATURES:\n\342\200\242 Absolutely FREE \342\200\223 There\342\200\231s no trial period, subscription, or upgrade necessary.  You get all these capabilities absolutely free! \n\n\342\200\242 Voice-Guided/Turn-by-Turn Navigation \342\200\223 Your phone speaks to you, telling you when to make a turn.\n\n\342\200\242 New! Traffic-optimized routing \342\200\223 We continually check traffic along your route and adjust if needed.\n\n\342\200\242 Voice Search \342\200\223 Speak your destination or your search, for hands-free input.\n\n\342\200\242 Place Map Toolbar \342\200\223 Look for restaurants, coffee shops, gas stations, etc. with one  1-click.\n\n\342\200\242 Auto Re-route \342\200\223 If you take a wrong turn, it will your route will be automatically adjusted your route to get you to your destination.\n\n\342\200\242 Walking & Driving Directions \342\200\223 Choose to walk or drive and we\342\200\231ll give you the best route either way.\n\n\342\200\242 Live Traffic Flow/Incidents \342\200\223 Extensive coverage that\342\200\231s updated every 5 minutes, to help \342\200\223 to keep you on time.\n\n\342\200\242 Map Rotates in Orientation of Travel \342\200\223 So your map is easier to read (with ability the option to lock to north up).\n\n\342\200\242 Save any location as a Favorite from the Details screen for easy access later.\n\n\342\200\242 Touch-points - Long-press anywhere on the map to get a point you can route to.\n\n\342\200\242 Gas Prices - See current gas prices for stations.\n\n\342\200\242 Satellite Maps, CitySearch Reviews, and more!\n\n\342\200\242 OpenStreetMap (OSM) Map Setting - User-sourced maps can provide unique local perspective and detail.\n\n\342\200\242 Bug Logging for OSM \342\200\223 Standing in front of a new building?  Report it to the community and they\342\200\231ll fill in the missing pieces.\n\n\342\200\242 Bug Logging for OSM \342\200\223 Identify trouble spots in the data for an enthusiast to update, improving the maps.\n\n\342\200\242 International Maps \342\200\223 Automatic OSM maps for international users, so you can\342\200\223 allows users to take MapQuest abroad.\n \nMake MapQuest your default map app on your Android device. Try it today!\n\nWe want your feedback to help us continually improve the experience. Contact us at android-support@mapquest.com. *MapQuest is free, but your carrier may charge data usage fees."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_CHANGE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    installSize: 3001922
+    packageName: "com.mapquest.android.ace"
+    category: "Travel & Local"
+    contactEmail: "android-support@mapquest.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.mapquest.com"
+    screenshotsCount: 6
+    promoText: "FREE voice-guided, turn-by-turn navigation app for Android"
+    recentChanges: "\342\200\242 Traffic-optimized routing \342\200\223 we continually  check traffic along your route and adjust if needed\n\342\200\242\302\240Larger, more readable street names and navigation details\n\342\200\242 Bug Fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "MapQuest"
+  packageName: "com.mapquest.android.ace"
+  versionCode: 24
+}
+app {
+  id: "v2:com.expedia.bookings:1:19"
+  title: "Expedia Hotels & Flights"
+  appType: APPLICATION
+  creator: "Expedia"
+  version: "2.3"
+  rating: "3.9735196"
+  ratingsCount: 8157
+  ExtendedInfo {
+    description: "Save up to 60% with amazing Expedia Mobile Exclusive hotel deals! And now find the best flight to anywhere in the world, too. Flight booking coming soon to tablet. Download Expedia today. \n\nSave big on hotel rooms \n\342\200\242 Save up to 60% with Expedia Mobile Exclusive hotel deals \n\342\200\242 Default to your current location for fast, on-the-go booking \n\342\200\242 See reviews from actual hotel customers \n\342\200\242 Sort price, deals or reviews \342\200\224 instantly \n\342\200\242 Get cheap hotel rooms or 5-star luxury suites \n\nFind the perfect flight \n\342\200\242 Book a flight to anywhere in the world \n\342\200\242 Sort by price, duration or time instantly \n\342\200\242 Search by airport name, city or code \n\nBook in a flash \n\342\200\242 Already signed in? Book in under 30 seconds \n\342\200\242 Get Expedia Rewards points for mobile bookings \n\342\200\242 Slide to purchase and away you go!"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    permissionId: "com.expedia.bookings.permission.MAPS_RECEIVE"
+    installSize: 9751943
+    packageName: "com.expedia.bookings"
+    category: "Travel & Local"
+    contactEmail: "support@expedia.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://support.expedia.com"
+    screenshotsCount: 7
+    promoText: "Hotels & Flights. Anywhere."
+    recentChanges: "\342\200\242 New! Flight booking is now available in the UK, Germany, France and Italy\n\342\200\242 New! Book flights for multiple adults at once\n\342\200\242 New! See even more details about your room before you book\n\342\200\242 New! Improved speed to make booking your room even faster\n\342\200\242 Note: Flight booking is not currently available on tablets"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Expedia"
+  packageName: "com.expedia.bookings"
+  versionCode: 19
+}
+app {
+  id: "v2:com.kayak.android:1:382"
+  title: "KAYAK"
+  appType: APPLICATION
+  creator: "KAYAK.com"
+  version: "5.3.1"
+  rating: "4.498185"
+  ratingsCount: 68324
+  ExtendedInfo {
+    description: "The #1 Mobile Travel app includes flight and car search, hotel search and booking, Flight tracker and My Trips, so you have your itinerary at your fingertips. And of course, KAYAK for Android is free.\n\nKey Features\n- Compare flight, hotel and car rental deals\nBook your hotel, right in the app. Just choose KAYAK as your booking option\n- Track your flight status\n- View and manage your trip itinerary\n- Look up baggage fees\n- Access airline numbers and airport info"
+    downloadsCount: 0
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 12810585
+    packageName: "com.kayak.android"
+    category: "Travel & Local"
+    contactEmail: "android@kayak.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+19783698170"
+    contactWebsite: "http://www.kayak.com"
+    screenshotsCount: 6
+    promoText: "Compare flights, hotels and rental cars, track flights, get cheap travel deals."
+    recentChanges: "- Trips for Android tablets. Add, edit, and view trips that are shared with you\n- Optimized for Nexus 10 and Jelly Bean 4.2\n- Find a hotel near you tonight with just one click\n- Buzz is back with a new look\n- Security upgrade to use https for all communication\n- Lots of UI improvements and bugfixes"
+    promotionalVideo: "http://www.youtube.com/watch?v=xdXsU6CuWiQ"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "KAYAK.com"
+  packageName: "com.kayak.android"
+  versionCode: 382
+}
+app {
+  id: "v2:com.waze:1:1019655"
+  title: "Waze social GPS maps & traffic"
+  appType: APPLICATION
+  creator: "Waze"
+  version: "3.6.0.0"
+  rating: "4.621507"
+  ratingsCount: 478691
+  ExtendedInfo {
+    description: "Waze is a fun, community-based mapping, traffic & navigation app, 40 million strong. Join forces with other drivers nearby to outsmart traffic, save time & gas money, and improve everyone\'s daily commute. \n\nWith community-generated maps and real-time traffic, you\'ll always get the best route to your destination. By simply driving around with Waze open, you\'re already contributing tons of real-time traffic & road info to your local driving community. You can also actively report accidents, hazards, police and other events you see on the road, and get road alerts coming up on your route too. Find the cheapest gas station along your route with community-shared fuel prices. \n\nWaze makes it fun and simple to meet up and coordinate with friends on the road. Connect to Facebook to see friends also headed to your destination. Keep anyone updated about your drive! Send a link to a live map showing your real-time drive and ETA. \n\nIt\'s all about contributing to, and benefiting from, the \'common good\' out there on the road, so hop on board, and get involved in your local driving community today! \n\n\342\234\223 Live routing based on community-generated, real-time traffic and road info \n\342\234\223 Community-contributed road alerts including accidents, hazards, police traps, road closures and more. \n\342\234\223 Complete voice-guided navigation. \n\342\234\223 Automatic re-routing as conditions on the road change. \n\342\234\223 Learns your frequent destinations, commuting hours and preferred routes. \n\342\234\223 Find the cheapest gas station on your route. \n\342\234\223 See Facebook friends also driving to your destination. \n\342\234\223 Notify someone you\'re on your way by sending a live ETA and a link showing you as you drive \n\342\234\223 Earn points and move up the ranks in your community as you contribute road info. \n\342\234\223 Live maps, constantly edited and updated by Waze community map editors. \n\nDrive safe! \n\nNote: Continued use of GPS running in the background can dramatically decrease battery life. Waze will automatically shut down if you run it in the background and haven\'t driven for a while."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    permissionId: "android.permission.MODIFY_AUDIO_SETTINGS"
+    permissionId: "android.permission.WRITE_SETTINGS"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.RECORD_AUDIO"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.BLUETOOTH"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.waze.permission.C2D_MESSAGE"
+    permissionId: "pioneer.permission.appradio.ADVANCED_APPMODE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 19058222
+    packageName: "com.waze"
+    category: "Travel & Local"
+    contactEmail: "support@waze.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.waze.com"
+    screenshotsCount: 7
+    promoText: "A cool social GPS driving and navigation app that connects you to other drivers."
+    recentChanges: "\342\234\223 Report road closures in real time. Waze will close off the road and route others around it \n\342\234\223 Report pins tilted on map to better indicate direction of event \n\342\234\223 Reduced map clutter by showing only relevant road names \n\342\234\223 New moods! \n\342\234\223 New inbox with multiple message selection \n\342\234\223 Update gas prices popup: When in gas station users prompted to update price (Europe only) \n\342\234\223 Optimized performance and multiple bug fixes"
+    promotionalVideo: "http://www.youtube.com/watch?v=R8WKW0xeBxU"
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "Waze"
+  packageName: "com.waze"
+  versionCode: 1019655
+}
+app {
+  id: "v2:com.priceline.android.negotiator:1:64"
+  title: "Priceline Hotels & Rental Cars"
+  appType: APPLICATION
+  creator: "priceline.com"
+  version: "2.2.213"
+  rating: "4.0751405"
+  ratingsCount: 6042
+  ExtendedInfo {
+    description: "The Priceline App offers a simple way to book hotels and rental cars when you\342\200\231re on the go. All reservations are backed by our best price guarantee.\n\nChoose your exact hotel or rental car for any travel date, including last minute and same-day reservations. Try Name Your Own Price\302\256 or Express Deals for even deeper discounts.\n\nApp Features:\n\nHotels \n- 200,000+ hotels on sale everyday\n- See hotels near your current location\n- Filter by hotel star level, price, amenity, or neighborhood\n- Browse hotel photos, descriptions, and real guest reviews\n- Name Your Own Price and save up to 60%\n- See Winning Bids from real Name Your Own Price\302\256 customers to help you bid\n- Exclusive Tonight-Only\302\256 Deals available for a same day reservations\n- Express Deals! A fast way to book hotel deals - without bidding!\n- Home Screen Widget:  See hotel deals in your last searched location or your current location\n\nRental Cars\n- Search thousands of rental cars from top partners\n- Find the nearest airport pick-up location\n- Name Your Own Price and save up to 40%\n- See Winning Bids from real Name Your Own Price\302\256 customers to help you bid"
+    downloadsCount: 0
+    permissionId: "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "com.priceline.android.negotiator.permission.MAPS_RECEIVE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.USE_CREDENTIALS"
+    installSize: 4609355
+    packageName: "com.priceline.android.negotiator"
+    category: "Travel & Local"
+    contactEmail: "mobile@priceline.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.priceline.com"
+    screenshotsCount: 8
+    promoText: "Never pay full price for a hotel again with the Priceline app!"
+    recentChanges: "Hotel Updates:\n\342\234\223 Need a hotel after midnight? Search hotels in your current location until 5:00am EST!\n\342\234\223 Enter Express Deal hotel coupon codes at checkout.\n\342\234\223 Updated hotel Maps including 3D view, and local traffic overlay\n\342\234\223 New hotel confirmation screen displayed immediately after booking.\n\342\234\223 Faster hotel checkout.  We\'ll automatically store guest names, and billing addresses for you.\n\nPlus, a few bug fixes and design updates."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "priceline.com"
+  packageName: "com.priceline.android.negotiator"
+  versionCode: 64
+}
+
+app {
+  id: "v2:com.yellowpages.android.ypmobile:1:3900"
+  title: "YP Local Search & Gas Prices"
+  appType: APPLICATION
+  creator: "Yellowpages.com LLC"
+  version: "3.9.0"
+  rating: "4.4625397"
+  ratingsCount: 70461
+  ExtendedInfo {
+    description: "Find what\342\200\231s around you in a flash! Whether you\342\200\231re looking for a great place to eat or to find cheap gas on the way, the YP\342\204\240 app connects you with local businesses, deals and events to help you get things done.\n\n\342\200\242 Search over 18 million businesses by typing, speaking, or browsing popular categories including movie theaters, hotels, mechanics, dentists, and more.\n\342\200\242 Add the YP\342\204\240 widget to your device home screen to search without having to open the app. In the app, add personalized shortcuts for instant access to nearby businesses, deals, gas prices and events.\n\342\200\242 Craving a specific food? We\'ll look through over 300,000 menus to figure out who\'s got what you want.\n\342\200\242 Find the \342\200\234best\342\200\235 gas prices near you with our unique visual gas price search.\n\342\200\242 Save with thousands of local coupons and deals from businesses near you.*\n\342\200\242 Get important information before heading out including:\n  - Ratings and reviews\n  - Photos \342\200\223 plus upload photos to your favorite businesses!\n  - Restaurant and service menus\n  - Movie showtimes\n  - Hours of operation\n  - Phone numbers\n  - Maps and directions \n\nWhatever you need\342\200\246 Wherever you are\342\200\246 the YP\342\204\240 app covers you locally. What are you waiting for? Try it now! \n\n\n\n* Some restrictions may apply. Please call first to confirm the business will accept this coupon.  Not all businesses accept mobile coupons."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.WRITE_CONTACTS"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.yellowpages.android.ypmobile.permission.C2D_MESSAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    permissionId: "android.permission.WRITE_CALL_LOG"
+    installSize: 3261542
+    packageName: "com.yellowpages.android.ypmobile"
+    category: "Travel & Local"
+    contactEmail: "Android_Support@attinteractive.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.yp.com"
+    screenshotsCount: 7
+    promoText: "Find what\342\200\231s around you in a flash! Whether you\342\200\231re looking for a great place to eat or to find cheap gas on the way, the YP\342\204\240 app connects you with local businesses, deals and events to help you get things done.\n\n\342\200\242 Search over 18 million businesses by typing, speaking, or browsing popular categories including movie theaters, hotels, mechanics, dentists, and more.\n\342\200\242 Add the YP\342\204\240 widget to your device home screen to search without having to open the app. In the app, add personalized shortcuts for instant access to nearby businesses, deals, gas prices and events.\n\342\200\242 Craving a specific food? We\'ll look through over 300,000 menus to figure out who\'s got what you want.\n\342\200\242 Find the \342\200\234best\342\200\235 gas prices near you with our unique visual gas price search.\n\342\200\242 Save with thousands of local coupons and deals from businesses near you.*\n\342\200\242 Get important information before heading out including:\n  - Ratings and reviews\n  - Photos \342\200\223 plus upload photos to your favorite businesses!\n  - Restaurant and service menus\n  - Movie showtimes\n  - Hours of operation\n  - Phone numbers\n  - Maps and directions \n\nWhatever you need\342\200\246 Wherever you are\342\200\246 the YP\342\204\240 app covers you locally. What are you waiting for? Try it now! \n\n\n\n* Some restrictions may apply. Please call first to confirm the business will accept this coupon.  Not all businesses accept mobile coupons."
+    recentChanges: "\342\200\242 Location Aware Autosuggest \342\200\223 based on your location, we\'ll suggest nearby businesses as you type to make searching faster\n\342\200\242 Crash and bug fixes to make the app more stable"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Yellowpages.com LLC\""
+  packageName: "com.yellowpages.android.ypmobile"
+  versionCode: 3900
+}
+app {
+  id: "v2:com.sygic.aura:1:44"
+  title: "Sygic: GPS Navigation"
+  appType: APPLICATION
+  creator: "Sygic."
+  version: "12.2.2"
+  rating: "4.145733"
+  ratingsCount: 97871
+  ExtendedInfo {
+    description: "\342\230\206 Sale (30% off) \342\230\206\n\nTHE MOST DOWNLOADED OFFLINE NAVIGATION APP IN THE WORLD!\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205\"The best quality-price ratio\" - Germano, Italy\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205\"Offline, does not consume data\" - Beto, Mexico\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205\"Great free updates.\"- Guajemaster, Spain\n\nWith over 20,000,000 downloads worldwide, Sygic is the most popular offline GPS navigation app.  \n\nHigh quality TomTom maps stored on your Android (no internet connection needed!) together with a robust set of navigation features help you drive with confidence.\n_______________________________________\n7 DAYS TRIAL \n\342\234\223Unlimited license at www.sygic.com\n_______________________________________\nHIGHLIGHTS\n\342\236\244High quality TomTom maps stored on the phone\n\342\236\244Works with GPS only, internet is not needed\n\342\236\244Turn-by-Turn voice guided navigation\n\342\236\244Spoken Street Names to focus on the road\n\342\236\244Three Alternative Routes to choose from\n\342\236\244Waypoints for places you want to visit \n\342\236\244Dynamic Lane Guidance to know the right lane\n\342\236\244Junction View to understand intersections \n\342\236\244Speed Limit Display to protect your wallet\n\342\236\244Speed Camera Warnings for Speedy Gonzales\n_______________________________________\nBENEFITS\n\342\236\244Free Updates:\302\240 maps, premium POI, speed cams\n\342\236\2443D Cities & Landscape for easy orientation\n_______________________________________\nSAFETY AND USER COMFORT\n\342\236\244Sharp Curve Warnings for added safety \n\342\236\244Notification of Upcoming Speed Limit Change\n\342\236\244Avoid Toll Roads on part or on entire route\n\342\236\244Avoid Roadblocks, Motorways \342\200\246\n\342\236\244Pedestrian Navigation to walk and explore\n\342\236\244Compass & Stopwatch for outdoor activities\n_______________________________________\nGREAT SEARCH\n\342\236\244Google\342\204\242 Local Search to find anything\n\342\236\244Find and Navigate to\n\302\267\302\240\302\240\302\240\302\240\302\240\302\240\302\240\302\240 Address\n\302\267\302\240\302\240\302\240\302\240\302\240\302\240\302\240\302\240 Contact\n\302\267\302\240\302\240\302\240\302\240\302\240\302\240\302\240\302\240 POI\n\302\267\302\240\302\240\302\240\302\240\302\240\302\240\302\240\302\240 Postal code\n\302\267\302\240\302\240\302\240\302\240\302\240\302\240\302\240\302\240 Intersection\n\302\267\302\240\302\240\302\240\302\240\302\240\302\240\302\240\302\240 GPS coordinates \n\302\267\302\240\302\240\302\240\302\240\302\240\302\240\302\240\302\240 Geo tagged photo\n\302\267\302\240\302\240\302\240\302\240\302\240\302\240\302\240\302\240 Home\n_______________________________________\nAPP THAT IS PERSONAL\n\342\236\244Import of interesting locations - POIs\n\342\236\244Customizable navigation screen\n\342\236\244Road Incident Sharing with other drivers\n\342\236\244SOS/Help to find assistance nearby\n\342\236\244Customizable spoken warnings\n\342\236\244Friends on the map\n_______________________________________\nCOMPATIBLE TO THE MAX\n\342\236\244Smooth Hardware Accelerated 3D rendering\n\342\236\244Car Audio Integration \342\200\223 Bluetooth or cable\n\342\236\244Graphics optimized for tablet & HD displays\n_______________________________________\nAVAILABLE MAPS:\nAlgeria, Andorra, Angola, Argentina, Australia, Austria, Azerbaijan, Bahrain, Belgium, Benin, Botswana, Brazil, Brunei, Bulgaria, Burkina Faso, Cameroon, Canada, Canary Islands, Colombia, Croatia, Czech Republic, Cyprus, Democratic Republic of Congo, Denmark, Egypt, Estonia, Finland, France, Gabon, Germany, Ghana, Gibraltar, Greece, Hong Kong, Hungary, Chile, India, Indonesia, Iran, Iraq, Ireland, Israel, Italy, Kazakhstan, Kenya, Kuwait, Latvia, Lesotho, Liechtenstein, Lithuania, Luxembourg, Macau, Malawi, Malaysia, Mali, Malta, Mauritania, Mauritius, Mayotte, Mexico, Monaco, Morocco, Mozambique, Namibia, Netherlands, New Zealand, Niger, Nigeria, Norway, Oman, Pakistan, Philippines, Poland, Portugal, Qatar, Republic of Congo, Reunion, Romania, Russia, San Marino, Saudi Arabia, Senegal, Serbia, Singapore, Slovakia, Slovenia, South Africa, Spain, Swaziland, Sweden, Switzerland, Taiwan, Tanzania, Thailand, Togo, Tunisia, Turkey, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uruguay, USA, Vatican, Venezuela, Vietnam, Zambia, Zimbabwe\n\nSygic. We listen."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.READ_LOGS"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.MODIFY_AUDIO_SETTINGS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.sygic.aura.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.android.launcher.permission.INSTALL_SHORTCUT"
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "com.android.vending.CHECK_LICENSE"
+    permissionId: "pioneer.permission.appradio.ADVANCED_APPMODE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    installSize: 11121736
+    packageName: "com.sygic.aura"
+    category: "Travel & Local"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.sygic.com/en/android"
+    screenshotsCount: 8
+    promoText: "Premium turn-by-turn GPS navigation app."
+    recentChanges: "\342\236\244Contains further improvements and optimizations \n\nSygic. We listen."
+    promotionalVideo: "http://www.youtube.com/watch?v=SnwI3dZNChk&feature=plcp"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Sygic."
+  packageName: "com.sygic.aura"
+  versionCode: 44
+}
+app {
+  id: "v2:com.southwestairlines.mobile:1:12"
+  title: "Southwest Airlines"
+  appType: APPLICATION
+  creator: "Southwest Airlines"
+  version: "1.12.0"
+  rating: "3.7734928"
+  ratingsCount: 4512
+  ExtendedInfo {
+    description: "Traveling with Southwest Airlines is even more convenient with our first Android app. Use your phone to:\n*Manage air reservations\n*Manage rental car reservations\n*Check in for flights\n*Check flight status\n*Review flight schedules\n*Access your Rapid Rewards account\n*Access helpful contact information"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3189935
+    packageName: "com.southwestairlines.mobile"
+    category: "Travel & Local"
+    contactEmail: "MobileAppSupport@wnco.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18004359792"
+    contactWebsite: "http://www.southwest.com/"
+    screenshotsCount: 3
+    promoText: "Southwest Airlines Android App"
+    recentChanges: "Update includes:\n\342\200\242Bug Fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Southwest Airlines\""
+  packageName: "com.southwestairlines.mobile"
+  versionCode: 12
+}
+app {
+  id: "v2:com.skype.android.access:1:4469"
+  title: "Skype WiFi"
+  appType: APPLICATION
+  creator: "Skype"
+  version: "1.0.0.5"
+  rating: "4.2797427"
+  ratingsCount: 311
+  ExtendedInfo {
+    description: "Skype WiFi \n\nGet online at over 1 million WiFi hotspots around the world. Pay per minute with Skype Credit. The must-have app for trips abroad and international travelers. \n\nReduce your data roaming costs when you\342\200\231re abroad: \n\342\200\242 Use Skype WiFi to connect to WiFi hotspots at hotels, airports, train stations, bars and restaurants \342\200\223 available at over 1 million hotspots worldwide. \n\342\200\242 Just one tap to connect \342\200\223 then browse the internet, check email, use Skype, check Facebook, update Twitter, upload photos, download music or ebooks. \n\342\200\242 Only pay for the time you\342\200\231re connected - there are no limits on the amount of data you can upload or download. \n\nIt\342\200\231s easy to get started: \n\342\200\242 Download the free Skype WiFi app. \n\342\200\242 Sign in with your Skype account. \n\342\200\242 Make sure you have some Skype Credit in your account. \n\nGetting online at a compatible hotspot: \n\342\200\242 Open the Skype WiFi app \n\342\200\242 Tap Connect. \n\342\200\242 You\342\200\231re online! Simple. \n\nOnce you\342\200\231ve finished, just tap Disconnect.\n\nGreat low per-minute prices, wherever you\342\200\231re connecting: \n\342\200\242 With Skype WiFi, you can go online and pay by the minute. Before you connect, you\342\200\231ll clearly see the price of the hotspot you\342\200\231re connecting to. \n\342\200\242 Remember, you\342\200\231ll only ever be charged for the minutes you\342\200\231re connected, not the amount you download or upload. \n\342\200\242 You\342\200\231re in control \342\200\223 each session lasts for a maximum of 30 minutes and you\342\200\231ll be asked to reconnect if you wish to continue your session. You can tap Disconnect at any time. \n\342\200\242 Check Skype WiFi availability and costs at http://www.skype.com/go/skypewifi. \n\nSystem requirements: \n\342\200\242 Android device running Android 2.2 or newer\n\342\200\242 WiFi connection to compatible network \n\342\200\242 Skype Account with Skype Credit required \n\nSkype WiFi is provided by 3rd party WiFi operators around the world."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_NETWORK_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3171099
+    packageName: "com.skype.android.access"
+    category: "Travel & Local"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://www.skype.com/go/skypewifi"
+    screenshotsCount: 5
+    promoText: "The must-have app for trips abroad and international travelers."
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "Skype"
+  packageName: "com.skype.android.access"
+  versionCode: 4469
+}
+app {
+  id: "v2:com.delta.mobile.android:1:15"
+  title: "Fly Delta"
+  appType: APPLICATION
+  creator: "Delta Air Lines, Inc."
+  version: "2.0.1"
+  rating: "3.4815829"
+  ratingsCount: 4751
+  ExtendedInfo {
+    description: "Get ready to experience our completely re-imagined Fly Delta app for Android. We listened to your feedback and added many innovative new features to our award-winning app, including the ability to shop for flights.\n\n\n\342\200\242 Find, compare and book flights\n\342\200\242 Purchase Economy Comfort and other seat products and Trip Extras, including in-flight Wi-Fi, Priority Boarding and more\n\342\200\242 Rebook cancelled flights or missed connections\n\342\200\242 Manage your trips, profile and transactions, and customize your travel preferences\n\342\200\242 Check your SkyMiles\302\256 account balance and current Medallion\302\256 status\n\342\200\242 Check in and download your eBoarding Pass (available at select airports worldwide)\n\342\200\242 Pay for checked bags and track their location\n\342\200\242 Check the latest flight status and receive flight and gate change notifications\n\342\200\242 Save a photo to remember your parking spot\n\342\200\242 Check your status on the upgrade or standby list\n\342\200\242\tView or change your seat\n\342\200\242\tLocate Delta Sky Club\302\256 lounges\n\342\200\242\tView expanded airport maps, public transportation details and weather information\n\342\200\242\tGet detailed info about our fleet and partners\n\342\200\242\tMap flights en route with an interactive flight tracker\n\nThe Fly Delta app for Android and delta.com are always free to use on Delta\342\200\231s Wi-Fi-enabled flights. Visit delta.com/app for more information.\n\nDelta Air Lines serves more than 160 million customers each year. With its unsurpassed global network, Delta and its partner airlines offer service to more than 350 destinations in nearly 70 countries on six continents."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_CALENDAR"
+    permissionId: "android.permission.WRITE_CALENDAR"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "com.delta.mobile.android.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 8165914
+    packageName: "com.delta.mobile.android"
+    category: "Travel & Local"
+    contactEmail: "MobileApp@delta.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.delta.com/app"
+    screenshotsCount: 8
+    promoText: "Manage your travel on Delta with access to boarding passes, flight info & more."
+    recentChanges: "- Bug fixes and performance enhancements"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Delta Air Lines, Inc.\""
+  packageName: "com.delta.mobile.android"
+  versionCode: 15
+}
+app {
+  id: "v2:com.tripadvisor.tripadvisor:1:26"
+  title: "TripAdvisor Hotels Flights"
+  appType: APPLICATION
+  creator: "TripAdvisor"
+  version: "2.0.5"
+  rating: "4.493355"
+  ratingsCount: 135734
+  ExtendedInfo {
+    description: "Plan and have your perfect trip with TripAdvisor. With over 75 million candid reviews and opinions by travelers, TripAdvisor makes it easy to find the best hotels, great restaurants, and fun things to do, wherever you go. Our robust flight search helps you find airfare deals, even on the go. And booking options for hotels, restaurants, and airfare are just a tap away.\n\nThe TripAdvisor mobile app is free and easy to use.\n\342\200\242\tBrowse millions of reviews, opinions, and candid photos by travelers\n\342\200\242\tFind the best hotel for you, including Travelers\' Choice award winners\n\342\200\242\tExplore restaurants by food type, price range, and rating\n\342\200\242\tDiscover cool things to do in any destination\n\342\200\242\tCompare airfares and find great deals \n\342\200\242\tUse Near Me Now to discover options near you or any address you enter\n\342\200\242\tGet answers to your specific travel questions in the forums\n\342\200\242\tAdd your own reviews and photos"
+    downloadsCount: 0
+    permissionId: "com.tripadvisor.tripadvisor.permission.C2D_MESSAGE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_GPS"
+    permissionId: "android.permission.ACCESS_ASSISTED_GPS"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    installSize: 1217461
+    packageName: "com.tripadvisor.tripadvisor"
+    category: "Travel & Local"
+    contactEmail: "mobilehelp@tripadvisor.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+16176706300"
+    contactWebsite: "http://www.tripadvisor.com/help"
+    screenshotsCount: 7
+    promoText: "Millions of traveler reviews, photos, maps from TripAdvisor."
+    recentChanges: "-New Point Me There! feature shows your distance from a selected destination and gives you directions to get there.\n-Receive notifications when your reviews/photos are published or when members reply to your forum posts. \n-New permissions for push notifications allow the app to wake up the device to receive Google Cloud messages when user reviews/photos are published. TripAdvisor does not unnecessarily keep the device awake for purposes other than receiving Google Cloud messages\n-Minor bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "TripAdvisor"
+  packageName: "com.tripadvisor.tripadvisor"
+  versionCode: 26
+}
+app {
+  id: "v2:com.united.mobile.android:1:38"
+  title: "United Airlines"
+  appType: APPLICATION
+  creator: "United Airlines"
+  version: "1.0"
+  rating: "3.6589575"
+  ratingsCount: 2897
+  ExtendedInfo {
+    description: "United Airlines is proud to introduce our new mobile app for Android devices.  With features from Flight Booking to Flight Status, the United Airlines Mobile App will quickly become your indispensable travel companion.\n\nKey Features:\n\342\200\242\tCheck-in and Mobile Boarding Pass storage \342\200\223 quick access so you\342\200\231re ready on the go.\n\342\200\242\tFlight Booking \342\200\223 book your flights, including Award Travel, from your mobile device.\n\342\200\242\tFlight Status \342\200\223 see upgrade priority list, seat map, in-flight amenities, as well as departure gate.\n\342\200\242\tFlight Status Push Notification \342\200\223 monitor a selected flight and receive automatic updates sent to your device.\n\342\200\242\tAccount Access \342\200\223 view your Mileage Plus\302\256 account information.\n\342\200\242\tAirport Maps \342\200\223 zoom in on maps to help you navigate through the airport.\n\342\200\242\tFlight View \342\200\223 see flight maps of current flight status and weather.\n\342\200\242      For every new download of the app, United will donate miles to\nFeeding America, the nation\'s leading domestic hunger-relief charity.\n\nAdditional features include United Club locations, United social media networking information, DIRECTV\302\256 and Sudoku games.\n\nThe United Airlines Mobile App puts valuable travel information in the palm of your hand, ready to access at a moment\342\200\231s notice."
+    downloadsCount: 0
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.READ_CALENDAR"
+    permissionId: "android.permission.WRITE_CALENDAR"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 5207378
+    packageName: "com.united.mobile.android"
+    category: "Travel & Local"
+    contactEmail: "ssqa@united.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+17133245000"
+    contactWebsite: "http://www.united.com"
+    screenshotsCount: 4
+    promoText: "United Airlines is proud to introduce our new mobile app for Android devices.  With features from Flight Booking to Flight Status, the United Airlines Mobile App will quickly become your indispensable travel companion.\n\nKey Features:\n\342\200\242\tCheck-in and Mobile Boarding Pass storage \342\200\223 quick access so you\342\200\231re ready on the go.\n\342\200\242\tFlight Booking \342\200\223 book your flights, including Award Travel, from your mobile device.\n\342\200\242\tFlight Status \342\200\223 see upgrade priority list, seat map, in-flight amenities, as well as departure gate.\n\342\200\242\tFlight Status Push Notification \342\200\223 monitor a selected flight and receive automatic updates sent to your device.\n\342\200\242\tAccount Access \342\200\223 view your Mileage Plus\302\256 account information.\n\342\200\242\tAirport Maps \342\200\223 zoom in on maps to help you navigate through the airport.\n\342\200\242\tFlight View \342\200\223 see flight maps of current flight status and weather.\n\342\200\242      For every new download of the app, United will donate miles to\nFeeding America, the nation\'s leading domestic hunger-relief charity.\n\nAdditional features include United Club locations, United social media networking information, DIRECTV\302\256 and Sudoku games.\n\nThe United Airlines Mobile App puts valuable travel information in the palm of your hand, ready to access at a moment\342\200\231s notice."
+    recentChanges: "- Minor bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"United Airlines\""
+  packageName: "com.united.mobile.android"
+  versionCode: 38
+}
+app {
+  id: "v2:com.hcom.android:1:17"
+  title: "Hotels.com \342\200\223 Hotel Reservation"
+  appType: APPLICATION
+  creator: "hotels.com"
+  version: "3.1.3"
+  rating: "4.2956185"
+  ratingsCount: 24376
+  ExtendedInfo {
+    description: "You get the best interactive hotel booking experience with the Hotels.com free Android app \n\n\342\200\242\tFind and book a room securely with over 154,000 hotels throughout 200 countries giving you great choice and value.\n\342\200\242\tSave on your booking with over 20,000 last minute hotel deals, discounts and promotions.\n\342\200\242\tFind a hotel tonight with our exclusive \342\200\230Tonight\342\200\231s Local Deals\342\200\231 feature for special daily offers and late room reservations, only available to Hotels.com mobile users.\n\342\200\242\tCheap hotel rooms or 5 star luxury suites, the hotels.com app makes it easy to find the best accommodation including hotels, apartments and B&Bs.\n\342\200\242\tUse our hotel guest reviews and opinions from genuine customers to find the perfect hotel for you \342\200\223 we even include TripAdvisor reviews!\n\342\200\242\tSearch for a place to stay close to your location as well as on our interactive maps.\n\342\200\242\tSort, filter and compare by price, deals, ratings or reviews with the powerful Hotels.com search tools.\n\342\200\242\tChoose your favourite brands including; Hilton, Marriott, Best Western, Sheraton, Radisson, Holiday Inn and many more.\n\nHotels.com app Anywhere, Everywhere makes your hotel booking quick, friendly and easy\n\n\342\200\242\tAdd the Hotels.com widget to your home screen, your reservations are just a click away.\n\342\200\242\tAccess your past, current and future reservations, even when offline.\n\342\200\242\tView your hotel\342\200\231s location with just one touch to find the best route to your hotel\n\342\200\242\tSign in once then there is no need to re enter your email and password. No Hotels.com account? No problem, you can create one within app or book as a guest user.\n\342\200\242\tClick to call a dedicated team of hotel experts.\n\342\200\242\tAvailable in more than 34 languages in more than 70 countries.\n\nAt Hotels.com, we reward our customers\n\n\342\200\242\tBenefit from Hotels.com WelcomeRewards (buy 10 nights and get 1 free). All bookings made on the Hotels.com app (at eligible hotels) will count towards your WelcomeRewards account, which can be viewed via the app.\n\nHotels.com \342\200\223 An Expedia Inc. brand\n\n\342\200\242\tFind more at our website: http://www.hotels.com \n\342\200\242\tJoin us on Facebook: http://facebook.com/Hotels.comUS\n\342\200\242\tFollow us on Twitter for the latest alerts and offers: http://www.twitter.com/hotelsdotcom\n\342\200\242\tFollow us on Google: http://plus.google.com/+hotelscom"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 5469079
+    packageName: "com.hcom.android"
+    category: "Travel & Local"
+    contactEmail: "handroid@expedia.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.hotels.com"
+    screenshotsCount: 8
+    promoText: "Book last minute hotel deals on everything from cheap to 5 star luxury hotels."
+    recentChanges: "Now you can download the Hotels.com app for your tablet device.\n\nMinor bug fixes and improvements including fixing crashes on the latest Android OS\n\nAs always, thanks for all your feedback, every piece has been reviewed by our Android team!"
+    promotionalVideo: "http://www.youtube.com/watch?v=0mInMHFWtMQ"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "hotels.com"
+  packageName: "com.hcom.android"
+  versionCode: 17
+}
+app {
+  id: "v2:com.urbanspoon:1:28"
+  title: "Urbanspoon"
+  appType: APPLICATION
+  creator: "Urbanspoon Team"
+  version: "2.2.1"
+  rating: "4.126984"
+  ratingsCount: 12474
+  ExtendedInfo {
+    description: "Can\'t decide where to eat? Urbanspoon can help. Shake your phone and Urbanspoon suggests restaurants near you. Keep shaking until you find a restaurant you\'d like to try.\n\nAvailable in the US, Canada, and most major cities in the UK and Australia."
+    downloadsCount: 0
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    permissionId: "android.permission.ACCESS_MOCK_LOCATION"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.CONTROL_LOCATION_UPDATES"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 1974449
+    packageName: "com.urbanspoon"
+    category: "Travel & Local"
+    contactEmail: "android@urbanspoon.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.urbanspoon.com"
+    screenshotsCount: 5
+    promoText: "Can\'t decide where to eat? Urbanspoon can help."
+    recentChanges: "v 2.2.1\n- Minor bug fixes\n- Fixed Nexus 7 photo upload\n\nv 2.2.0\n- Redesigned homescreen\n- Fixed Facebook login bug\n- Fixed several photo upload bugs\n- Added ability to update user location from more places within the app\n\nv 2.1.9\n- Additional sorts for nearby restaurants"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Urbanspoon Team\""
+  packageName: "com.urbanspoon"
+  versionCode: 28
+}
+app {
+  id: "v2:com.orbitz:1:17"
+  title: "Orbitz - Hotels, Flights, Cars"
+  appType: APPLICATION
+  creator: "orbitz.com"
+  version: "2.2.2"
+  rating: "3.783374"
+  ratingsCount: 2045
+  ExtendedInfo {
+    description: "Orbitz is the #1 way to book travel on your mobile device. The Orbitz\302\256 app for Android\342\204\242 lets you quickly search and book hotels, flights, and rental cars. You can also view your current trips, check flight status, find hotels near your current location using your phone\342\200\231s GPS, and get exclusive mobile-only discounts on select hotels worldwide. Orbitz offers a simple, secure booking process and Orbitz Price Assurance\342\204\240  protection for flights and prepaid hotels. \n\nFeatures include:\n- Orbitz Mobile Steals: When doing a hotel search, look for these exclusive mobile-only discounts of up to 50% off select hotels worldwide -- whether you need a room for tonight or are booking further in advance. \n- Detailed hotel information, including photos, guest reviews and maps. \n- Flight information, with sorting by lowest price, departure time, and more\n- Rental car availability, even booking as little as 30 minutes before pick-up.\n- Flight status, gate and baggage claim information. Great for when you\342\200\231re traveling or picking up a traveler.\n- Ability to call our trained agents in just one tap. They\342\200\231re standing by 24/7 to assist you \342\200\224 whether you\342\200\231re booking a trip or traveling.\n\n***************************************** \nJUST NEED A HOTEL? \nCheck out our \"Hotels by Orbitz\" app that\'s also available on Google Play -- an ultra-fast way to book a hotel and a recent Google Play Staff Pick!\n*****************************************"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_GPS"
+    permissionId: "android.permission.ACCESS_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    installSize: 6203753
+    packageName: "com.orbitz"
+    category: "Travel & Local"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.orbitz.com/mobile"
+    screenshotsCount: 8
+    promoText: "Book hotels, cars & flights; get mobile-only hotel deals; view your trips + more"
+    recentChanges: "Houston, we no longer have a problem\n(fixed the issue preventing some flight searches to/from Houston)"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "orbitz.com"
+  packageName: "com.orbitz"
+  versionCode: 17
+}
+
+app {
+  id: "v2:com.amtrak.rider:1:635"
+  title: "Amtrak"
+  appType: APPLICATION
+  creator: "Amtrak"
+  version: "2.0.2"
+  rating: "3.4004738"
+  ratingsCount: 422
+  ExtendedInfo {
+    description: "NOTICE (1/30):  Amtrak has resolved an issue with a recent cellular network upgrade.  Customers who continue to experience connection issues should try turning off their phone and turning it back on.  If that does not fix the issue please provide us details at Amtrak.com/contact-us or m.amtrak.com/contact-us.\n----------------------------------------------\nExperience a new way to take the train with Amtrak. Get simple and intuitive access to all the travel information you need, book your trip on the go, and stay up-to-date as trains arrive. Do it all without the hassle of your laptop, making calls or extra trips to the office. With the Amtrak mobile application you can: \n\342\200\242 Plan and book travel throughout Amtrak\342\200\231s nationwide system of trains and buses\n\342\200\242 Check the arrival and departure status of trains using train number or two stations.\n\342\200\242 Display your eTicket from right in the app.  Leave paper behind.  eTickets are available nationwide. See Amtrak.com/eTicketing for more details.\n\342\200\242 Modify your reservations or upgrade your seat.\n\342\200\242 Search stations for location, building amenities and hours of operation.  Amtrak links you to Google for maps, streetview and turn-by-turn directions\n\342\200\242 Connect to your Amtrak Guest Rewards account\n\nAmtrak for Android integrates with your phone so you can select passengers from contacts, add trips to the calendar and share your trip."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.READ_CALENDAR"
+    permissionId: "android.permission.WRITE_CALENDAR"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.DUMP"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 7593873
+    packageName: "com.amtrak.rider"
+    category: "Travel & Local"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18008727245"
+    contactWebsite: "http://www.amtrak.com/"
+    screenshotsCount: 8
+    promoText: "Up-to-Date and On The Go.  Amtrak optimized for Android."
+    recentChanges: "Amtrak has resolved an issue with a recent cellular network upgrade.  Customers who continue to experience connection issues should try turning off their phone and turning it back on.  If that does not fix the issue please provide us details at www.amtrak.com/contact-us or m.amtrak.com/contact-us.\n\n\342\200\242 Fixes for bugs and crashes.\n\342\200\242 Performance enhancements.\n\n\342\200\242 During purchase, customers can request to be notified if their train is running late."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Amtrak"
+  packageName: "com.amtrak.rider"
+  versionCode: 635
+}
+app {
+  id: "v2:com.yellowbook.android2:1:77"
+  title: "US Yellow Pages"
+  appType: APPLICATION
+  creator: "hibu Inc"
+  version: "5.2.0"
+  rating: "4.3884473"
+  ratingsCount: 48058
+  ExtendedInfo {
+    description: "Yellowbook\'s free US Yellow Pages app on Android is all about *your* \342\200\230local\342\200\231.  It can help you find local places to be, businesses you need, or fun things to do fast.  Plus we stuffed it with some really cool features.  To name a few:  \n \n- Thumbs tired?  Use voice search to tell the app what you are looking for (\"Mexican Restaurants in Manayunk\", \"Plumbers near me\", \"Directions to Mercy Hospital\").  \n \n- Have a favorite hangout?  Save the details in the app for speedy returns.  \n \n- Wondering what is close to you?  Tap \'Find Me\' to see what businesses are a hop, skip, or jump away.\n \n - Love to see the world through a rose colored camera?  Check out all the businesses closest to you using our Augmented Reality feature.\n \n- Found a shiny new object but want to see if you can get it for a better price?  Whip out the barcode scanner, scan the UPC, and see who else carries it!  \n \n- Ready for a night out?  Make OpenTable reservations from a business\'s profile.\n \n - Can you get there from here?  Get directions and navigation help to any business with an address (and then save them to your home screen for later).\n \n- Widgets, widgets, who wants widgets?  We have 4 for easier access to stuff \342\200\223 voice search, barcode scanning, updates to local daily deals, and fast restaurant searches.\n \nAll of this on top of great local search functionality!\n  \n             What else are you waiting for?  \n\nDownload now; then tell all your friends (you can do that in the app too)!"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.RECORD_AUDIO"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.MODIFY_AUDIO_SETTINGS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.FLASHLIGHT"
+    permissionId: "android.permission.WRITE_CONTACTS"
+    permissionId: "com.android.launcher.permission.INSTALL_SHORTCUT"
+    permissionId: "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    permissionId: "com.yellowbook.android2.permission.MAPS_RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.WRITE_CALL_LOG"
+    installSize: 2649361
+    packageName: "com.yellowbook.android2"
+    category: "Travel & Local"
+    contactEmail: "development@yellowbook.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.yellowbook.com"
+    screenshotsCount: 8
+    promoText: "Yellowbook\'s free yellow pages search app helps you find local businesses fast."
+    recentChanges: "Android 4.1 lock screen widget support;\nCurrent location pin on map per user feedback;\nPerformance improvements and bug fixes"
+    promotionalVideo: "http://www.youtube.com/watch?v=fJ7q5BE5N5o"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"hibu Inc\""
+  packageName: "com.yellowbook.android2"
+  versionCode: 77
+}
+app {
+  id: "v2:com.eclipsim.gpsstatus2:1:64"
+  title: "GPS Status & Toolbox"
+  appType: APPLICATION
+  creator: "MobiWIA - EclipSim"
+  version: "4.0.1"
+  rating: "4.5311446"
+  ratingsCount: 46204
+  ExtendedInfo {
+    description: "<b>Displays GPS and sensor data</b>: position and signal strength of satellites, accuracy, speed, acceleration, altitude, bearing, pitch, roll and battery state.\n<b>Tools included</b>: compass with magnetic and true north, leveling tool, mark or share your location and navigate back later. \n<b>Keep your GPS fast</b>: reset it or download A-GPS data regularly for faster fixes.\n\n<b>Visit the FAQ</b> at: http://mobiwia.com/gpsstatus\n\nGPS Status is 100% space proof. Try to spot the program in the video below :)\n\n<b>KNOWN FIRMWARE ISSUES</b> (please do not report them): \n- <b>Samsung phones</b>: Because of a firmware bug, they may report extreme battery consumption for GPS Status even if it is not running at all (other programs using sensors are affected too). This is harmless and no power is consumed! Just ignore it and let\'s hope that a future firmware upgrade will fix this on your phone.\n\n- <b>Droid 3</b>: The initial Droid 3 firmware does not implement the satellite status API so you will not see the satellites and the signal strength bars. The rest of the features should work properly.\n\n- <b>Motorola phones</b>: On some phones, turning your phone to airplane mode will turn off the GPS receiver, too. This is a hardware limitation.\n\n- <b>Droid Charge</b>: Reports 0 altitude.\n\n- <b>LG Optimus</b>: The phone cannot report the satellite SNR values correctly (all signal bars will be maxed out).\n\n- <b>Nexus One/S</b>: With Andoid 2.3 it cannot report NMEA sentences. This means that the DOP/HDOP/VDOP values are not available."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    installSize: 594848
+    packageName: "com.eclipsim.gpsstatus2"
+    category: "Travel & Local"
+    contactEmail: "support@eclipsim.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://mobiwia.com/gpsstatus"
+    screenshotsCount: 2
+    promoText: "Make it work, show it all, get me there... Get the most out of your phone\'s GPS."
+    recentChanges: "Holiday sale: <b>50% off</b> from the PRO version!\n\n4.0.1:\n+ PRO: Storing and displaying multiple waypoints.\n+ PRO: Pressure instrument for devices that support it.\n+ PRO: Rotation speed instrument + analog angular speed display around the perimeter of the sky grid (for devices with a gyroscope).\n+ GPS Status monitor on the notification bar. Can be disabled in settings.\n+ GLONASS sats (PRN>64) are shown as small squares and displayed on the right hand side of the signal bar."
+    promotionalVideo: "http://www.youtube.com/watch?v=x8XjIkdUQns"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"MobiWIA - EclipSim\""
+  packageName: "com.eclipsim.gpsstatus2"
+  versionCode: 64
+}
+app {
+  id: "v2:com.opentable:1:1013230"
+  title: "OpenTable"
+  appType: APPLICATION
+  creator: "OpenTable"
+  version: "2.3"
+  rating: "4.2616854"
+  ratingsCount: 17372
+  ExtendedInfo {
+    description: "Restaurant Reservations \342\200\223 Free, Instant, Confirmed. With OpenTable for Android you can make free restaurant reservations at more than 27,000 OpenTable-enabled restaurants in the United States, Canada, and Mexico. UK DINERS PLEASE NOTE: UK Restaurants can now be booked via your mobile browser at http://m.toptable.co.uk. Plus, OpenTable members earn valuable Dining Rewards Points redeemable for Dining Cheques good at any OpenTable restaurant. \n\nHOW IT WORKS: \nSpecify your dining date, desired time and party size to view available tables at nearby restaurants \342\200\223 listed by proximity or plotted on an interactive map. \n\nFEATURES YOU\'LL LOVE: \n- SEARCH by restaurant name \n- FIND restaurants nearest to your current location & see real-time table availability. \n- MAP results with an interactive, location-based map. \n- REFINE results by cuisine, price, reservation time, or points awarded. \n- SEE restaurant menus & OpenTable diner ratings and reviews. \n- REVIEW - Quickly see recently viewed restaurants \n- RESERVE your table free! \n\nADDITIONAL FEATURES WITH FREE MEMBER REGISTRATION \n- Manage upcoming reservations & browse previous reservations. \n- Earn Dining Rewards Points redeemable for Dining Cheques good at any OpenTable restaurant. \n- Invite dining companions via email. \n\nFEEDBACK: \nExperiencing issues? Have a feature request or recommendation for future versions? Please visit support.opentable.com"
+    downloadsCount: 0
+    permissionId: "com.opentable.permission.MAPS_RECEIVE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "com.android.launcher.permission.INSTALL_SHORTCUT"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 1517625
+    packageName: "com.opentable"
+    category: "Travel & Local"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://support.opentable.com"
+    screenshotsCount: 8
+    promoText: "Free reservations at 27,000+ restaurants in the US, Canada and Mexico"
+    recentChanges: "- We\'ve given the app a fresh coat of paint and updated the layout on a couple of key screens\n- Google+ Sign-In simplifies login and lets you share reservations and menus with friends (requires new Android GET_ACCOUNTS permission)\n- Easy to read Menus give you a taste for the restaurant\342\200\231s offerings\n- Added Action bar\n- Plus we fixed a pesky GPS bug to improve battery life\n- \342\200\246And we\'re not done yet, keep looking out for more improvements, more often!"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "OpenTable"
+  packageName: "com.opentable"
+  versionCode: 1013230
+}
+app {
+  id: "v2:com.aa.android:1:2030000"
+  title: "American Airlines"
+  appType: APPLICATION
+  creator: "American Airlines, Inc."
+  version: "2.3"
+  rating: "3.9142525"
+  ratingsCount: 2589
+  ExtendedInfo {
+    description: "Introducing the travel app that understands who you are and where you\342\200\231re going. With the American Airlines app, you can view personal flight details such as your gate, seat and flight status info at a glance. You can access your Mobile Boarding Pass \342\200\223 the app saves it for you so it\342\200\231s always easy to find. You can also monitor your place on the standby list, track your elite status progress, play Sudoku, set parking reminders, and much more. Simply swipe and tap your way through your personalized American Airlines travel information with the app that\342\200\231s perfect for flying through airports."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 7565307
+    packageName: "com.aa.android"
+    category: "Travel & Local"
+    contactEmail: "aa.mobile@aa.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18002222377"
+    contactWebsite: "http://www.aa.com/app"
+    screenshotsCount: 5
+    promoText: "Get the app that knows where you\342\200\231re going - view your flight, check in & more"
+    recentChanges: "- All AAdvantage members can now log-in to the app and select or change their seat - even after check-in! \n- AAdvantage members that want to purchase a seat can do that too with the credit card they have stored in their AAdvantage profile. To store a credit card, simply go to AA.com and update your Reservation Preferences on your AAdvantage profile. \n- Various bug fixes"
+    promotionalVideo: "http://www.youtube.com/watch?v=dZ-n5h2fS68"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"American Airlines, Inc.\""
+  packageName: "com.aa.android"
+  versionCode: 2030000
+}
+app {
+  id: "v2:com.poynt.android:1:26"
+  title: "Poynt"
+  appType: APPLICATION
+  creator: "Distribution - Poynt"
+  version: "2.0.2"
+  rating: "4.0426817"
+  ratingsCount: 22492
+  ExtendedInfo {
+    description: "Dinner? Movies? Friends? Shopping? Get Poynt and get there.\n\nWelcome to the totally redesigned Poynt for Android. The new version of the app features a tiled, high-res User Interface to help you find what you need faster!\n\nWe\342\200\231ve taken Poynt to the next level with a new set of engaging features and enhancements, including:\n\nReworked interface design with tiled dashboard taking advantage of screen real estate\nNew drawer-style navigation allows users to show/hide menu options\nEnhanced battery life, memory management and network bandwidth use\nOptimized for Android 4.0 (Ice Cream Sandwich) devices\nIncreased settings options for enhanced customization\nSupports high-resolution displays\n\nPoynt for Android allows you to interact with your search results through placing calls to businesses, mapping directions, viewing show times and movie trailers or reserving a table at a local restaurant.\n\nBusiness \342\200\223 Ever wonder, \342\200\234where\342\200\231s the nearest\342\200\246?\342\200\235 Finding what you need has never been easier with Poynt\342\200\231s Business Search Feature \342\200\223 your mobile version of the yellow pages.\n\nMovies \342\200\223 Poynt\342\200\231s Movie Search Feature is your personal movie guide \342\200\223 it\342\200\231s one part Hollywood insider and one part box office!\n\nRestaurants \342\200\223 Think of the Restaurant Search Feature as your own personal culinary assistant; get great tables at the best eateries in town.\n\nGas \342\200\223 With the Gas Search Feature, know where to find the cheapest fuel in town \342\200\223 and never run out of gas again (US, Canada and UK only)!\n\nEvents \342\200\223 Being an insider has its advantages \342\200\223 with Poynt\342\200\231s Events Search Feature, get the most up-to-date details on the hottest events in town (North America, UK and India only).\n\nPeople \342\200\223 With reverse lookup and full integration with your device contact book, the People Search Feature makes it easier to connect with the people all around you (North America, UK and France only).\n\nOffers \342\200\223 Tired of junk mail and boring salespeople? With Poynt\342\200\231s Offers Feature, get the great deals you actually want, exactly when you need them (US only).\n\nWeather \342\200\223 Get short and long-term forecasts, never get caught in the rain without an umbrella again!\n\nPoynt asks for permission to access your calendar, contacts and location in order to deliver an integrated \342\200\250experience:\n\nAccounts & Contacts \342\200\223 You can add listing results directly to one your contact lists or perform a reverse look up from your contacts in the People section.\n\nLocation \342\200\223 Accessing your location allows you to quickly search for nearby businesses using your GPS or cell-site location.\n\nPlease note: at no time do we access or share your personal information."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.WRITE_CONTACTS"
+    permissionId: "android.permission.READ_CALENDAR"
+    permissionId: "android.permission.WRITE_CALENDAR"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "com.poynt.android.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.WAKE_LOCK"
+    installSize: 4015720
+    packageName: "com.poynt.android"
+    category: "Travel & Local"
+    contactEmail: "mobilesupport@mypoynt.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.poynt.com"
+    screenshotsCount: 4
+    promoText: "Get Poynt and Get There!"
+    recentChanges: "- Like/Dislike functionality added. Now you can rate your favourite restaurants and businesses.\n- Bug fixes"
+    promotionalVideo: "http://www.youtube.com/watch?v=zox_44_sp_c&list=UUmBQ_wJGloexehOpUa3mrpg&index=8&feature=plcp"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Distribution - Poynt\""
+  packageName: "com.poynt.android"
+  versionCode: 26
+}
+app {
+  id: "v2:com.jetblue.JetBlueAndroid:1:5"
+  title: "JetBlue"
+  appType: APPLICATION
+  creator: "JetBlue Airways Corporation"
+  version: "1.0.4"
+  rating: "3.556962"
+  ratingsCount: 237
+  ExtendedInfo {
+    description: "Take JetBlue everywhere you go! Download our app and get instant access to your itineraries, flight status information, our inflight entertainment, snacks and more.\n\n* Book travel - Search for and book flights to your favorite destinations.\n\n* Check-in - Get your check-in reminder 24 hours before your flight and check in instantly right from the app.\n\n* TrueBlue - Sign in with your TrueBlue account for a more personalized mobile experience.\n\n* Instant updates - Receive real-time flight updates within the app and via push notifications.\n\n* Smart home screen - Based on where you are in your travel window, see relevant details about your upcoming flight on the app\'s home screen.\n\n* My trips \342\200\223 View your upcoming trips with ease.\n\n* In-flight experience - View and set reminders for the DIRECTV\302\256 schedule for your flight, and check out a listing of all our SiriusXM Satellite Radio\302\256 channels. Plus, tease your appetite by checking out the tasty snacks and drinks being served onboard.\n\n* Connect - Share travel plans with people in your life, and use the Pick Me Up feature to help people picking you up plan their ride to and from the airport.\n\n* Guide to fun - Learn about the hotspots at your destination with the City Guide. Plus, create custom postcards, download wallpapers for your phone and more."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.jetblue.JetBlueAndroid.permission.C2D_MESSAGE"
+    installSize: 7247450
+    packageName: "com.jetblue.JetBlueAndroid"
+    category: "Travel & Local"
+    downloadsCountText: "50,000-250,000"
+    contactPhone: "+18005382583"
+    contactWebsite: "http://www.jetblue.com/mobile"
+    screenshotsCount: 4
+    promoText: "Take JetBlue everywhere you go! Book flights, get updates, check in and more."
+    recentChanges: "This release addresses a defect that is preventing most features in the app from working correctly."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"JetBlue Airways Corporation\""
+  packageName: "com.jetblue.JetBlueAndroid"
+  versionCode: 5
+}
+app {
+  id: "v2:com.grubhub.android:1:1300000"
+  title: "GrubHub Food Delivery/Takeout"
+  appType: APPLICATION
+  creator: "GrubHub"
+  version: "5.0 R13"
+  rating: "4.509186"
+  ratingsCount: 7838
+  ExtendedInfo {
+    description: "Hungry? The GrubHub app can help. Enter your address or search your current location and be treated to all of your nearby delivery or pickup options from our massive restaurant network - 17,000+ eateries in more than 400 of America\'s best cities. Once you find what you\'re hungry for, you can easily place your order right through the app.\n\nAnd with all your past orders saved and available for easy reordering, there\'s a slight chance you\'ll eat too much and too often. But hey, your self-control is beyond the scope of this app.\n\nFeatures:\n\n-View menus, reviews and restaurant information for 17,000+ restaurants in more than 400 cities, and easily place your order online through the app.\n\n-Search your current location or enter an address to find and order from takeout restaurants near you.\n\n-Search by cuisine, restaurant or menu item and filter restaurants to see which are currently accepting online orders.\n\n-Save multiple addresses and order faster from the places you frequent.\n\n-Search for delivery restaurants, carryout restaurants or both, and filter by the restaurant\'s proximity to wherever you are - perfect for grabbing some grub on the go.\n\n-Save a little cash with our coupons and discounts.\n\n-Stay up to date on your order\'s progress when you order from our Track Your Grub restaurants. Select restaurants even let you track your delivery\'s progress in real-time on a map.\n\n-Past orders are saved for speedy reordering - seriously, just a couple of taps.\n\n-Your payment information is stored so you only have to fiddle with all those numbers once.\n\n-Play Yummy Rummy for a chance to win free food.\n\nAvailable in more than 400 of your favorite cities, including: Ann Arbor, Atlanta, Austin, Baltimore, Bloomington, Boston, Boulder, Champaign-Urbana, Chicago, Columbus, Dallas, Denver, Detroit, Hartford, Houston, Ithaca, Las Vegas, Los Angeles, Madison, Miami, Milwaukee, Nashville, New Haven, New York, Oakland, Orange County, Philadelphia, Phoenix, Pittsburgh, Portland, Rochester, San Diego, San Francisco, San Jose, Scottsdale, Seattle, Syracuse, Tampa, Tempe and Washington DC."
+    downloadsCount: 0
+    permissionId: "com.grubhub.android.permission.C2D_MESSAGE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    installSize: 10345301
+    packageName: "com.grubhub.android"
+    category: "Travel & Local"
+    contactEmail: "android@grubhub.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18775857878"
+    contactWebsite: "http://www.grubhub.com"
+    screenshotsCount: 6
+    promoText: "Find & order food from over 17,000 delivery restaurants in more than 400 cities."
+    recentChanges: "We told our tech team we\'d buy them an original Golden Axe\342\204\242 arcade cabinet if they made quick work of all known bugs. They made quick work of all bugs. So hey - who wants to sell us their Golden Axe\342\204\242 cabinet?"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "GrubHub"
+  packageName: "com.grubhub.android"
+  versionCode: 1300000
+}
+app {
+  id: "v2:com.uievolution.player.android.vzw.DisneyMobileMagic:1:16"
+  title: "Disney Mobile Magic"
+  appType: APPLICATION
+  creator: "Disney"
+  version: "3.0.5"
+  rating: "3.5621908"
+  ratingsCount: 2830
+  ExtendedInfo {
+    description: "Disney Parks presents Disney Mobile Magic.\n\nDisney Mobile Magic is a fun and simple way to get the most out of your Disney Vacation. Use GPS maps to get around the Parks, locate some of your favorite characters for a special greeting and even make dining reservations.\n \nWhen you are in the Parks you can check official attraction wait times and Disney\342\200\231s FASTPASS\302\256 return times for the Park you\342\200\231re in. You can also play trivia, watch videos on select attractions and plan your upcoming visit with the Favorites feature.\n \nMobile Magic includes all of Walt Disney World\302\256 Resort and Disneyland\302\256 Resort:\n \nInteractive Walt Disney World Resort Guides\n- Magic Kingdom\302\256 Park\n- Epcot\302\256\n- Disney\'s Hollywood Studios\302\256\n- Disney\'s Animal Kingdom\302\256 Park\n- Disney\'s Blizzard Beach\n- Disney\'s Typhoon Lagoon\n- Downtown Disney\302\256 Area\n- Plus information on Dining and Disney Resort Hotels\n \nInteractive Disneyland\302\256 Resort Guides\n- Disneyland\302\256 Park\n- Disney California Adventure\302\256 Park\n- Downtown Disney\302\256 District\n- Plus information on Dining and Disney Resort Hotels\n \nFeatures:\n \nOfficial Park & Attraction Information:\n- Upon arrival into our Parks you will gain access to official wait times and FASTPASS\302\256 return times for the Park that you are in\n- Review detailed information on attractions: photos, descriptions, locations, height requirements and more\n \nInteractive GPS Guide Maps:\n- View each Park and its Attractions, Dining, Character Greetings and more with our interactive GPS Park Guide Maps\n- Once you are in the Parks, view wait times at a glance on interactive guide maps\n \nCharacter Finder:\n- Search for some of your Favorite Characters\n- You\'ll find out where they are located, hours of their greetings and more\n \nDining Guide and Reservations:\n- Explore our vast dining options by filtering your search by mealtime, location, cuisine type and more\n- Check out restaurant menus and hours\n- And best of all, make reservations right from your mobile phone\n \nFavorites:\n- Create a personalized tip board with all your must dos\n- Plan your dream vacation by selecting your favorite attractions, characters and dining options\n \nGames and Video:\n- Get in the Disney mood right away with the interactive Disney Parks games including trivia, character puzzles and more\n- Watch videos on attractions with special behind the scenes footage"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    installSize: 12135455
+    packageName: "com.uievolution.player.android.vzw.DisneyMobileMagic"
+    category: "Travel & Local"
+    contactEmail: "support@disneymobile.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18888195546"
+    contactWebsite: "http://www.DisneyParks.com/Mobile"
+    screenshotsCount: 6
+    promoText: "Disney Parks presents Disney Mobile Magic."
+    recentChanges: "Update Includes:\n- New Magic Kingdom Map\n- Updated Ft. Wilderness Resort Map"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Disney"
+  packageName: "com.uievolution.player.android.vzw.DisneyMobileMagic"
+  versionCode: 16
+}
+app {
+  id: "v2:com.tripit:1:64"
+  title: "TripIt Travel Organizer Free"
+  appType: APPLICATION
+  creator: "TripIt, Inc."
+  version: "2.9"
+  rating: "4.402403"
+  ratingsCount: 21640
+  ExtendedInfo {
+    description: "No more searching through your inbox to find your airline reservation. No more scrambling to get directions to your hotel. No more worrying about what time your business dinner starts. With TripIt, everything you need to get you where you\342\200\231re going and back again is at your fingertips\342\200\224on your smartphone, tablet or online at tripit.com.\n \nSimply forward all of your hotel, airline, car rental, and restaurant reservations to us and we\342\200\231ll do the rest. TripIt magically organizes all of your travel plans in one place so you can access them anytime, anywhere\342\200\224in the airport or on the road (even when you don\342\200\231t have an Internet connection.) Just hit forward. And sit back.\n\nWant to add a few notes, links, or recommendations? Just click Add Plans and enter away. Need to share your trip with family or colleagues? Consider it done. Your TripIt master itinerary has all the details you need, plus maps, directions and weather, so you can keep calm and carry on.\n\nKEY FEATURES\n\n\342\200\242\tKeep all of your travel plans in one spot and stay organized with separate itineraries for every destination\342\200\224ideal for frequent travelers.\n\n\342\200\242\tAccess trip details whenever and wherever you need them\342\200\224on your smartphone, tablet or online at tripit.com.\n\n\342\200\242\tForward travel confirmation emails to plans@tripit.com and never worry about losing them again. (If you use Gmail, it happens automatically.)\n\n\342\200\242\tEasily add or edit plans manually right from the app or on tripit.com. \n\n\342\200\242\tShare your trip plans with family or colleagues so they know when and where you\342\200\231re headed. \n\n\342\200\242\tGet daily weather forecasts, directions and maps for each destination.\n\n\342\200\242\tUse map-based search to find restaurants, businesses and attractions, then add them to your trip itinerary in one click. \n\n\342\200\242\tSync all your trip plans with your calendar.\n\n\342\200\242\tPost your destinations to Facebook or Linked In and get travel advice from your social network.\n\n\342\200\242\tUpgrade to TripIt Pro for $49/year and get everything in TripIt plus on-the-go flight alerts, status updates and more while you\342\200\231re traveling. Check out m.tripit.com/pro.\n\nTripIt Pro members:\nDownload this free app and enjoy all the benefits without the advertising.\n\n\nThe experts agree:\n\342\200\234\342\200\246tips for maximum flying efficiency and minimum misery - #1. Use TripIt.com \342\200\235 \342\200\223 New York Times\n \n\"This is the best travel app I can imagine\" - Fast Company\n\n\342\200\234TripIt continues to lead the pack in organizing travel itineraries\342\200\235 \342\200\223 Inc. Magazine"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "com.tripit.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    installSize: 3705641
+    packageName: "com.tripit"
+    category: "Travel & Local"
+    contactEmail: "support@tripit.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.tripit.com/"
+    screenshotsCount: 8
+    promoText: "TripIt is the world\342\200\231s easiest way to organize and share your travel plans."
+    recentChanges: "\342\200\242 Now you can sign up or sign in via your Facebook, Google, or Yahoo! account\n\342\200\242 Pro users are now able to add and edit points across 120 rewards programs\n\342\200\242 View flight status, terminal maps, directions and airport news on Android Phones and Tablets\n\342\200\242 Access TripIt\'s privacy policy in the settings menu"
+    promotionalVideo: "http://www.youtube.com/watch?v=9S9PSyxzu9A"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"TripIt, Inc.\""
+  packageName: "com.tripit"
+  versionCode: 64
+}
+
+app {
+  id: "v2:com.fp.cheapoair:1:228"
+  title: "CheapOair Flight Search"
+  appType: APPLICATION
+  creator: "Fareportal Inc."
+  version: "2.0.89"
+  rating: "4.331652"
+  ratingsCount: 793
+  ExtendedInfo {
+    description: "Travel booking made easy: \n\nFLIGHTS\n- Search and book extensive multi-city flights. \n- Sort results by price, travel time or number of stops quickly and easily. \n- Purchase travel insurance and travel assist.\n- Check your flight bookings.\n- Save recent searches to make future bookings effortless. \n\nCustomize your trip with tools and tips: \n- Select seat and meal preferences from the palm of your hand \n- Looking for travel tips and advice? The app features travel blog posts and access to CheapOair\342\200\231s Facebook, Twitter and YouTube profiles.\n\nCARS\n- Search and book Rental Cars.\n- Filter by rental company and/or car size.\n- Sort by price, company or car type.\n- Choose optional car equipment (hand controls, child seat, navigation system, ski rack, tires etc.)\n\nADDITIONAL FEATURES\n- Get access to 24/7 support by calling a customer service agent via the phone icon.\n- Instant Discount on sharing app with friends.\n- Not ready to book? The app will send you an email with a link to your itinerary so you can book later or from your computer."
+    downloadsCount: 0
+    permissionId: "com.fp.cheapoair.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.BLUETOOTH"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 7859149
+    packageName: "com.fp.cheapoair"
+    category: "Travel & Local"
+    contactEmail: "android_feedback@fareportal.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+12124780335"
+    contactWebsite: "http://www.fareportal.com/"
+    screenshotsCount: 8
+    promoText: "The fastest way to book your flight."
+    recentChanges: "New Features:\n- Sign-in from Any Screen for an easy & super-quick flight booking\n- Check the Status of your Flight and Track its Time\n- View Airport Terminal Maps\n- Get Weather Information\n- Purchase Travel Insurance and Travel Assist conveniently\n- Design updates\n\nOthers:\n- Bug Fixes and Performance Improvement."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Fareportal Inc.\""
+  packageName: "com.fp.cheapoair"
+  versionCode: 228
+}
+app {
+  id: "v2:com.travelocity.android:1:11"
+  title: "Travelocity - Flight+Hotel+Car"
+  appType: APPLICATION
+  creator: "Travelocity.com"
+  version: "4.6.1"
+  rating: "3.0921738"
+  ratingsCount: 575
+  ExtendedInfo {
+    description: "Quickly search and book your next flight, hotel or rental car all from the Travelocity app. Features allow searching for flights, hotels and cars using your voice! Find hotels near your current location and book for tonight. Save on hotel stays with Top Secret hotels and watch for deals using our NEW Mobile Exclusive Deals widget.\n\nVOICE & CONTEXTUAL SEARCH (ENGLISH ONLY)\n- Simply speak your search criteria. For example, \"Las Vegas hotel for this Saturday\", \"Flights from DFW to New York, leaving July 1st, returning July 7th\", or \"I need a car in Orlando next Friday.\" The more you try searching via voice, the better we can improve the recognition. Use the Feedback button on the main screen to tell us what you think.\n- If you don\'t want to speak you can also type natural language phrases (like those above) in the search field instead of filling out the regular search form.\n\nFLIGHTS \n\342\200\242 Shop and Book One-Way & Round Trip Flights\n\342\200\242 View your trips and itineraries (accessible in-flight) \n\342\200\242 Check flight status on any airline \n\342\200\242 Check TSA security wait times \n\342\200\242 Check FAA airport delays \n\342\200\242 See in-path flight tracking \n\342\200\242 See all flight schedules to find the next flight out \n\342\200\242 View seat maps\n\nHOTELS\n\342\200\242 Get Mobile ONLY Exclusive Deals for hotels.\n\342\200\242 Watch for Mobile Exclusive Deals with our new widget.\n\342\200\242 Find Top Secret & Regular hotels nearby or by city \n\342\200\242 View hotels on an interactive pinpoint map\n\342\200\242 Read traveler reviews for every hotel\n\342\200\242 Review description, photos, amenities, local dining and attractions and transportation options \n\342\200\242 Check standard room rate & current price for your day of travel \n\342\200\242 Book hotel directly in the app using single screen checkout\n\nCARS\n- Shop and book car rentals\n- Filter by rental company and/or car type\n- Sort by price, company or car type\n- See upgrade pricing options\n- Choose optional special equipment (hand controls, child seat, navigation system, ski equipped vehicle, etc.)\n\nDESTINATIONS \n\342\200\242 City Guides \n\342\200\242 Restaurants (List and Details)\n\342\200\242 Night Life (List and Details)\n\342\200\242 Events (List and Details)\n\342\200\242 Filter events by month\n\nFIND DEALS\n- Last minute Mobile Exclusive Deals\n- Shop \"Top Secret Hotels\" to save up to 55% (compared with Travelocity\'s regular prices for the same hotel on the same day)\n\nFIND GAS \n\342\200\242 Find gas prices nearby or by city\n\nFULL SITE ACCESS \nQuick links to call to book or book directly online: \n\342\200\242 Flights \n\342\200\242 Hotels \n\342\200\242 Car rentals / Rail passes \n\342\200\242 Cruises\n\342\200\242 Vacation packages \n\342\200\242 Top deals\n\342\200\242 Sign up for travel alerts\n----------------------------------------------------\nYou can email suggestions at iphone@travelocity.com"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    installSize: 2709053
+    packageName: "com.travelocity.android"
+    category: "Travel & Local"
+    contactEmail: "iphone@travelocity.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://travelocity.com/mobile"
+    screenshotsCount: 8
+    promoText: "Quickly search and book your next flight, hotel or rental car all from the Travelocity app. Features allow searching for flights, hotels and cars using your voice! Find hotels near your current location and book for tonight. Save on hotel stays with Top Secret hotels and watch for deals using our NEW Mobile Exclusive Deals widget.\n\nVOICE & CONTEXTUAL SEARCH (ENGLISH ONLY)\n- Simply speak your search criteria. For example, \"Las Vegas hotel for this Saturday\", \"Flights from DFW to New York, leaving July 1st, returning July 7th\", or \"I need a car in Orlando next Friday.\" The more you try searching via voice, the better we can improve the recognition. Use the Feedback button on the main screen to tell us what you think.\n- If you don\'t want to speak you can also type natural language phrases (like those above) in the search field instead of filling out the regular search form.\n\nFLIGHTS \n\342\200\242 Shop and Book One-Way & Round Trip Flights\n\342\200\242 View your trips and itineraries (accessible in-flight) \n\342\200\242 Check flight status on any airline \n\342\200\242 Check TSA security wait times \n\342\200\242 Check FAA airport delays \n\342\200\242 See in-path flight tracking \n\342\200\242 See all flight schedules to find the next flight out \n\342\200\242 View seat maps\n\nHOTELS\n\342\200\242 Get Mobile ONLY Exclusive Deals for hotels.\n\342\200\242 Watch for Mobile Exclusive Deals with our new widget.\n\342\200\242 Find Top Secret & Regular hotels nearby or by city \n\342\200\242 View hotels on an interactive pinpoint map\n\342\200\242 Read traveler reviews for every hotel\n\342\200\242 Review description, photos, amenities, local dining and attractions and transportation options \n\342\200\242 Check standard room rate & current price for your day of travel \n\342\200\242 Book hotel directly in the app using single screen checkout\n\nCARS\n- Shop and book car rentals\n- Filter by rental company and/or car type\n- Sort by price, company or car type\n- See upgrade pricing options\n- Choose optional special equipment (hand controls, child seat, navigation system, ski equipped vehicle, etc.)\n\nDESTINATIONS \n\342\200\242 City Guides \n\342\200\242 Restaurants (List and Details)\n\342\200\242 Night Life (List and Details)\n\342\200\242 Events (List and Details)\n\342\200\242 Filter events by month\n\nFIND DEALS\n- Last minute Mobile Exclusive Deals\n- Shop \"Top Secret Hotels\" to save up to 55% (compared with Travelocity\'s regular prices for the same hotel on the same day)\n\nFIND GAS \n\342\200\242 Find gas prices nearby or by city\n\nFULL SITE ACCESS \nQuick links to call to book or book directly online: \n\342\200\242 Flights \n\342\200\242 Hotels \n\342\200\242 Car rentals / Rail passes \n\342\200\242 Cruises\n\342\200\242 Vacation packages \n\342\200\242 Top deals\n\342\200\242 Sign up for travel alerts\n----------------------------------------------------\nYou can email suggestions at iphone@travelocity.com"
+    recentChanges: "OOPS! We saw the app was crashing so we fixed it\n---------------------------------------------------------------------\n\342\200\242 New Widget to track mobile exclusive deals\n\342\200\242 Logging in pre-fills name and other profile information in checkout\n\342\200\242 Hotels now have a map view\n\342\200\242 Added recent search, sorting, and filtering for flights and hotels\n\342\200\242 Action bar and native menus added to switch between air, hotel, and car\n\342\200\242 Improved car checkout experience"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Travelocity.com"
+  packageName: "com.travelocity.android"
+  versionCode: 11
+}
+app {
+  id: "v2:com.disney.mdx.wdw.google:1:4"
+  title: "My Disney Experience - WDW"
+  appType: APPLICATION
+  creator: "Disney"
+  version: "1.3.2"
+  rating: "3.4142857"
+  ratingsCount: 350
+  ExtendedInfo {
+    description: "An official App from Disney! Featuring Walt Disney World\302\256 maps, official Disney Parks-provided wait times, FASTPASS\302\256 return times, and the ability to view menus and book dining reservations, manage and share itineraries with family and friends, find details about nearby Disney Characters, attractions, entertainment, park hours and schedules, and more! \n \nNEW INTERACTIVE MAPS\n\342\200\242Introducing all-new maps of Walt Disney World\302\256 Resort, optimized for touch screens, with details only Disney Parks can provide. Pan and zoom around:\n\342\200\223Theme Parks: Magic Kingdom\302\256 Park, Epcot\302\256, Disney\342\200\231s Hollywood Studios\302\256 and Disney\342\200\231s Animal Kingdom\302\256 Park\n\342\200\223Water Parks: Disney\342\200\231s Typhoon Lagoon and Disney\342\200\231s Blizzard Beach\n\342\200\223Downtown Disney\302\256 Area\n\342\200\223Select Walt Disney World Resort hotels\n\342\200\223ESPN Wide World of Sports Complex\n\342\200\242Sign in to see attraction wait times and dining availability integrated with maps\n\342\200\242Get acquainted with park and hotel locations while planning your visit\n\342\200\242Use the new Here & Now feature to instantly find attractions and events closest to your current location\n \nOFFICIAL WALT DISNEY WORLD\302\256 PARK INFORMATION\n\342\200\242Explore Walt Disney World\302\256 attractions, including descriptions, images and height requirements\n\342\200\242Sign in to access special features including official Disney Parks wait times and current FASTPASS\302\256 return times\n\342\200\242Locate nearest restrooms, baby care centers, concierge and other Guest Services\n\342\200\242Learn when and where your favorite Disney Characters will be appearing next\n\342\200\242See Park hours and schedules, available at a glance\n\342\200\242Use Times Guide for a simple look at key events and activities going on within the park\n\342\200\242Browse entertainment, including parades, fireworks, stage shows and performance times\n\342\200\242Find valuable tips and FAQ in Help Center\n \nOFFICIAL DISNEY DINING INFORMATION\n\342\200\242View menus for dining locations\n\342\200\242Browse dining options including Table Service and Quick Service locations\n\342\200\242Check availability and sign in to make dining reservations\n\342\200\242Sort and filter dining options to find what meets the needs of your family based on location, price range, cuisine, and experience description\n \nPERSONALIZED EXPERIENCE\n\342\200\242NEW! View your upcoming resort reservations\n\342\200\242Create and manage your own personalized itinerary, including dining reservations. Add personal notes, reminders for parades, fireworks, and other Disney entertainment. Coming soon: View Resort reservations.\n\342\200\242Share your itinerary with family and friends\n\342\200\242Save your favorite experiences on Wish Lists, so you won\342\200\231t forget any must-see items\n\342\200\242Sign in to manage your personal profile\n\342\200\242For a limited time, Verizon customers will have exclusive access to premium videos and games on mobile phones\n \nIt\342\200\231s new\342\200\224optimized for mobile devices\342\200\224and continuously updated! The official My Disney Experience \342\200\223 Walt Disney World\302\256 is the very best way to plan your visit, navigate the parks and maximize the magic while enjoying all that Walt Disney World\302\256 Resort has to offer!"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    installSize: 11476508
+    packageName: "com.disney.mdx.wdw.google"
+    category: "Travel & Local"
+    contactEmail: "Disneymobilegames@mailwc.custhelp.com"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://disneyinteractivestudios.custhelp.com"
+    screenshotsCount: 7
+    promoText: "New GPS maps, official wait times, dining reservations, itineraries, & more!"
+    recentChanges: "What\342\200\231s New in Version 1.3.2\n\n\342\200\242Introducing menus for many dining locations, with more being added soon\n\342\200\242Build and manage your own personalized itinerary, including dining reservations, personal notes and reminders\n\342\200\242Share itineraries with family and friends\n\342\200\242Even more location information, including spas, events and tours, and destination details\n\342\200\242View your upcoming resort reservations"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Disney"
+  packageName: "com.disney.mdx.wdw.google"
+  versionCode: 4
+}
+app {
+  id: "v2:net.skyscanner.android.main:1:16"
+  title: "Skyscanner - All Flights!"
+  appType: APPLICATION
+  creator: "Skyscanner.net"
+  version: "2.0.2.2"
+  rating: "4.5809746"
+  ratingsCount: 48830
+  ExtendedInfo {
+    description: "www.skyscanner.net\n\nFlight search from Skyscanner\n\nAll flights, everywhere!\n\nNeed a cheap flight, fast? Compare over 1000 budget and scheduled airlines and more than 1,000,000 routes around the world in seconds with the free Skyscanner Android app; saves money, saves time. Buy air tickets direct from airlines or travel agents and get the best deals. It\342\200\231s simple, independent and finds the lowest fares with a few quick taps, wherever you want to fly.\n\n\nWhy Download the Skyscanner Android app?\n\n\342\200\242\tSkyscanner is the world\342\200\231s best flight site\n\342\200\242\tSearch every flight anywhere in the world\n\342\200\242\tSearch over 1000 airlines and travel agents\n\342\200\242\tFind ALL your flight options in one easy app \n\342\200\242\tBusy? Email flight details to yourself for later\n\342\200\242\tJoint trip? Share your flight details with friends, family or colleagues with one tap\n\342\200\242\tSkyscanner is 100% independent and shows ALL airlines including low cost carriers and scheduled airlines\n\342\200\242\tAvailable in 28 languages\n\342\200\242\tIt\342\200\231s FREE!\n\n\nWhat the press say about Skyscanner:\n\n\342\200\234Flexible, fair and fearsomely indispensable.\342\200\235 \342\200\223 The Guardian\n\n\342\200\234Lightning-fast; it\342\200\231s easy to use, and has some brilliant gizmos.\342\200\235 \342\200\223 The Sunday Times\n\n\342\200\234Superb search choices [and a] high number of fast results. A great, flexible site.\" \342\200\223 Which?\n\n\342\200\234If you\'re really looking for the lowest airfares, the Skyscanner system is by far the most useful.\342\200\235 \342\200\223 USA Today\n\n\nDownload the Skyscanner app now for free!"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 7214577
+    packageName: "net.skyscanner.android.main"
+    category: "Travel & Local"
+    contactEmail: "android@skyscanner.net"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.skyscanner.net"
+    screenshotsCount: 7
+    promoText: "Skyscanner all flights"
+    recentChanges: "- Added First, Business and Premium Economy cabin classes\n- Widget optimisation\n- Various bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Skyscanner.net"
+  packageName: "net.skyscanner.android.main"
+  versionCode: 16
+}
+app {
+  id: "v2:com.hoteltonight.android.prod:1:427"
+  title: "Hotel Tonight"
+  appType: APPLICATION
+  creator: "HotelTonight"
+  version: "4.2.7"
+  rating: "4.3754153"
+  ratingsCount: 6923
+  ExtendedInfo {
+    description: "Check out HotelTonight and book amazing same-day hotel rooms for up to 70% off!\n\n- \"An app that brings back spontaneity!\" - New York Times \n- \"A fascinating new app which gives big hotel discounts.\" - CNN International\n- \"Sleek way to get a deal and book a room in just a few taps.\" - USA Today\n- \342\200\234A travel app that will change your life.\" - Conde Nast Traveler \n\nFEATURES\n\342\234\224 Exclusive, astonishingly LOW PRICES on incredible hotels we personally vet.\n\342\234\224 Same-day, FAST AND EASY bookings until 2am!\n\342\234\224 We limit the deal selection so we can negotiate with hotels to get you the BEST RATES possible.\n\nSUPPORTED CITIES (more added every month!)\n\342\227\206 EAST: New York, Boston, Miami, Atlantic City, Atlanta, Ft. Lauderdale, Orlando, Brooklyn, Washington DC, Philadelphia, Baltimore, Myrtle Beach, Tampa Bay, Newport RI, Charlotte, Pittsburgh, Charleston\n\342\227\206 CENTRAL: Chicago, Minneapolis, Denver, Austin, Dallas, Houston, San Antonio, New Orleans, Santa Fe, St. Louis, Nashville, Cleveland, Detroit, Salt Lake - Park City, Milwaukee, Cincinnati, Kansas City, Vail - Breckenridge\n\342\227\206 WEST: Las Vegas, San Francisco, Los Angeles, San Diego, Orange County, Seattle, Reno, Palm Springs, Portland, San Jose, Silicon Valley, Monterey Bay, Napa Valley, Santa Barbara, Phoenix, Scottsdale, Honolulu, Sonoma County, Sacramento, Maui, Lake Tahoe, Tucson\n\342\227\206 EUROPE: London, Dublin, Amsterdam, Edinburgh, Glasgow, Liverpool, Berlin, Brussels, Paris, Nice, Birmingham, Manchester, Geneva, Munich, Zurich, Lille, Hamburg\n\342\227\206 CANADA: Calgary, Montreal, Toronto, Vancouver\n\342\227\206 MEXICO: Mexico City, Acapulco, Guadalajara\n\342\234\210 AIRPORTS: ATL, BRU, BWI, CDG, DFW, DIA, EWR, FLL, IAD, IAH, JFK, LAX, LGA, LGW, LHR, LTN, MCO, MIA, ORD, PDX, PHL, PHX, SEA, SFO, YYZ   \n\n\nCONNECT WITH US\n\342\235\226 Send us feedback: feedback@hoteltonight.com\n\342\235\226 Like us on Facebook: http://facebook.com/HotelTonight\n\342\235\226 Follow us on Twitter: http://twitter.com/HotelTonight"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "com.hoteltonight.android.prod.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 8848585
+    packageName: "com.hoteltonight.android.prod"
+    category: "Travel & Local"
+    contactEmail: "sleeptight@hoteltonight.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://hoteltonight.com"
+    screenshotsCount: 8
+    promoText: "Last Minute Deals on Hotels, Book Until 2am. Save up to 70%."
+    recentChanges: "*Added Charleston, SC and Lille, France\n*Fixed some stuff (because we like you)\n\nPreviously on HT\342\200\246\n\nWe\'ve reimagined HT for Nexus tablet devices, custom-designing the app to feature:\n\n*Collage display that lets you experience & explore HT\'s stunning hotel photography on the larger, high-res tablet screen\n*Portrait & landscape mode, sharin\' the same dream  \n*The ease of booking a room in 8-seconds\n\nPsst: Did you know we\'re now in 10 countries, 80+ destinations and 5 languages? True story."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "HotelTonight"
+  packageName: "com.hoteltonight.android.prod"
+  versionCode: 427
+}
+app {
+  id: "v2:com.flightaware.android.liveFlightTracker:1:62"
+  title: "FlightAware Flight Tracker"
+  appType: APPLICATION
+  creator: "FlightAware LLC"
+  version: "3.2.7"
+  rating: "3.662392"
+  ratingsCount: 3119
+  ExtendedInfo {
+    description: "Free, live flight tracker and flight status app from FlightAware for Android!\n\nThis app allows you to track the real-time flight status and see the live map flight track of any commercial flight worldwide and general aviation (private, charter, etc) in the United States and Canada.\n\nTrack by aircraft registration, route, airline, flight number, city pair, or airport code. Tracking data includes complete flight details and full-screen maps with NEXRAD radar overlay.\n\nReceive real-time push notification flight alerts, view airport delays, see nearby flights (in the sky overhead), and more!\n\nWe\'re excited to be in the Android Market and expect to make many releases in the coming days and weeks.\n\nPlease send your feedback to support-android@flightaware.com"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.flightaware.android.liveFlightTracker.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    installSize: 7339464
+    packageName: "com.flightaware.android.liveFlightTracker"
+    category: "Travel & Local"
+    contactEmail: "support-android@flightaware.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18007138570"
+    contactWebsite: "http://flightaware.com"
+    screenshotsCount: 4
+    promoText: "FlightAware Live Flight Tracker\n\nNow on Android"
+    recentChanges: "- Improved flight maps (to view flight details, press and hold on aircraft tag).\n- Stability and performance improvements."
+    promotionalVideo: "http://www.youtube.com/watch?v=deJ2N7Ajk70"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"FlightAware LLC\""
+  packageName: "com.flightaware.android.liveFlightTracker"
+  versionCode: 62
+}
+app {
+  id: "v2:com.flightview.flightview_free:1:150"
+  title: "FlightView Free Flight Tracker"
+  appType: APPLICATION
+  creator: "FlightView"
+  version: "2.7.1"
+  rating: "4.1487303"
+  ratingsCount: 4646
+  ExtendedInfo {
+    description: "Real-time flight tracking from the industry leaders. Track flights with 1 end in N. America live & save them to your My Trips list. Get instant alerts when flight status changes. Easily share your trip itinerary or flight status. View a national airport delay map with weather.  Optimized for both phone and tablets!  See FlightView-Flight Tracker app for no ads."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.flightview.flightview_free.permission.C2D_MESSAGE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 5812329
+    packageName: "com.flightview.flightview_free"
+    category: "Travel & Local"
+    contactEmail: "androidappsupport@flightview.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.flightview.com"
+    screenshotsCount: 8
+    promoText: "Flight tracking app from the leaders in real-time flight information."
+    recentChanges: "v.2.7.1:  Better flight tracker maps for devices with higher resolution screens.  Updates to airport and airline lists and bug fixes. \n\nv 2.7:  More Airport Delay Information!  \nAirport Delay List: View list of airports suffering the Biggest Departure Delays right now.\nSingle Airport Delay Page: View FlightView\'s proprietary Airport Delay Index for 180 major airports in the US and Canada as well as FAA Airport Closures & Delay Programs for major airports in the US."
+    promotionalVideo: "http://www.youtube.com/watch?v=qtH2nO1bUTE"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "FlightView"
+  packageName: "com.flightview.flightview_free"
+  versionCode: 150
+}
+app {
+  id: "7018387236453260707"
+  title: "NYC Bus & Subway Maps"
+  appType: APPLICATION
+  creator: "episode6"
+  version: "2.1.1"
+  rating: "4.374029"
+  ratingsCount: 8756
+  ExtendedInfo {
+    description: "NYC Bus & Subway Maps offers something very simple, yet invaluable to both native and tourist alike. Complete offline access to the official MTA Subway and Bus Maps for all five boroughs of New York City. A return to it\'s original no-frills design, NYC Bus & Subway Maps is an app you can count on working when you need it most. When you first launch the app, you won\'t have any map\'s available, but all you have to do is click the \"Download Maps Now\" button and select as many or as few as you want and download them all at once. No more hoping you remembered to save that BX Bus map when you\'re already on the train!\n\nFeatures Include:\n- Multi-Touch pinch-to-zoom where supported, or double-tap to zoom in, tap the zoom-out button to zoom out\n- Batch download multiple maps in the background\n- Quick links to the MTA\'s online route details\n- Create custom home screen shortcuts to any map or quick-link\n- Choose where to save you map tiles (defaults to SD Card)"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 123283
+    packageName: "com.episode6.android.nycsubwaymap"
+    category: "Travel & Local"
+    contactEmail: "ghackett@episode6.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://episode6.com"
+    screenshotsCount: 4
+    promoText: "NYC Bus & Subway Maps... They get ya where ya need to go!"
+    recentChanges: "-Fix for 1.5 and 1.6 devices\n-Improved double-tap zooming"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "episode6"
+  packageName: "com.episode6.android.nycsubwaymap"
+  versionCode: 30
+}
+app {
+  id: "v2:com.jiwire.android.finder:1:331008"
+  title: "WiFi Finder"
+  appType: APPLICATION
+  creator: "JiWire Inc."
+  version: "3.335p"
+  rating: "4.2955413"
+  ratingsCount: 26487
+  ExtendedInfo {
+    description: "Now for both phones and tablets!!! \n\n(Phone users: Wi-Fi Finder requires phone call permission on the phone version as an easy way to call the public Wi-Fi location when viewing the detail view of a Wi-Fi hotspot. The app will NEVER make calls unless you explicitly click on the phone icon and confirm that you would like to call the Wi-Fi location.)  \n\nThe new Honeycomb version features over 550,000 free and paid locations in 144 countries worldwide.\n\nNever worry again about not finding a Wi-Fi internet connection. Wi-Fi Finder is simply the best app for finding free or paid public Wi-Fi hotspots online or offline\342\200\224perfect for Skype users on the go!\n\n\342\200\242 Scan for Wi-Fi hotspots around you\n\342\200\242 Search for public Wi-Fi anywhere in the world\n\342\200\242 View Wi-Fi hotspot detail, call location, get directions or share the hotspot\n\342\200\242 Filter results by location (cafe, hotel, etc.) or provider type\n\342\200\242 Works both online and offline\n\342\200\242 Now available for both phones and tablets\n\nWe appreciate your feedback. If you have any questions or suggestions for future releases, please contact us."
+    downloadsCount: 0
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.CHANGE_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 1268469
+    packageName: "com.jiwire.android.finder"
+    category: "Travel & Local"
+    contactEmail: "android@jiwire.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.jiwire.com/android"
+    screenshotsCount: 8
+    promoText: "Wi-Fi Finder for Android"
+    recentChanges: "\342\231\245 Bug fixes - support for latest versions of Android OS and new devices"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"JiWire Inc.\""
+  packageName: "com.jiwire.android.finder"
+  versionCode: 331008
+}
+app {
+  id: "v2:com.telenav.app.android.telenav:1:7131061"
+  title: "TeleNav GPS Navigator for TMO"
+  appType: APPLICATION
+  creator: "TeleNav Inc."
+  version: "7.1.3.7131061"
+  rating: "3.9947577"
+  ratingsCount: 10873
+  ExtendedInfo {
+    description: "FREE: Download TeleNav GPS Navigator today \n\n\342\200\234TeleNav is a maps and navigation powerhouse\342\200\235 \342\200\223Fred Zahradnik, GPS Products, About.com\n\n\nTeleNav GPS Navigator is more than just GPS. It will help you figure out where you want to go and how to get there quickly. And once you arrive, it will help you find more stuff to do.\n\nFind over 22 million places in an instant. Use Quick Search to find what you are looking for, even the lowest-priced gas stations nearby. Call any business with a single tap of the finger. You won\342\200\231t believe how easy it can be to get so much information so quickly.\n\nAnd it helps you get to any location faster. Using Multi Routes choose from up to three different ways to get to your destination based on traffic, distance and estimated drive time. \n\nGreat Premium features*:\nKnow what traffic\342\200\231s like and get instant alerts when new jams pop up. Then reroute around them with one tap. It\342\200\231s like having your own personal traffic helicopter.\n\nTake the guesswork out of exiting a highway with Lane Assist. It makes lane changes and exits on busy highways a cinch.\n\nFind cities, local addresses and millions of places using Voice Commands. Ask it to find a location and get you to your destination safely and more conveniently.\n\nSo there you have it. Quick. Easy. And all in one integrated application that talks to you with a real, pleasant human voice.\n\nTeleNav GPS Navigator. We\342\200\231re taking search and navigation to a whole new level.\n\n\n* Premium features for additional $2.99 monthly fee.  Fee appears on your T-Mobile monthly statement.  30 day free trial included."
+    downloadsCount: 0
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.RECORD_AUDIO"
+    permissionId: "android.permission.ACCESS_GPS"
+    permissionId: "android.permission.ACCESS_LOCATION"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.DISABLE_KEYGUARD"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.RECEIVE_SMS"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_CONTACTS"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.SEND_SMS"
+    permissionId: "android.permission.MODIFY_AUDIO_SETTINGS"
+    permissionId: "android.permission.BATTERY_STATS"
+    permissionId: "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    permissionId: "android.permission.READ_LOGS"
+    permissionId: "com.telenav.app.android.telenav.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    permissionId: "android.permission.WRITE_CALL_LOG"
+    installSize: 6768690
+    packageName: "com.telenav.app.android.telenav"
+    category: "Travel & Local"
+    contactEmail: "android@telenav.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18883536284"
+    contactWebsite: "http://www.telenav.com"
+    screenshotsCount: 5
+    promoText: "Get voice-guided GPS, maps, business listings and real-time traffic updates now!"
+    recentChanges: "We\342\200\231ve taken search and navigation to a whole new level:\n\342\200\242 New UX: All your navigation & search needs in one easy-to-use app\n\342\200\242 Multi-Routes: Choose from up to 3 routes based on traffic, distance & estimated drive time\n\342\200\242 Quick Search: Search over 15 million places with ratings & reviews\n\342\200\242 Cockpit View: Upcoming roads dynamically zoom into view\n\342\200\242 Junction View: See which lane to be in when approaching hwy intersections\n\342\200\242 Layers:  View current traffic, red light cameras, speed traps & satellite view"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"TeleNav Inc.\""
+  packageName: "com.telenav.app.android.telenav"
+  versionCode: 7131061
+}
+
+app {
+  id: "v2:com.alltrails.alltrails:1:47"
+  title: "AllTrails - Hiking & Biking"
+  appType: APPLICATION
+  creator: "AllTrails, Inc"
+  version: "2.0.9"
+  rating: "3.8556783"
+  ratingsCount: 1268
+  ExtendedInfo {
+    description: "The outdoors at your fingertips!\nAllTrails is THE app for finding trails nearest you.\nGoing on a trip to a national park? Looking for a place near home to hike or run? Searching for something new to do on the weekends?\nEven in a big city you might be surprised by how much nature surrounds you, and never has it been easier to discover!\nBrowse through over 40,000 high-quality trail guides for outdoor activities including everything from hiking and mountain biking to fly-fishing and snowshoeing.\n\nFEATURES\n\342\200\242 Browse or search for trails closest to you\n\342\200\242 Read and write trail reviews\n\342\200\242 View topo maps and routes* for trails\n\342\200\242 Create and upload your own tracks with your phone\342\200\231s GPS tracker\n\342\200\242 Upload photos that you take on the trail\n\342\200\242 Share trails with friends\n\342\200\242 Access your trails without an internet connection (Before you head out, save a trail to download its topo maps, photos, and reviews for offline use)\n\nGo out and rediscover the outdoors!\n\n*Routes are currently only available for about 5,000 of our more popular trails."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    installSize: 2362697
+    packageName: "com.alltrails.alltrails"
+    category: "Travel & Local"
+    contactEmail: "android-support@alltrails.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://alltrails.com"
+    screenshotsCount: 3
+    promoText: "The outdoors at your fingertips!"
+    recentChanges: "What\'s in this version:\n* Allowing installs on tablets, Nexus 4, Nexus 7, and more.  \n* AllTrails pro features, including viewing National Geographic Trail Illustrated and TOPO maps. (Requires an AllTrails pro subscription)."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"AllTrails, Inc\""
+  packageName: "com.alltrails.alltrails"
+  versionCode: 47
+}
+app {
+  id: "v2:com.booking:1:28"
+  title: "Booking.com - 265,000+ hotels"
+  appType: APPLICATION
+  creator: "Booking.com"
+  version: "3.8.6"
+  rating: "4.510166"
+  ratingsCount: 38215
+  ExtendedInfo {
+    description: "Are you ready to find the perfect place to stay? Well we\342\200\231ve got over a quarter million properties in 177 countries for you to choose from, so let\342\200\231s get started! \n\nDiscover a world of possibilities with amazing deals on accommodations in more than 41,000 destinations by installing the free Booking.com app now. Exactly what you booking need. \n\nUse Booking.com, Planet Earth\'s #1 accommodation app:\n\342\230\206\tWe don\342\200\231t just have hotels: There are hostels, B&Bs, apartments and even desert camps and castles, and we\342\200\231re growing every day.\n\342\230\206\tFlick through 8 million hotel and room photos and read real guest reviews from over 17 million fellow travelers.\n\342\230\206\tEasily refine your search using our filters and sorting options to get the best fit for you.\n\342\230\206\tUse our helpful maps to find the right hotel in the perfect location and plan your route.\n\342\230\206\tBook faster by signing in to your Booking.com account, which securely stores all your booking details in one place, no matter what device you\342\200\231re using.\n\342\230\206\tSave time by adding your credit card information to your account. We\342\200\231ll keep it safe for future Booking.com reservations made from any device.\n\342\230\206\tAdd your booking to your mobile device\342\200\231s calendar.\n\342\230\206\tAccess 24/7 customer service. We\342\200\231re always here to help you modify your booking or answer any questions.\n\342\230\206\tSave your confirmation to your device for a simple, paperless check-in.\n\342\230\206\tPast, current and upcoming bookings are all synced to your central Booking.com account, which you can access from our website or apps on any smart device\n\342\230\206\tNo need to worry about missing a check-in or losing your confirmation. We\342\200\231ll send you a push notification right before your stay with all the information you need for a quick and easy check-in, and a link to customer service for extra reassurance.\n\342\230\206\tYour booking confirmation is available offline in the app so you won\342\200\231t need an Internet connection to check in when you arrive at your destination. \n\nWhatever you need, we\342\200\231ve got you covered. \nHere at Booking.com, we pride ourselves on knowing how to tailor your stay to make it just right. This means that we try our best to source as many different types of accommodations as we can, all over the world, so that you can go wherever you want, whenever you want!\n-\tLodges and chalets in the world\342\200\231s top ski resorts and winter sports destinations. \n-\tBe an early bird and get planning for spring in one of the thousands of U.S. and European destinations.\n\nYou can easily refine your search with filters to find accommodations offering what you need for your stay. Make sure you\342\200\231ll have Wi-Fi, find out if there\342\200\231s parking (and where to drop off your luggage!), check out bar and restaurant options or plan a spa or fitness weekend.\n\nAnd depending on where you\342\200\231re heading, you can choose from hotels, apartments, B&Bs, hostels and many more. Our accommodations filter shows you exactly what types of properties are available for the dates and destination you picked.\n\nSave more by keeping an eye out for our deals icons! Our deals don\342\200\231t just help you find a cheap place to stay, they\342\200\231re fantastic values at great properties of all types and star ratings. And don\342\200\231t forget to sign in to your Booking.com account to access exclusive subscriber-only Secret Deals.\n\nWe speak your language. \nThe app is now available in 25 languages, supports 53 currencies and gives you 24/7 access to our multilingual customer service at the touch of a button. Simply call or email from the app.\n\nKeep up to date with all our latest news! \n* Find us on Facebook: https://facebook.com/bookingcom\342\200\250\n* Follow us on Google+: https://plus.google.com/s/booking.com\342\200\250\n* Follow us on Twitter: https://twitter.com/bookingcom\342\200\250\n* Pinterest: http://pinterest.com/bookingdotcom/\342\200\250\n* Visit our website: http://www.booking.com\n* Booking.Yeah! http://www.youtube.com/booking\n\nAnd that\342\200\231s it from us! Thanks for checking out our free Android app.\n\nIf there\342\200\231s anything you think we could make even better, please contact us through the email link below."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "com.booking.permission.C2D_MESSAGE"
+    permissionId: "com.booking.permission.RECEIVER"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 10847812
+    packageName: "com.booking"
+    category: "Travel & Local"
+    contactEmail: "android-feedback@booking.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.booking.com"
+    screenshotsCount: 7
+    promoText: "Easy booking and fantastic deals on your Android device."
+    recentChanges: "3.8.6\nThanks to your great feedback we\342\200\231ve made a few improvements\342\200\246\t\n\342\230\205  You can now use your app to securely store credit cards to your account, and use previously stored cards for faster booking next time!\t\n\342\230\205  Get an improved confirmation page. See your check-in time, get directions and email an extra copy to your travelling companions. You can even check hotel\342\200\231s location on the map!\t\n\342\230\205  Bug fixes for smoother booking."
+    promotionalVideo: "http://www.youtube.com/watch?v=Kk8gcQpGACk"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Booking.com"
+  packageName: "com.booking"
+  versionCode: 28
+}
+app {
+  id: "v2:com.mictale.gpsessentials:1:131"
+  title: "GPS Essentials"
+  appType: APPLICATION
+  creator: "mictale.com"
+  version: "3.2.0"
+  rating: "4.3913736"
+  ratingsCount: 11894
+  ExtendedInfo {
+    description: "The most complete GPS tool on market: Navigate, manage waypoints, tracks, routes, build your own dashboard from 45 widgets.\n\n\342\235\247\342\235\247\342\235\247\342\235\247\342\235\247 Dashboard \342\235\247\342\235\247\342\235\247\342\235\247\342\235\247\nShows navigation values such as: Accuracy, Altitude, Speed, Battery, Bearing, Climb, Course, Date, Declination, Distance, ETA, Latitude, Longitude, Max Speed, Min Speed, Actual Speed, True Speed, Sunrise, Sunset, Moonset, Moonrise, Moon Phase, Target, Time,  TTG, Turn.\n\n\342\235\247\342\235\247\342\235\247\342\235\247\342\235\247 Compass \342\235\247\342\235\247\342\235\247\342\235\247\342\235\247\nShow the orientation of the earth\'s magnetic field, shows an arbitrary tracking angle and the current target. Also a marine orienteering compass.\n\n\342\235\247\342\235\247\342\235\247\342\235\247\342\235\247 Tracks \342\235\247\342\235\247\342\235\247\342\235\247\342\235\247\nRecord tracks and view them on map. Export KML files and import into Google Maps, Google Earth and others.\n\n\342\235\247\342\235\247\342\235\247\342\235\247\342\235\247 Routes \342\235\247\342\235\247\342\235\247\342\235\247\342\235\247\nManage routes and view them on map. Import KML files from Google Maps, Google Earth and others. Create turn-by-turn instructions between waypoints.\n\n\342\235\247\342\235\247\342\235\247\342\235\247\342\235\247 Camera \342\235\247\342\235\247\342\235\247\342\235\247\342\235\247\nA camera HUD (heads-up display) view to show your waypoints, take pictures and share them.\n\n\342\235\247\342\235\247\342\235\247\342\235\247\342\235\247 Map \342\235\247\342\235\247\342\235\247\342\235\247\342\235\247\nA map to show your waypoints. Convert mail addresses of your contacts to waypoint so that they can be used within the app.\n\nSupports Google Maps, MapQuest, OpenStreetMap and others.\n\n\342\235\247\342\235\247\342\235\247\342\235\247\342\235\247 Waypoints \342\235\247\342\235\247\342\235\247\342\235\247\342\235\247\nA list of all your waypoints with export and import (KML and GPX format).\n\n\342\235\247\342\235\247\342\235\247\342\235\247\342\235\247 Satellites \342\235\247\342\235\247\342\235\247\342\235\247\342\235\247\nA sky view of the current positions that shows satellites in view.\n\n\342\235\247\342\235\247\342\235\247\342\235\247\342\235\247 Features \342\235\247\342\235\247\342\235\247\342\235\247\342\235\247\nSupported position formats: UTM, MGRS, OSGB, Degree-Minute-Second, Degree-Minute-Fractions, Decimal. Supports over 230 datums.\n\nWaypoints, routes and tracks can be exported as KML or GPX files and sent by email or uploaded to Google Docs or DropBox.\n\nPlease open the web page below for more info, send me emails for support. I CANNOT HELP IF YOU SIMPLY PLACE A COMMENT HERE.\n\nPurchase the \"GPS Essentials Donation Plugin\" on Android Market if you want to support development.\n\nThe latest beta release is available at http://www.gpsessentials.com for download. Try out the latest features and help us improve GPS Essentials!\n\nIf you are on Facebook, come and join GPS Essentials for the latest info: http://www.gpsessentials.com\n\nTHIS APP WILL SHOW ADVERTISING. IF YOU DON\'T LIKE THIS, PLEASE REFRAIN FROM INSTALLING/UPDATING.\n\nGPS Essentials is not affiliated with any political party nor with any other organization mentioned in the ads, and it has no connection with any economic interests. If you don\'t like the ads, please contact AdMob.\n\nWHAT ARE THE PERMISSIONS GOOD FOR?\n\n\342\234\223 Coarse/Fine location: To access network locations and GPS\n\342\234\223 Full internet access: To read map tiles, send bug reports\n\342\234\223 Modify/delete USB storage contents: To write waypoints, tracks and images onto the SD card\n\342\234\223 Read phone state and identity: To tag pictures with the device ID (can be switched off in settings)\n\342\234\223 Take pictures and videos: Camera HUD, take pictures"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 5188853
+    packageName: "com.mictale.gpsessentials"
+    category: "Travel & Local"
+    contactEmail: "michael@mictale.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.gpsessentials.com"
+    screenshotsCount: 8
+    promoText: "The Swiss army knife of GPS navigation!"
+    recentChanges: "3.2.0 Changes\n\342\234\223 Fixed compass orientation (If your compass is not working, check \"Clamp Heading\" in settings)\n\342\234\223 Bulk download (Mapquest maps only)\n\342\234\223 Create route based on terrain (continental United States only).\n\342\234\223 Create route advanced options to fine tune routing options.\n\342\234\223 New portable basemaps.\n\342\234\223 Share your waypoints, pictures and current location on Mapfinity.com.\n\342\234\223 Stamen Terrain Map.\n\342\234\223 New layout for many activities."
+    promotionalVideo: "http://www.youtube.com/watch?v=ExOLvSzBJ70"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "mictale.com"
+  packageName: "com.mictale.gpsessentials"
+  versionCode: 131
+}
+app {
+  id: "v2:com.travelzoo.android:1:13"
+  title: "Travelzoo"
+  appType: APPLICATION
+  creator: "Travelzoo Inc."
+  version: "1.6"
+  rating: "4.163482"
+  ratingsCount: 471
+  ExtendedInfo {
+    description: "Join 26 million people worldwide and discover the latest Travel, Entertainment and Local Deals. Travelzoo\'s global team of Deal Experts scours the market every day for the most outstanding deals and recommend only the best. Now, the free Android app makes it easy to find and take advantage of great deals!\n\n\nWith the FREE Travelzoo\302\256 Android app you can:\n- Find high-quality travel, entertainment and local deals.\n- Purchase deals directly from your phone.\n- Browse the definitive list of the week\'s most amazing deals with the Top 20\302\256.\n- View and use your vouchers directly from your phone.\n\nFeatures of the new Android app:\n- Quickly tab between the Top 20\302\256, Travel Deals, Local Deals and My Vouchers to discover deals.\n- Each Travel, Entertainment and Local Deal features a beautiful details screen to find the most important information when booking and purchasing a deal: gorgeous photos, deal highlights, instructions to book and source of deal.\n- Purchase Local Deals fast and securely in under four taps.\n- Easily sort Local Deals deals in your city or nearby by proximity (handy to look for immediate getaways in your traveling area).\n- Map deals based on location, right on the details screen of each deal - one of the most requested features from our subscribers.\n\nGet exclusive deals in these international app editions:\n- United States\n- United Kingdom\n- Canada\n- Spain\n- France\n- Germany\n- Australia\n- Japan\n- Hong Kong\n\nA bit more about Travelzoo...\n\nSince 1998, Travelzoo is the most trusted publisher of travel, entertainment deals and local deals. Our deal experts research, evaluate and test thousands of deals to find those with true value.  We recommend only the very best deals whose price and availability we can confirm. We never publish a deal we wouldn\342\200\231t book ourselves."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 2189987
+    packageName: "com.travelzoo.android"
+    category: "Travel & Local"
+    contactEmail: "suggestions@travelzoo.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.travelzoo.com"
+    screenshotsCount: 6
+    promoText: "Discover the best travel, entertainment and Local Deals on the go."
+    recentChanges: "New in v1.6\nNEW: Discover China - browse amazing deals in the country of Great Wall!\nNEW: Travel Deals now feature a beautiful carousel of Today\'s Top Deals.\nFIXED: Images for featured deals are now displaying correctly."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Travelzoo Inc.\""
+  packageName: "com.travelzoo.android"
+  versionCode: 13
+}
+app {
+  id: "6435997217436330495"
+  title: "A Google Map Navigation Book"
+  appType: APPLICATION
+  creator: "adaptdroid"
+  version: "2.5"
+  rating: "4.0186067"
+  ratingsCount: 4407
+  ExtendedInfo {
+    description: "Need an address book for Google Maps locations? Do you use Google Navigation turn-by-turn directions often?\n\nAdd your commonly used locations to the address book, and with one click, load navigator.\n\nPro version allows you to save locations from Google Maps + make a backup.\n\nNot affiliated with Google Inc"
+    downloadsCount: 0
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 180027
+    packageName: "com.adaptdroid.navbookfree3"
+    category: "Travel & Local"
+    contactEmail: "adaptdroid@gmail.com"
+    downloadsCountText: ">250,000"
+    screenshotsCount: 2
+    promoText: "Need an address book for Google Maps locations? Do you use Google Navigation turn-by-turn directions often?\n\nAdd your commonly used locations to the address book, and with one click, load navigator.\n\nPro version allows you to save locations from Google Maps + make a backup.\n\nNot affiliated with Google Inc"
+    recentChanges: "Bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "adaptdroid"
+  packageName: "com.adaptdroid.navbookfree3"
+  versionCode: 88
+}
+app {
+  id: "v2:com.telenav.app.android.scout_us:1:7300125"
+  title: "Scout by Telenav"
+  appType: APPLICATION
+  creator: "TeleNav Inc."
+  version: "1.3.0.7300125"
+  rating: "4.0848484"
+  ratingsCount: 165
+  ExtendedInfo {
+    description: "Join millions of drivers and get free voice-guided navigation using the power of Scout \342\200\223 award-winning personalized navigation and traffic for your daily journey.\n\nLet\'s face it, life can get rough sometimes - especially on the road. Luckily, Scout is here to help. With personalized, always up-to-date navigation in your pocket, in your car, or wherever you are, your daily journey just got easier.\n\nScout For Free: \n\n\342\234\224 My Dashboard \342\200\223 Get traffic, search shortcuts for nearby places, weather, and commute drive times on one easy screen\n\342\234\224 Voice Turn-by-Turn Directions \342\200\223 Pick your route and get spoken turn-by-turn directions on the latest maps with award-winning Telenav\302\256 GPS navigation \n\342\234\224 My Traffic \342\200\223 See real-time traffic and ETAs; avoid traffic jams and delays \n\342\234\224 Nearby Places \342\200\223 Use one-tap search to quickly find coffee, restaurants and the cheapest gas stations nearby, with Yelp and TripAdvisor reviews!\n\342\234\224 My Favorites \342\200\223 Remember that great hole-in-the-wall you discovered with My Favorites\n\342\234\224 Voice Commands \342\200\223 Speak, don\342\200\231t type, to navigate hands free\n\342\234\224 Car Connect - Connect to Scout on Ford Sync AppLink\342\204\242 to get voice-guided directions on your car display and hear them over the car speakers (only with in-app upgrade)\n\342\234\224 Discover things to do on www.scout.me, including live music, family fun, outdoor activities and cool local events. Log in to sync your favorites between the site and the Scout app.\n\n--\nWhat\342\200\231s the word on Scout?\n\n\342\200\234A Sexier Yelp\342\200\235 \342\200\223 Men\342\200\231s Journal\n\n\342\200\234Scout by Telenav has the best interface\342\200\246and is also the easiest to use by a long shot.\342\200\235 - Allyson Kazmucha, iMore (article)\n\n\"Wow - this is awesome! Scout addresses exactly the issues I have while navigating around my new California hometown.\" - Kyle Thibaut, Aol Autos | TRANSLOGIC\n \nAwards: \n2012 Best of CES Finalist\n2012 CTIA Emerging Technology Award Winner\n2012 IAVACommunicator Award of Excellence\n2012 Telematics Update Best Navigation Product\n2012 Appy Award Finalist"
+    downloadsCount: 0
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.RECORD_AUDIO"
+    permissionId: "android.permission.ACCESS_GPS"
+    permissionId: "android.permission.ACCESS_LOCATION"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.DISABLE_KEYGUARD"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.SEND_SMS"
+    permissionId: "android.permission.MODIFY_AUDIO_SETTINGS"
+    permissionId: "android.permission.BLUETOOTH"
+    permissionId: "android.permission.BLUETOOTH_ADMIN"
+    permissionId: "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    permissionId: "android.permission.READ_LOGS"
+    permissionId: "com.telenav.app.android.scout_us.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    installSize: 9806095
+    packageName: "com.telenav.app.android.scout_us"
+    category: "Travel & Local"
+    contactEmail: "android@scout.me"
+    downloadsCountText: "10,000-50,000"
+    contactPhone: "+18883536284"
+    contactWebsite: "http://help.scout.me/scout"
+    screenshotsCount: 8
+    promoText: "Meet Scout \342\200\223 a better way to discover where to go and how to get there."
+    recentChanges: "What\'s in this version:\n\n\342\234\224 Refreshed My Dashboard with one-tap access to My Places and My Profile\n\n\342\234\224 Sync your favorites. Create an account for Scout and log into the app on your phone or www.scout.me online to sync your favorites.\n\n\342\234\224 Performance improvements: get faster search results."
+    promotionalVideo: "http://www.youtube.com/watch?v=rklws19ljRc"
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "\"TeleNav Inc.\""
+  packageName: "com.telenav.app.android.scout_us"
+  versionCode: 7300125
+}
+app {
+  id: "v2:com.marriott.mrt:1:20"
+  title: "Marriott International"
+  appType: APPLICATION
+  creator: "Marriott"
+  version: "2.0"
+  rating: "3.8966901"
+  ratingsCount: 997
+  ExtendedInfo {
+    description: "Give your Android\342\204\242 a well-deserved vacation with the newly updated, free Marriott mobile app. \n\nWith a brand for every personality & destination for every desire, travel is easy with the free Marriott app. \302\240Our app makes booking your Marriott stay more convenient than ever. Plus, you\342\200\231ll earn Marriott Rewards points for your trips to either business or vacation destinations booked through this free app. How many Android\302\256travel apps can do all that? All this and more\342\200\224just one tap away on your Android\302\256.\n\nDiscover our new look and updated features. With the free Marriott Mobile app, you can:\n\n\342\200\242 Make hotel reservations at 3,800+ hotels and resorts in 70 countries, 24/7 from anywhere\n\342\200\242 Access your Marriott Rewards account or enroll in the Rewards program\n\342\200\242 Use your Rewards Digital Membership Card for quick access to your account information and program updates\n\342\200\242 Find hotels near your current position with GPS functionality\n\342\200\242 Browse hotel photos, maps, and amenities\n\342\200\242 View upcoming reservations\n\342\200\242 Cancel upcoming reservations\n\342\200\242 Browse city guides with helpful tips about your destinations\n\342\200\242 Call a hotel or get help immediately with Marriott reservations via phone (if supported by your device)\n\342\200\242 Add reservations directly to your calendar\n\342\200\242 Download our app to an SD card\n\342\200\242 Available in English, French, Spanish, German, and Chinese."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_CALENDAR"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.WRITE_CALENDAR"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3921275
+    packageName: "com.marriott.mrt"
+    category: "Travel & Local"
+    contactEmail: "Marriott.Mobile.Customer.Care@Marriott.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18008005705"
+    contactWebsite: "http://www.marriott.com/suggest/default.mi"
+    screenshotsCount: 5
+    promoText: "Give your Android\342\204\242 a well-deserved vacation with the newly updated, free Marriott mobile app. \n\nWith a brand for every personality & destination for every desire, travel is easy with the free Marriott app. \302\240Our app makes booking your Marriott stay more convenient than ever. Plus, you\342\200\231ll earn Marriott Rewards points for your trips to either business or vacation destinations booked through this free app. How many Android\302\256travel apps can do all that? All this and more\342\200\224just one tap away on your Android\302\256.\n\nDiscover our new look and updated features. With the free Marriott Mobile app, you can:\n\n\342\200\242 Make hotel reservations at 3,800+ hotels and resorts in 70 countries, 24/7 from anywhere\n\342\200\242 Access your Marriott Rewards account or enroll in the Rewards program\n\342\200\242 Use your Rewards Digital Membership Card for quick access to your account information and program updates\n\342\200\242 Find hotels near your current position with GPS functionality\n\342\200\242 Browse hotel photos, maps, and amenities\n\342\200\242 View upcoming reservations\n\342\200\242 Cancel upcoming reservations\n\342\200\242 Browse city guides with helpful tips about your destinations\n\342\200\242 Call a hotel or get help immediately with Marriott reservations via phone (if supported by your device)\n\342\200\242 Add reservations directly to your calendar\n\342\200\242 Download our app to an SD card\n\342\200\242 Available in English, French, Spanish, German, and Chinese."
+    recentChanges: "What\342\200\231s new in this release:\nUpdated look and feel\nAbility to search for hotels without dates\nAdd reservations directly to your calendar\nDownload the app to an SD card\nCancel upcoming reservations\302\240\nVariety of bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "Marriott"
+  packageName: "com.marriott.mrt"
+  versionCode: 20
+}
+app {
+  id: "v2:com.nianticproject.scout:1:18"
+  title: "Field Trip"
+  appType: APPLICATION
+  creator: "NianticLabs@Google"
+  version: "1.08"
+  rating: "4.009061"
+  ratingsCount: 1214
+  ExtendedInfo {
+    description: "Field Trip is your guide to the cool, hidden, and unique things in the world around you. Field Trip runs in the background on your phone. When you get close to something interesting, it pops up a card with details about the location. No click is required. If you have a headset or bluetooth connected, it can even read the info to you.\n\nField Trip can help you learn about everything from local history to the latest and best places to shop, eat, and have fun. You select the local feeds you like and the information pops up on your phone automatically, as you walk next to those places.\n\nThe hyperlocal history experts of Arcadia and Historvius will unveil local lore in places you never expected. Trend-setting publications like TimeOut, Thrillist, Food Network, Zagat, and Eater will point out the best places to eat and drink. Experts at Sunset, Cool Hunting, WeHeart, Inhabitat, and Remodelista will guide you to the latest unique stores and products. Atlas Obscura, Dezeen and Daily Secret help you uncover hidden gems no matter where you are. Songkick and Flavorpill guide you to local music.\n\nWhat did you discover today? Enrich yourself with a Field trip during your commute. Live like a local when you travel to new places. Eat and shop off the beaten path. Or simply discover the obscure history about your neighborhood during your next walk to the park.\n\nGet ready to see this world with new eyes!\n\nNOTE: This app is optimized for smartphones, not tablets.\n\nHighlights:\n\n\342\230\205 Discover thousands of interesting places/experiences that fall under the following categories: Architecture, Historic Places & Events, Lifestyle, Offers & Deals, Food Drinks & Fun, Movie Locations, Outdoor Art and Obscure Places of Interest around you.\n\n\342\230\205 Choose from three different modes to set frequency of Field Trip notifications. See \342\200\234Field Trip\342\200\235 worthy places around you on a map, by tapping on cards in map view to pull up enthralling points of interest around you.\n\n\342\230\205 Go on a Field Trip while you drive. Field Trip can detect when you\342\200\231re driving and automatically \342\200\234talk\342\200\235 about interesting places and experience around you.\n\n\342\230\205 Capture the memory of a special place, by sharing a wondrous discovery through email and social networks such as Google+, Twitter and Facebook.\n\n\342\230\205 Wondering where the gem that you recently discovered is? Find your discovered field trip cards in the \342\200\234recent\342\200\231 section.\n\n\342\230\205 Field trip learns what you love. Thumbs up or down to tune the information discovery engine.\n\nFor more information about how to use Field Trip, visit our help center at http://support.google.com/fieldtrip\n\nFollow us on:\nwww.facebook.com/FieldTripApp\nwww.google.com/+FieldTripApp\nwww.twitter.com/FieldTripApp"
+    downloadsCount: 0
+    permissionId: "com.nianticproject.scout.permission.MAPS_RECEIVE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.BATTERY_STATS"
+    permissionId: "android.permission.BLUETOOTH"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.MODIFY_AUDIO_SETTINGS"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.USE_CREDENTIALS"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "com.google.android.providers.gsf.permission.READ_GSERVICES"
+    permissionId: "com.nianticproject.scout.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3006023
+    packageName: "com.nianticproject.scout"
+    category: "Travel & Local"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://www.fieldtripper.com"
+    screenshotsCount: 8
+    promoText: "Field Trip is your guide to the cool, hidden, and unique things in the world around you. Field Trip runs in the background on your phone. When you get close to something interesting, it pops up a card with details about the location. No click is required. If you have a headset or bluetooth connected, it can even read the info to you.\n\nField Trip can help you learn about everything from local history to the latest and best places to shop, eat, and have fun. You select the local feeds you like and the information pops up on your phone automatically, as you walk next to those places.\n\nThe hyperlocal history experts of Arcadia and Historvius will unveil local lore in places you never expected. Trend-setting publications like TimeOut, Thrillist, Food Network, Zagat, and Eater will point out the best places to eat and drink. Experts at Sunset, Cool Hunting, WeHeart, Inhabitat, and Remodelista will guide you to the latest unique stores and products. Atlas Obscura, Dezeen and Daily Secret help you uncover hidden gems no matter where you are. Songkick and Flavorpill guide you to local music.\n\nWhat did you discover today? Enrich yourself with a Field trip during your commute. Live like a local when you travel to new places. Eat and shop off the beaten path. Or simply discover the obscure history about your neighborhood during your next walk to the park.\n\nGet ready to see this world with new eyes!\n\nNOTE: This app is optimized for smartphones, not tablets.\n\nHighlights:\n\n\342\230\205 Discover thousands of interesting places/experiences that fall under the following categories: Architecture, Historic Places & Events, Lifestyle, Offers & Deals, Food Drinks & Fun, Movie Locations, Outdoor Art and Obscure Places of Interest around you.\n\n\342\230\205 Choose from three different modes to set frequency of Field Trip notifications. See \342\200\234Field Trip\342\200\235 worthy places around you on a map, by tapping on cards in map view to pull up enthralling points of interest around you.\n\n\342\230\205 Go on a Field Trip while you drive. Field Trip can detect when you\342\200\231re driving and automatically \342\200\234talk\342\200\235 about interesting places and experience around you.\n\n\342\230\205 Capture the memory of a special place, by sharing a wondrous discovery through email and social networks such as Google+, Twitter and Facebook.\n\n\342\230\205 Wondering where the gem that you recently discovered is? Find your discovered field trip cards in the \342\200\234recent\342\200\231 section.\n\n\342\230\205 Field trip learns what you love. Thumbs up or down to tune the information discovery engine.\n\nFor more information about how to use Field Trip, visit our help center at http://support.google.com/fieldtrip\n\nFollow us on:\nwww.facebook.com/FieldTripApp\nwww.google.com/+FieldTripApp\nwww.twitter.com/FieldTripApp"
+    recentChanges: "V1.08:\n* New content from Art Nerd New York, Cultureist, Mad Girl Eats, Weekend Sherpa, Wilderness Press and more.\n* When receiving a notification, unlock slider lets you swipe right to unlock, left to dismiss, up to snooze.\n* When snoozed Field Trip will not send notifications for the rest of the day.\n* Configuration option to keep screen turned off. When you hear the notification sound, press power button to read.\n* Configuration option to get notifications via standard Android notifications."
+    promotionalVideo: "http://www.youtube.com/watch?v=zusjUjaiWJQ&list=PLgHXUtGxxL3LjCUxcM7D2hjS_ok2M7p6h&feature=plcp"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "NianticLabs@Google"
+  packageName: "com.nianticproject.scout"
+  versionCode: 18
+}
+app {
+  id: "v2:com.jazzmoonstewdio.android.dcmetro.activity:1:50"
+  title: "DC Metro Transit - Free"
+  appType: APPLICATION
+  creator: "JazzMoon Studio LLC"
+  version: "4.1.3"
+  rating: "4.539387"
+  ratingsCount: 4405
+  ExtendedInfo {
+    description: "Free (with ads) mobile interface for WMATA:\n-Tablet friendly layout (Honeycomb Compatibility)\n-Real-time predictions: DC Metrorail, Metro Bus, Circulator, PG County-The Bus, Fairfax CUE, UMD Shuttle\n-Nearest train stations & WMATA Bus stops by GPS\n-Google Maps directions to each of the nearest stations/stops\n-Interactive Metrorail Map\n-Load StreetView from Metro Map for a station\n-Train Trip Planner\n-Metro rail disruptions and news\n-Important WMATA contact information (press menu on the app home screen)\n-Sort your favorite Metro Stations and Bus Stops by dragging the icons to the left of the station name.\n-Backup your configuration to the SD card (press menu on the app home screen)\n-Restore your configuration from the SD card (press menu on the app home screen)\n\nAn ad-free (paid) version is available."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 2077021
+    packageName: "com.jazzmoonstewdio.android.dcmetro.activity"
+    category: "Travel & Local"
+    contactEmail: "support@jazzmoonstudio.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.jazzmoonstudio.com/"
+    screenshotsCount: 8
+    promoText: "Realtime predictions for Washington DC MetroRail, MetroBus and other local buses"
+    recentChanges: "Updated the fare calculator"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"JazzMoon Studio LLC\""
+  packageName: "com.jazzmoonstewdio.android.dcmetro.activity"
+  versionCode: 50
+}
+app {
+  id: "v2:com.apps.aaa.roadside:1:122"
+  title: "AAA Roadside"
+  appType: APPLICATION
+  creator: "AAA_National"
+  version: "1.2.2"
+  rating: "4.1552887"
+  ratingsCount: 1333
+  ExtendedInfo {
+    description: "AAA\342\200\231s legendary roadside assistance is available easily through this app. Avoid waiting on the phone and receive confirmation that the information sent to AAA is correct. Using the location of your Android device a road service request is a few simple steps away. Select the type of breakdown and AAA assures your information is delivered to a local roadside problem-solving technician for quick response. \n\nThe AAA Roadside app also confirms your request and can provide information on nearby locations of AAA Approved Auto Repair shops, AAA branch offices, discount providers and more. If you prefer to call, your location is sent to a AAA representative. You can even view your AAA card."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_MOCK_LOCATION"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 2773984
+    packageName: "com.apps.aaa.roadside"
+    category: "Travel & Local"
+    contactEmail: "apps_feedback@national.aaa.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.aaa.com/roadside"
+    screenshotsCount: 2
+    promoText: "Easily send your location and vehicle breakdown info to AAA for rapid response."
+    recentChanges: "Critical update - please run the AAA Roadside app once after installing this update. This will ensure that your vehicle information is available from other AAA apps coming soon. Additional 2012 model year vehicles have also been added."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "AAA_National"
+  packageName: "com.apps.aaa.roadside"
+  versionCode: 122
+}
+

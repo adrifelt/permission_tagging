@@ -1,0 +1,13 @@
+android.app.IActivityManager android.app.ActivityManagerNative.asInterface
+android.app.IActivityManager android.app.ActivityManagerNative.getDefault
+android.app.IWallpaperManager android.app.WallpaperManager.getIWallpaperManager
+android.bluetooth.IBluetooth android.bluetooth.BluetoothDevice.getService
+android.bluetooth.IBluetooth android.bluetooth.BluetoothAdapter.getDefaultAdapter
+android.content.IContentService android.content.ContentResolver.getContentService
+android.content.pm.IPackageManager android.content.pm.AppCacheTest.getPm
+android.media.IAudioService android.media.AudioManager.getService
+android.view.IWindowSession android.view.ViewRoot.getWindowSession
+com.android.internal.telephony.ITelephony android.telephony.TelephonyManager.getITelephony
+com.android.internal.telephony.IccPhoneBookInterfaceManager com.android.internal.telephony.Phone.getIccPhoneBookInterfaceManager
+com.android.internal.telephony.IccPhoneBookInterfaceManager com.android.internal.telephony.gsm.GSMPhone.getIccPhoneBookInterfaceManager
+com.android.internal.telephony.IccPhoneBookInterfaceManager com.android.internal.telephony.cdma.CDMAPhone.getIccPhoneBookInterfaceManager

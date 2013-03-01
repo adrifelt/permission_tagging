@@ -1,0 +1,11 @@
+content://calendar is for Android 2.2.  In android 2.2+, it's com.android.calendar.
+
+m_locationManager = 
+(LocationManager)getSystemService(Context.LOCATION_SERVICE); 
+Location location = m_locationManager.getCurrentLocation("gps");
+android.permission.ACCESS_LOCATION
+android.permission.ACCESS_GPS
+
+In Android <2.2, it's android.os.IMountService.
+In Android 2.2+, it's android.os.storage.IMountService.
+I added android.os.IMountService as an alias.

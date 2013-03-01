@@ -1,0 +1,54 @@
+content://call_log,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://contacts,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://contacts/photos,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://contacts/groupmembership,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://contacts/settings,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://contacts/contact_methods,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://contacts/extensions,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://contacts/groups,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://contacts/organizations,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://contacts/people,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://contacts/phones,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://contacts/presence,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://com.android.contacts,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS or NONE
+content://com.android.contacts/contacts,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://com.android.contacts/data,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://com.android.contacts/phone_lookup,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://com.android.contacts/settings,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://com.android.contacts/status_updates,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://com.android.contacts/aggregation_exceptions,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://com.android.contacts/raw_contacts,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://com.android.contacts/syncstate,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://com.android.contacts/groups,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://com.android.contacts/provider_status,android.permission.WRITE_CONTACTS or android.permission.READ_CONTACTS
+content://telephony,android.permission.WRITE_APN_SETTINGS or NONE
+content://telephony/carriers,android.permission.WRITE_APN_SETTINGS
+content://mms,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://mms/drafts,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://mms/inbox,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://mms/outbox,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://mms/rate,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://mms/sent,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://mms-sms,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://mms-sms/pending,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://mms-sms/conversations,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://sms,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://sms/conversations,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://sms/draft,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://sms/inbox,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://sms/outbox,android.permission.WRITE_SMS or android.permission.READ_SMS
+content://browser,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS or com.android.browser.permission.READ_HISTORY_BOOKMARKS or NONE
+content://browser/bookmarks,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS or com.android.browser.permission.READ_HISTORY_BOOKMARKS
+content://browser/searches,com.android.browser.permission.WRITE_HISTORY_BOOKMARKS or com.android.browser.permission.READ_HISTORY_BOOKMARKS
+content://user_dictionary,android.permission.READ_USER_DICTIONARY and android.permission.WRITE_USER_DICTIONARY
+content://user_dictionary/words,android.permission.READ_USER_DICTIONARY and android.permission.WRITE_USER_DICTIONARY
+content://settings,android.permission.WRITE_SETTINGS or android.permission.WRITE_SECURE_SETTINGS or NONE
+content://settings/secure,android.permission.WRITE_SETTINGS and android.permission.WRITE_SECURE_SETTINGS
+content://settings/system,android.permission.WRITE_SETTINGS
+content://downloads,android.permission.ACCESS_DOWNLOAD_MANAGER or android.permission.ACCESS_DOWNLOAD_MANAGER_ADVANCED or NONE
+content://downloads/download,android.permission.ACCESS_DOWNLOAD_MANAGER or android.permission.ACCESS_DOWNLOAD_MANAGER_ADVANCED
+content://drm,android.permission.ACCESS_DRM or android.permission.INSTALL_DRM or NONE
+content://drm/images,android.permission.ACCESS_DRM and android.permission.INSTALL_DRM
+content://drm/audio,android.permission.ACCESS_DRM and android.permission.INSTALL_DRM
+content://com.android.calendar,android.permission.WRITE_CALENDAR or android.permission.READ_CALENDAR
+content://calendar,android.permission.WRITE_CALENDAR or android.permission.READ_CALENDAR

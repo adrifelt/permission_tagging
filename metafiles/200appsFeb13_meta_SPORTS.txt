@@ -1,0 +1,1957 @@
+app {
+  id: "v2:com.espn.score_center:1:191"
+  title: "ScoreCenter for Android"
+  appType: APPLICATION
+  creator: "ESPN Inc"
+  version: "3.1.0"
+  rating: "4.2110467"
+  ratingsCount: 156553
+  ExtendedInfo {
+    description: "ESPN ScoreCenter brings you scores, news and standings from sports leagues around the world. The new app makes it easier than ever to follow your favorite teams anytime, anywhere. Stay up to date on the latest scores with personalized scoreboards and alerts. Follow the nation\342\200\231s top stories with in-depth coverage and analysis.\n\nFeatures: \n\342\200\242Personalized scoreboards, news, and video highlights from your favorite teams and leagues, highlighting the games you care about.\n\342\200\242Expanded game views, providing in-depth game coverage.\n\342\200\242Breaking news, scores, and videos from the top live events of the day.\n\342\200\242Live scoring alerts for your favorite teams and personalized match-ups sent directly to your phone.\n\342\200\242Live integrated Gamecasts, plus links to WatchESPN.\n\342\200\242Calendar navigation, allowing access to previous scores and upcoming games.\n\342\200\242Ability to share your favorite games, videos and news with friends.\n\342\200\242MyNews & MyVideo present content related to your favorite team."
+    downloadsCount: 0
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "com.urbanairship.push.sample.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 2700556
+    packageName: "com.espn.score_center"
+    category: "Sports"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18885493776"
+    contactWebsite: "http://espn.go.com/"
+    screenshotsCount: 6
+    promoText: "ESPN ScoreCenter delivers live scores from hundreds of leagues around the world."
+    recentChanges: "From your feedback, we\'ve released an updated version of ScoreCenter - thank you for being an awesome fan and helping us make a great app.\n \n-Improvements in this version:\n -Home Section divided into:\n  -\"My Teams\" \342\200\223 Scores for all of your favorite teams\n  -\"The Lead\" \342\200\223 Scores for all of the day\342\200\231s top events\n -Optimized menu for easy sport switching.\n -Added Boxing, Conference news for College Sports\n -Bug Fixes and Performance Improvements"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"ESPN Inc\""
+  packageName: "com.espn.score_center"
+  versionCode: 191
+}
+app {
+  id: "v2:com.nascar.nascarmobile:1:8122111"
+  title: "NASCAR Mobile \'13"
+  appType: APPLICATION
+  creator: "NASCAR Digital Media, LLC"
+  version: "2.1.1.1"
+  rating: "2.4186726"
+  ratingsCount: 1371
+  ExtendedInfo {
+    description: "*Please be sure to have the most up-to-date version of the app on your device! NASCAR has fixed the issue for Sprint user access to NASCAR Mobile \342\200\23113 affecting Android 2.3.5, Android 4.0.4 and Android 4.1.1*\n\nNASCAR Mobile \342\200\23113 has now been enhanced with live race day action! All fans will now have the ability to experience live race leaderboards, driver audio & telemetry, broadcast race radio, real-time practice and qualifying leaderboards and alternate in-car camera angles (when available) through the NASCAR Mobile \342\200\23113 app (see below for live content by Series). NASCAR Mobile \342\200\23113 continues to offer comprehensive in-depth news, expert analysis and video from all three NASCAR-sanctioned series. Immerse yourself even further into the NASCAR experience with driver information & stats, series standings, race highlights, fantasy games and social media updates from the sport\342\200\231s biggest stars. \n\nNASCAR Mobile \342\200\23113 now offers a seasonal subscription options for Premium Live Content*: \n- Live Real-time advanced leaderboards and comprehensive telemetry data for NASCAR Sprint Cup Series, NASCAR Nationwide Series, and NASCAR Camping World Series \n- Live in-car audio for NASCAR Sprint Cup Series drivers and Officials \n- Live Motor Racing Network (MRN) and Performance Racing Network (PRN) race audio broadcasts \n- Live Real-time Practice and Qualifying session leaderboards for NASCAR Sprint Cup Series \n- Live alternate NASCAR Sprint Cup in-car camera angles (when available) \n\nAvailable Live Content:\n\tLive NASCAR Sprint Cup Series Practice \342\200\223 Live Leaderboard\n\tLive NASCAR Sprint Cup Series Qualifying \342\200\223 Live Leaderboard\n        Live NASCAR Sprint Cup Series Race \342\200\223 Live Leaderboard\n\tLive NASCAR Nationwide Series Practice \342\200\223 Live Leaderboard\n\tLive NASCAR Nationwide Series Qualifying \342\200\223 Live Leaderboard\n\tLive NASCAR Nationwide Series Race \342\200\223 Live Lite Leaderboard\n\tLive NASCAR Camping World Truck Series Practice \342\200\223 Live Leaderboard\n\tLive NASCAR Camping World Truck Series Qualifying \342\200\223 Live Leaderboard\n\tLive NASCAR Camping World Truck Series Race \342\200\223 Live Leaderboard\n\nPremium Live Content:\n        Live NASCAR Sprint Cup Series Race\n             - Live Advanced Leaderboard and Driver Stats\n             - Live Driver Audio\n             - Live Race Radio\n             - Live Alt-Camera Angles (Starting June 9, 2013) \n             - Live Track Positioning (Coming Soon)\n        Live NASCAR Nationwide Series Race\n             - Live Enhanced Leaderboard\n        Live NASCAR Camping World Truck Series Race\n             - Live Enhanced Leaderboard\n\n**NASCAR Mobile \342\200\23113 premium content is available to all mobile users, and through Sprint\'s relationship with NASCAR is offered Free to Sprint customers with any Unlimited data plan (excludes devices without a Sprint data plan).**\n\nComing Soon: NASCAR Mobile \342\200\23113 Alerts"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALENDAR"
+    permissionId: "android.permission.WRITE_CALENDAR"
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 6195969
+    packageName: "com.nascar.nascarmobile"
+    category: "Sports"
+    contactEmail: "nascarappsupport@nascar.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.nascar.com"
+    screenshotsCount: 5
+    promoText: "NASCAR Mobile \342\200\23113: The year-round source for everything NASCAR."
+    recentChanges: "NASCAR Mobile \342\200\23113 for Android v2.1.1\n\n* NASCAR has fixed the issue for Sprint user access to NASCAR Mobile \342\200\23113 affecting Android 2.3.5, Android 4.0.4 and Android 4.1.1\n\n* How to pick my favorite driver: Open Menu, Select Drivers, Tap star next to driver name, close Menu\n* Fixed issue with Driver Audio closing when switched to Leaderboard, app goes to sleep\n* Fixed issue with LIVE navigation screen\n* Fixed issue with Practice and Qualifying\n* Fixed issue with other series appearing in app"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"NASCAR Digital Media, LLC\""
+  packageName: "com.nascar.nascarmobile"
+  versionCode: 8122111
+}
+app {
+  id: "v2:com.bamnetworks.mobile.android.gameday.atbat:1:30"
+  title: "MLB.com At Bat"
+  appType: APPLICATION
+  creator: "MLB Advanced Media, L.P."
+  version: "2.0.1"
+  rating: "3.7251964"
+  ratingsCount: 4072
+  ExtendedInfo {
+    description: "The #1 sports app of all-time, MLB.com At Bat, returns for the 2013 season with live Spring Training baseball from the Grapefruit and Cactus Leagues. MLB.com At Bat is the official app of Major League Baseball\n\n****NEW FOR AT BAT 13****\n- Multi-platform live audio access for At Bat 13 subscribers (portable to Mac/PC with a valid MLB.com account)\n- Universal support for At Bat 13 subscribers, accessible on Android smartphones and tablets and other supported mobile devices\n- Re-designed individual team pages (Android phones only)\n- Re-architected news section navigation (Android phones only)\n- Expanded video highlight integration\n\nAt Bat offers multiple subscription options for access to At Bat 13:\n****At Bat 13 Subscription Options****\n- One-time annual fee of $19.99 for the entire 2013 season, Spring Training through the World Series\n- MLB.TV Premium subscribers receive At Bat 13 for free with log-in\n\n***Spring Training Features (Additional features and functionality will be released in an update that will be available before Opening Day)****\n- Access your MLB.TV Premium subscription to watch live video of more than 200 Spring Training games\n- Listen to available live radio broadcasts of Spring Training games\n- Customize At Bat\'s home screen to feature your designated favorite team.\n- Favorite team home screen widget for one-click access to your favorite team\342\200\231s At Bat homepage (Android tablet links to Scoreboard)\n- MLB home screen widget for in-progress scores around the league\n- Follow batter-by-batter action for every Spring Training game\n- Enhanced video library archive, searchable by player, team or keyword (only available for Android phones)\n- Breaking news, schedules and interactive rosters and players stats for every team\n\nMLB.com At Bat features live coverage of the Arizona Diamondbacks, Atlanta Braves, Baltimore Orioles, Boston Red Sox, Chicago Cubs, Chicago White Sox, Cincinnati Reds, Cleveland Indians, Colorado Rockies, Detroit Tigers, Houston Astros, Kansas City Royals, Los Angeles Angels of Anaheim, Los Angeles Dodgers, Miami Marlins, Milwaukee Brewers, Minnesota Twins, New York Mets, New York Yankees, Oakland Athletics, Philadelphia Phillies, Pittsburgh Pirates, St. Louis Cardinals, San Diego Padres, San Francisco Giants, Seattle Mariners, Tampa Bay Rays, Texas Rangers, Toronto Blue Jays and Washington Nationals.\n\n\302\251 2013 MLB Advanced Media, L.P. All Major League Baseball trademarks and copyrights used herein are the property of the applicable MLB entity.  All rights reserved."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.KILL_BACKGROUND_PROCESSES"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.RESTART_PACKAGES"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.BLUETOOTH"
+    permissionId: "com.android.vending.BILLING"
+    installSize: 6220347
+    packageName: "com.bamnetworks.mobile.android.gameday.atbat"
+    category: "Sports"
+    contactEmail: "mlb-mobile-cs@mlb.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18663065311"
+    contactWebsite: "http://www.mlb.com"
+    screenshotsCount: 8
+    promoText: "Every Game. Everywhere."
+    recentChanges: "Ver. 2.0.1\n****NEW FOR AT BAT 13****\n- Multi-platform live audio access for At Bat 13 subscribers (portable to Mac/PC with a valid MLB.com account)\n- Universal support for At Bat 13 subscribers, accessible on Android smartphones and tablets and other supported mobile devices\n- Re-designed individual team pages (Android phones only)\n- Re-architected news section navigation (Android phones only)\n- Expanded video highlight integration"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"MLB Advanced Media, L.P.\""
+  packageName: "com.bamnetworks.mobile.android.gameday.atbat"
+  versionCode: 30
+}
+app {
+  id: "v2:air.WatchESPN:1:1006003"
+  title: "WatchESPN"
+  appType: APPLICATION
+  creator: "ESPN Inc"
+  version: "1.6.3.11"
+  rating: "2.5727644"
+  ratingsCount: 16148
+  ExtendedInfo {
+    description: "Stay connected to live sports and shows from ESPN \342\200\223 wherever and whenever you want them. Download the FREE WatchESPN app to your Android device and get 24/7 access to live streaming feeds from ESPN, ESPN2, ESPN3 and ESPNU.\n \nAccess to WatchESPN live video is determined by your TV provider and, in some instances, your Internet service provider.  ESPN, ESPN2, ESPN3 and ESPNU are available to fans who receive ESPN as part of their TV package.  The providers below are currently offering full access to WatchESPN live video:\n \n* Bright House Networks\n* Comcast XFINITY\n* Cox\n* Midcontinent Communications\n* Optimum\n* Time Warner Cable\n* Verizon FiOS TV\n\nPlease check back regularly as new TV providers are added. \n\nThe WatchESPN app features:\n\nLive streaming access to the top events from the ESPN family of networks, including:\n\n* NBA Regular Season and Playoffs\n* Major League Baseball\n* The Masters, U.S. Open and The Open Championship\n* College Football and Basketball\n* Barclay\342\200\231s Premier League, Spanish Primera Division and Euro 2012 Soccer\n* All 4 Grand Slam tennis events\n\342\200\246and thousands more live events airing on the ESPN networks \n\nUp-to-the-minute news, highlights and analysis with live streaming access to your favorite ESPN shows, including:\n\n* SportsCenter\n* PTI\n* Mike & Mike\n* SportsNation\n* Baseball Tonight\n\342\200\246and every other ESPN original show \n\nEasy-to-use search functionality for locating your favorite teams, shows and events."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.DISABLE_KEYGUARD"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 10473284
+    packageName: "air.WatchESPN"
+    category: "Sports"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18885493776"
+    contactWebsite: "http://m.espn.go.com"
+    screenshotsCount: 5
+    promoText: "Stay connected to live sports and shows from ESPN"
+    recentChanges: "- Enhanced video playback support for various handsets & tablets\n- Other important bug fixes & optimizations"
+    19: 0
+    21: 1
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"ESPN Inc\""
+  packageName: "air.WatchESPN"
+  versionCode: 1006003
+}
+app {
+  id: "v2:com.nbadigital.gametimelite:1:261"
+  title: "NBA Game Time 2012-13"
+  appType: APPLICATION
+  creator: "NBA Digital"
+  version: "3.4"
+  rating: "4.186421"
+  ratingsCount: 27454
+  ExtendedInfo {
+    description: "The Award winning NBA Game Time is the official app to follow the NBA wherever you are!\n\n**New Lower pricing for League Pass Mobile available now!\n\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\nSprint Customer Exclusive!\n\nOnly NBA Game Time from Sprint brings you FREE unlimited live coverage of every NBA game.  Sprint customers get exclusive access to live NBA games on the Sprint TV ESPN channel and free access to NBA Game Time Plus with live radio broadcasts, game video alerts and more.  All FREE with an Unlimited data plan from Sprint. \n \nSprint customers save 20% off NBA LEAGUE PASS Mobile for the 2012-13 season.\n\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n \nGame Time (FREE) features include:\n- NEW!  Excitement Notifications \342\200\223 get notified when a game gets exciting at crunch time (chosen by game or team) \n- NEW!  Customizable Threshold Notifications - get notified when a player or team you are interested in passes a threshold in a specific game\n- NEW!  Twitter streams for each game \342\200\223 follow the social interaction of the game as it happens\n- NEW!  Game experience redesign\n- Customize to feature your favorite team \n- Watch highlights from around the league \n- Up to date news and info from around the league\n- Game notification capabilities \n- Play-by-play experience\n- Stats, scores, and schedules for every NBA game\n\nUpgrade to Game Time Plus, features include:\n- Contains all Game Time features\n- Home and away live radio broadcasts of games\n- Game highlights\n- More video highlights from around the league including NBA TV and TNT clips\n- Full game video recaps\n- NEW!  Video Recap Notifications \342\200\223 get notified when the video recap of a game you are interested is available (chosen by game or team)\n- Advertising FREE\n- More news, stats, and league info\n \nUpgrade to watch live regular-season games via NBA League Pass Mobile, features include:\n- 20% discount available exclusively for Sprint customers\n- Contains all Game Time and Game Time Plus features\n- Watch live games via live streaming of NBA regular-season games (blackout restrictions apply)\n- Full season archives \n- Live in-game stats overlay and video chrome to switch from game to game\n\n+++++++++++++++++++++++++++++++++++++++++++++\nNote: If you purchased LEAGUE PASS through your cable operator or satellite provider, please perform the following steps to activate LEAGUE PASS on your device:\n1. Download Game Time\n2. Click on the More Icon\n3. Go to LEAGUE PASS\n4. Enter your All Access User Name and Password\n\nIf you just activated your account with your provider, it could take up to 72 hours before you are able to activate on mobile.\n+++++++++++++++++++++++++++++++++++++++++++++\n\nhttp://www.nba.com/news/privacy_policy.html\nhttp://www.nba.com/news/termsofuse.html"
+    downloadsCount: 0
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.PERSISTENT_ACTIVITY"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.CALL_PHONE"
+    permissionId: "com.nbadigital.gametimelite.permission.C2D_MESSAGE"
+    permissionId: "com.nbadigital.gametimelite.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 8712430
+    packageName: "com.nbadigital.gametimelite"
+    category: "Sports"
+    contactEmail: "turnernbadigital@gmail.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.nba.com"
+    screenshotsCount: 4
+    promoText: "NBA Game Time, the official App of the NBA!"
+    recentChanges: "Added support for 2013 NBA All-Star weekend, including NBA All-Star Saturday Night and the 2013 NBA All-Star Game."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"NBA Digital\""
+  packageName: "com.nbadigital.gametimelite"
+  versionCode: 261
+}
+app {
+  id: "v2:com.bleacherreport.android.teamstream:1:40"
+  title: "Team Stream by Bleacher Report"
+  appType: APPLICATION
+  creator: "Bleacher Report Inc."
+  version: "1.8.5"
+  rating: "4.6534667"
+  ratingsCount: 19571
+  ExtendedInfo {
+    description: "Your Team\'s News First! Get all your team\'s news in one place with alerts sent as soon as stories break. Never miss big news again.\n\n\342\230\206 Pick the teams you love and get real-time, hand-picked notifications so you\'re always the first to know big news \n\n\342\230\206 Open a stream anytime to find scores, next games, videos and even more stories for your teams from local newspapers, websites, blogs, Twitter, and Bleacher Report.\n\n\nSee what real fans have said in our 5-star app\'s reviews:\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 \"Love it!!! - Delivers breaking news faster than ESPN. Good stuff.\"\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 \342\200\234Wow - I\'m just blown away by how good this is! The stream is awesome, and the breaking news is dead on. So much better than trying to follow multiple teams on ESPN. NICE JOB FELLAS!\342\200\235\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 \342\200\234SIMPLY THE BEST!!!!! - As soon as I got the app and added my local team, I got breaking news from my team before they broke the news on a local sports talk radio that I listen at work every day. From that moment I fell in love with the app!!! Awesome app, I recommend it to every sports fan!!!!!\342\200\235\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 \342\200\234Great app - Instead of having to go to multiple sites, I get a quick fix on my favorite teams with just this one.\342\200\235\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 Awesome! - Best sports app there is! I love the team feature. I used to watch espn daily but now with this app I haven\'t watched in over two weeks. All the news is fast and to the minute. Bye-bye espn.\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 \342\200\234Perfect - Get all your local teams big news in your notification center. How awesome!!!!!\342\200\235\n\n\342\230\205\342\230\205\342\230\205\342\230\205\342\230\205 \342\200\234Great App!! - This app is very useful for breaking news and interesting tidbits from my teams. Being separated from home sports city makes it tough to get a ton of info on just a couple teams I want to follow, better than twitter only sports related updates.\342\200\235\n\n--\n\nTerms of Use: http://bleacherreport.com/pages/terms\n\nPrivacy Policy: http://bleacherreport.com/pages/privacy"
+    downloadsCount: 0
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "com.bleacherreport.android.teamstream.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.WAKE_LOCK"
+    installSize: 14161655
+    packageName: "com.bleacherreport.android.teamstream"
+    category: "Sports"
+    contactEmail: "teamstream+android@bleacherreport.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+14157775505"
+    contactWebsite: "http://bleacherreport.com"
+    screenshotsCount: 5
+    promoText: "Your Team\'s News First! Get your team\'s news in one place with real-time alerts"
+    recentChanges: "Version 1.8.5\n\342\230\206 Hit the film room... watch videos right in streams\n\342\230\206 Add futbol teams from Bundesliga, La Liga, Serie A, and English League Championship\n\342\230\206 Cut more bugs from the team!\n\nVersion 1.8\n\342\230\206 Got a need, a need for speed? New streams are faster & better than ever!\n\342\230\206 Search teams\n\342\230\206 Choose your homescreen stories: Top News + My Teams VS. My Teams only (Home > Settings)\n\342\230\206 Notifications On/Off  (Home > Settings > Notifications) \n\nFeedback? Email teamstream+android@bleacherreport.com"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Bleacher Report Inc.\""
+  packageName: "com.bleacherreport.android.teamstream"
+  versionCode: 40
+}
+app {
+  id: "v2:com.fivemobile.thescore:1:84"
+  title: "theScore: Sports & Scores"
+  appType: APPLICATION
+  creator: "theScore, Inc."
+  version: "3.1.3"
+  rating: "4.326132"
+  ratingsCount: 33974
+  ExtendedInfo {
+    description: "theScore: Your home for NCAA March Madness Basketball coverage.\n\nThe league scores widget is back! Get your top 5 leagues\' scores in a widget right on your home screen.\n\nAndroid users - you asked for it, you got it! A brand new interface is here.\n\nThe Best Sports App. Ever! theScore has been completely re-built from the ground up for Android to give you the ultimate mobile sports experience. It is the must-have utility for sports fans.\n\n\342\200\242 We\'ve got a faster, more fluid experience, real-time alerts to keep you in the action and the deepest fantasy sports tools so you can follow along with all of your teams and players in any league.\n\n\342\200\242 theScore for Android - Brings you live sports scores and news from the biggest leagues in the world including: NBA, NFL, NHL, NCAA March Madness Basketball, MMA / UFC, CFL, PGA, NASCAR & more!\n\nThe \342\200\234Best Sports App. Ever!\342\200\235 includes full coverage of the biggest leagues in sports including:\n- NCAA March Madness Basketball (NCAAB)\n- National Hockey League (NHL)\n- National Football League (NFL)\n- National Basketball League (NBA)\n- College Basketball (NCAAB)\n\n\342\200\242 theScore provides up-to-the-second sports scores, box scores, stats, betting odds, game previews, recaps, top news stories, schedules and league standings.\n\n\342\200\242 Receive FREE Push Alerts including: goals, ends of quarters /periods and key moments in any game to keep you on top of the action; anytime-anywhere.\n\n\342\200\242 Install theScore\'s MyScore or theScore League Ticker Widgets - to get all of your sports scores from your followed teams or top 5 leagues even more conveniently right on your home screen! theScore League Score widget is also lock screen compatible for Jelly Bean 4.2+ devices.\n\n\342\200\242 One-tap social sharing: Tweet or share on Facebook the latest team news, or a high-quality screenshot from any section of the app.\n\n\342\200\242 We\'re introducing the NEW \"My Score\" area to customize the app to your needs. Follow any team throughout the season to view their performances as they happen in one area. \n\n\342\200\242 Check out the NEW \"Player Card Profiles\" where you can do in-depth research with player photos, recent performances, season stats, bio and recent fantasy news via Rotowire.\n\n\342\200\242 Have a favorite team? You can now use the NEW \"Team View\" to keep up with every dunk, goal, touchdown or swing and browse team specific news, rankings, recent performances, season schedules, rosters and injuries. You can also follow any team to receive push alerts for every game or goal, or sync the team schedule to your calendar.\n\n\342\200\242 Catch up with the social chatter with interactive live blogs / live chats or key tweets for key matchups. \n\nComplete scores and news coverage includes:\n- Football (NFL, NCAA, CFL)\n- Basketball (NBA, NCAA - including March Madness)\n- Hockey (NHL)\n- Baseball (MLB)\n- Mixed Martial Arts (MMA: UFC, Strikeforce, Bellator, Score Fighting Series)\n- Soccer (EPL / Premier League, Champions League, Serie A, La Liga, MLS)\n- Auto Racing (NASCAR Sprint Cup, Formula 1)\n- Golf (PGA)\n- Tennis (ATP Men\'s, WTA Women\'s)\n\nGet the best sports app ever. Get theScore!\n\n\342\230\206 Follow us on Twitter for the latest updates and to provide product feedback: http://twitter.com/theScoreApp\n\n\342\230\206 For more information and other apps visit: http://mobile.theScore.com \n\n\342\230\206 If you\'re experiencing any issues at all or have feedback, drop us a line, we\'d be happy to help you out: mobilesupport@thescore.com\n\ntheScore is available on OS 2.3 and above. Also works in portrait for all Android tablets, full tablet support in landscape is coming very soon.\n\nStay tuned for huge updates coming soon: Additional options for the widget, Increased player group stats, Breaking news alerts and much more!\n\nNOTE: Due to Android specifications, the theScore widget is NOT available when the application is saved to your SD card.\n\n--\nWe are affiliated with theScore.com."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.WRITE_CALENDAR"
+    permissionId: "android.permission.READ_CALENDAR"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3880155
+    packageName: "com.fivemobile.thescore"
+    category: "Sports"
+    contactEmail: "scoremobile@thescore.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://mobile.thescore.com"
+    screenshotsCount: 7
+    promoText: "theScore - Sports, Scores & News: NBA, NHL, MLB, NCAA, NFL & more!"
+    recentChanges: "NOTE: Upgrading from 1.x will require all followed teams and alerts to be reset.\n\nHaving issues with the app? - email us at scoremobile@thescore.com\n\n3.1.3\n- fixed data consumption issues.\n- fixed MLB boxscore force-close issues\n\n3.1.2\n- fix pga display\n\n3.1.1\n- fix mma fights\n- fix ncaab teams refresh button problem\n- fix widget for Android 2.2 devices"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"theScore, Inc.\""
+  packageName: "com.fivemobile.thescore"
+  versionCode: 84
+}
+app {
+  id: "v2:com.nhl.gc1112.free:1:13"
+  title: "NHL GameCenter\342\204\242"
+  appType: APPLICATION
+  creator: "NHL Interactive Cyberenterprises, L.P."
+  version: "3.0206"
+  rating: "3.2922227"
+  ratingsCount: 5246
+  ExtendedInfo {
+    description: "NHL GameCenter\342\204\242 is the official app from the National Hockey League.  It is the only hockey app that lets you watch out-of-market games live, see in-game highlights and stream live game audio.   \n\nNHL GameCenterTM Features include:\n\342\200\242\tLive Scores and Stats for Every Team and Player\n\342\200\242\tLive Game Simulation with Near Real-Time Shift Changes, Boxscore, and Play-by-Play\n\342\200\242\tPost-Game Video Highlights\n\342\200\242\tVideo on Demand Content Including Videos from your Favorite Teams and the Best Selections from NHL Editors\n\342\200\242\tFull Season Schedule and Standings\n\342\200\242\tCustomized Game Alerts\n\342\200\242\tPlayer Profiles with Headshots, Bios and Stats for all Active NHL Players\n\342\200\242\tCustomize up to 5 Favorite Teams \n\nUpgrade to NHL GameCenter\342\204\242 Premium** for:\n\342\200\242\tLive Radio Broadcasts (home and away)\n\342\200\242\tIn-Game Video Highlights\n\342\200\242\tCondensed Game Replays\nOne-time fee of $4.99 for access to the entire 2012-13 season\n\nUpgrade to NHL GameCenter LIVETM for:\n\342\200\242\tLive Out-of-Market Game Video (home and away)\n\342\200\242\tAccess on Multiple Devices*\n\342\200\242\tAll NHL GameCenter\342\204\242 Premium Content\n\n*Access for current NHL GameCenter LIVETM subscribers is available for no additional charge, simply log in with an existing username and password. \n\n** Verizon Tablet and Verizon 4G LTE customers will get access to NHL GameCenter\342\204\242 Premium and other exclusive content for FREE! Exclusive Verizon content includes:\n\342\200\242\tLive NBC National Games\n\342\200\242\tNBC\342\200\231s Inside the Glass\n\342\200\242\tLive Streaming of NHL On The FLYTM\n\342\200\242\tOther Exclusive Video On Demand"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "com.neulion.android.nhl.smartphone.push.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 9027682
+    packageName: "com.nhl.gc1112.free"
+    category: "Sports"
+    contactEmail: "gclsupport@nhl.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://gclsupport.nhl.com/m"
+    screenshotsCount: 4
+    promoText: "NHL GameCenter\342\204\242 is the official app from the National Hockey League.  It is the only hockey app that lets you watch out-of-market games live, see in-game highlights and stream live game audio.   \n\nNHL GameCenterTM Features include:\n\342\200\242\tLive Scores and Stats for Every Team and Player\n\342\200\242\tLive Game Simulation with Near Real-Time Shift Changes, Boxscore, and Play-by-Play\n\342\200\242\tPost-Game Video Highlights\n\342\200\242\tVideo on Demand Content Including Videos from your Favorite Teams and the Best Selections from NHL Editors\n\342\200\242\tFull Season Schedule and Standings\n\342\200\242\tCustomized Game Alerts\n\342\200\242\tPlayer Profiles with Headshots, Bios and Stats for all Active NHL Players\n\342\200\242\tCustomize up to 5 Favorite Teams \n\nUpgrade to NHL GameCenter\342\204\242 Premium** for:\n\342\200\242\tLive Radio Broadcasts (home and away)\n\342\200\242\tIn-Game Video Highlights\n\342\200\242\tCondensed Game Replays\nOne-time fee of $4.99 for access to the entire 2012-13 season\n\nUpgrade to NHL GameCenter LIVETM for:\n\342\200\242\tLive Out-of-Market Game Video (home and away)\n\342\200\242\tAccess on Multiple Devices*\n\342\200\242\tAll NHL GameCenter\342\204\242 Premium Content\n\n*Access for current NHL GameCenter LIVETM subscribers is available for no additional charge, simply log in with an existing username and password. \n\n** Verizon Tablet and Verizon 4G LTE customers will get access to NHL GameCenter\342\204\242 Premium and other exclusive content for FREE! Exclusive Verizon content includes:\n\342\200\242\tLive NBC National Games\n\342\200\242\tNBC\342\200\231s Inside the Glass\n\342\200\242\tLive Streaming of NHL On The FLYTM\n\342\200\242\tOther Exclusive Video On Demand"
+    recentChanges: "Addresses video crashing issues\nAddresses live game audio crashing issues\nUI optimization\nMinor bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"NHL Interactive Cyberenterprises, L.P.\""
+  packageName: "com.nhl.gc1112.free"
+  versionCode: 13
+}
+app {
+  id: "v2:com.protrade.sportacular:1:77"
+  title: "Yahoo! Sportacular"
+  appType: APPLICATION
+  creator: "Yahoo! Inc."
+  version: "3.0.7"
+  rating: "4.3028913"
+  ratingsCount: 29674
+  ExtendedInfo {
+    description: "The Yahoo! Sports app - Simple, fast and in-depth sports scores and news.\n\nThe best way to follow all of your favorite teams, with coverage of MLB, NFL, NCAA College Football, NBA, NCAA Men\'s and Women\'s Basketball, NHL, PGA golf, Premier League, NASCAR, Tennis and more.  Live play-by-play, stats, standings and news, plus live score alerts and widget support.\n\nReminder: Widgets are unavailable if you put the app on your SD card\n\nGet the power and depth of Yahoo! Sports, one of the leading sources of sports information on the Web, as an app for your Android device. Yahoo! Sportacular is chock full of all the breaking news, scores, schedules, and details that sports fans crave.\nThis app crams so much into one small package, it\'s borderline ridiculous. No matter what\'s going on in the world of sports, you\'ve got the details right at your fingertips, wherever you are.\nSportacular covers the gamut of major sports. NCAA football and basketball? Check. Pro baseball, basketball, football, hockey, and soccer (domestic and foreign)? All accounted for. Golf, tennis, and auto sports? But of course. There are even categories for your self-selected Favorite Teams and Trending Games.\nFor example: Are you a Major League Baseball fan? Get the latest game scores, both finals and ongoing, with a few touches of the screen. Then go deeper. See the linescore, a scoring summary, winning and losing pitcher, and team records. Tap on the Stats page to see the complete boxscore. There\'s even a play-by-play accounting of the entire game. This kind of detail is available for just about any sport you can think of in this deep app.\nSelect the Team option from the menu and it opens up a new screen with tabs for Team Info, News, Schedule, and Settings. Use the latter to create adjustable alerts for your favorite teams: game start, game end, score change, quarter or inning change, etc. You can have the app send you noise or vibrate notifications, so you\'ll know when to get to a TV, pronto.\nOf course, there\'s always something new coming out of the sports world, whether it\'s a player injury, trade, team scandal, or just a star\'s latest weird tweet. Sportacular pulls in links to the top stories from sources such as Fox, ESPN, Yahoo!, The Sporting News, league websites, and more. Share the hot-off-the-presses news and scores with your friends via e-mail or social media.\nSportacular lists the latest odds on each game. But just for fun, there\'s also an interactive feature available for most games in the app: a live poll of fans regarding who will win that contest. As soon as you make your pick, you\'ll see what percentage of people agree with you and how many think you\'re all wet, complete with a U.S. regional breakdown of the voting. There\'s also a Check-In section where you can make comments about the game and post them to Facebook, so you can trash talk to your heart\'s content. After all, you know the score.\nPrivacy: http://www.citizensportsinc.com/inc/privacy.html"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "com.protrade.sportacular.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    installSize: 4265286
+    packageName: "com.protrade.sportacular"
+    category: "Sports"
+    contactEmail: "sportacular@cc.yahoo-inc.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://sports.yahoo.com"
+    screenshotsCount: 8
+    promoText: "Yahoo! Sportacular - Simple & fast sports scores, news and stats."
+    recentChanges: "New in 3.0.7\n+ Alerts 3 hr pre-start, close game, and line move.\n+ minor bug fixes\n\nNew in 3.0.6\n+ minor bug fixes\n\nNew in 3.0.5\n+ smoother scrolling on scores page\n+ Nexus 4 data fix \n\nNew in 3.0.3 & 3.0.4\n+ fixed pick button issues\n\nNew in 3.0.2 \n+ fixed European soccer picks\n+ added tennis news\n\nNew in 3.0.1\n+ Show ties for NFL\n+ Styling and menu tweaks\n\nThank you for your continued support!"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Yahoo! Inc.\""
+  packageName: "com.protrade.sportacular"
+  versionCode: 77
+}
+app {
+  id: "v2:com.handmark.sportcaster:1:71"
+  title: "CBS Sports"
+  appType: APPLICATION
+  creator: "CBS Interactive, Inc."
+  version: "5.3.1"
+  rating: "4.4075184"
+  ratingsCount: 14019
+  ExtendedInfo {
+    description: "Get the CBS Sports app for Android!  You get lightning fast updates of scores, stats, news and tweets for all major sports. Follow live action with GameTrackers, scoreboards and stats.  Watch on-demand videos including game previews, highlights, analysis, interviews and more.  You can easily customize based on your preference for sports, leagues and teams.  Plus you can request alerts that will proactively keep you on top of all the live action.\n \nHighlights:\n\342\230\205 Scores \342\200\223 Scoreboards for all major sports, including:\n- Football (NFL, NCAA)\n- Baseball (MLB)\n- Basketball (NBA, NCAA)\n- Hockey (NHL)\n- Soccer (Premier League, MLS, Champions League, Bundesliga, La Liga, Serie A, Europa League, Ligue 1, Scottish Premier, Dutch Eredivisie, Mexican Primera, Brazilian Serie A, Argentina Primera)\n- Golf (PGA)\n- Auto Racing (NASCAR, F1)\n\342\230\205 Customization - Personalize to show the scores and news YOU care about.\n\342\230\205 Game Details \342\200\223 Tap a score to see score and stat updates. Follow the live action with GameTrackers. You\342\200\231ll also see a live stream of tweets from the top writers, analysts, and bloggers covering the teams.\n\342\230\205 News \342\200\223 In addition to CBS Sports\342\200\231 industry leading sports writers, select your favorite team and see a live Twitter feed of commentary from players themselves, writers, analysts and bloggers.\n\342\230\205 Video \342\200\223 Get on-demand access to highlights, analysis, and original video programs.  \n\342\230\205 Standings \342\200\223 Standings for every league, including rankings for college sports \n\342\230\205 Schedules \342\200\223 Team schedules are super easy to find and viewable at a glance\n\342\230\205 Special Events \342\200\223  Access to CBS Sport\342\200\231s coverage of events like March Madness, The Masters, NFL Draft Day, PGA TOUR and more.\n\n \nPlease note this App does not include support for any CBSSports.com Fantasy Games.\nTo manage your Fantasy Football teams, please install CBS Sports Fantasy Football by visiting https://play.google.com/store/apps/details?id=com.july.cbssports.activity&hl=en\nTo manage your Fantasy Baseball teams, please install CBS Sports Fantasy Baseball by visiting https://play.google.com/store/apps/details?id=com.cbssports.fbb\n \nDOWNLOAD the CBS Sports app NOW.\n \nKeywords\n(cbs, cbs sports, sport, sports, sportcaster, sportscaster, gametracker, football, basketball, hockey, golf, fantasy, score, scores, stat, stats, odds, live games, pro, college, news, standings, schedule, schedules, rankings, draft, ncaa, PGA TOUR, march madness)"
+    downloadsCount: 0
+    permissionId: "com.handmark.sportcaster.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "android.permission.NFC"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3149160
+    packageName: "com.handmark.sportcaster"
+    category: "Sports"
+    contactEmail: "support.cbssports-android@cbsinteractive.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.cbssports.com"
+    screenshotsCount: 8
+    promoText: "Live Sports with a Social Voice!"
+    recentChanges: "Version 5.3.1 \n+ Improved GameTrackers for tablets\n+ Landscape support for game details on 7-inch tablets\n+ Soccer GameTracker Summary tab fixes\n+ General bug fixes\n\nVersion 5.3\n+ CBS SportCaster is now CBS Sports!\n+ GameTrackers - live play-by-play and shot/drive charts for NBA/NCAAB/NHL/NFL\n+ Redesigned score box display\n+ News Widget -keep up with the latest news for your favorite league\n+ Improved tablet experience\n+ Miscellaneous bug fixes and performance improvements"
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "\"CBS Interactive, Inc.\""
+  packageName: "com.handmark.sportcaster"
+  versionCode: 71
+}
+
+app {
+  id: "v2:com.espn.radio:1:5"
+  title: "ESPN Radio"
+  appType: APPLICATION
+  creator: "ESPN Inc"
+  version: "Version 1.0.3"
+  rating: "3.001"
+  ratingsCount: 2000
+  ExtendedInfo {
+    description: "Take your sports wherever your ears go! Introducing the new and improved ESPN Radio app for your Android, with a host of expanded features and functionality for sports fans. Listen live to ESPN Radio, your favorite podcasts, live play-by-play and more.\n \n\302\267 LISTEN LIVE to internet broadcasts of over 35 ESPN Radio stations around the country\n\302\267 LISTEN to your favorite ESPN shows like Mike and Mike in the Morning, The Herd with Colin Cowherd, The Scott Van Pelt Show, The Michael Kay Show and many more!\n\302\267 LISTEN to play-by-play from some of your favorite college and professional sports teams*\n\302\267 LISTEN to 35 ESPN Radio podcasts including The B.S. Report with Bill Simmons, Pardon The Interruption, Around The Horn, Fantasy Focus and Tony Kornheiser Show\n\302\267 LISTEN OnDemand to SportsCenter - updated every 20 minutes!\n\n** NEW **  Create custom stations and playlists with your favorite teams/topics/players/sports/shows\n      \n** NEW **  Download your playlists for \342\200\230off-line\342\200\231 listening\n     \n** NEW **  Alerts/breaking news notifications from around the sports world\n \n \n*Due to contractual limitations with certain content, especially play-by-play broadcasts, there are times when the schedule that\'s on-air won\'t match the schedule that\'s online. While we make every effort to update the schedule, occasionally the nature of play-by-play broadcasting limits our ability to accurately present the latest schedule (ie., rain delays, last minute schedule changes). We apologize for any inconvenience this causes. If you have specific schedule questions, please contact the station directly by visiting their website."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 1945061
+    packageName: "com.espn.radio"
+    category: "Sports"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://m.espn.go.com"
+    screenshotsCount: 7
+    promoText: "Take your sports wherever your ears go!"
+    recentChanges: "*Storing usernames to auto populate the login field when authentication fails \n *Fixed bug in authentication that should alleviate the user having to log in on consecutive launches \n *Changed the menu\'s \"Exit App\" functionality to NOT log out the user \n *Fixed Downloads to allow new ad op url\'s to work \n *Added better redirect handling for downloads. Any download that has been redirected more than 10 times will automatically cancel, and broadcast an error message to the user."
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"ESPN Inc\""
+  packageName: "com.espn.radio"
+  versionCode: 5
+}
+app {
+  id: "v2:com.andromo.dev28736.app53701:1:6"
+  title: "NASCAR"
+  appType: APPLICATION
+  creator: "FarSight Studios"
+  version: "2.2.23"
+  rating: "4.2598424"
+  ratingsCount: 127
+  ExtendedInfo {
+    description: "Everything you need to know about NASCAR at your fingertips. Save time with direct links to the Official NASCAR websites and RSS News feed aswell as Official NASCAR YouTube Channel.\nFeatures/Links Include:\n\n- Official NASCAR Website\n- NASCAR Official YouTube Channel\n- Flickr Group Pool Photography (PRO Version ONLY)\n- Sprint Cup News\n- Nationwide Series News\n- CW Truck Series News (PRO Version ONLY)\n- Sprint Cup Standings\n- Nationwide Series Standings\n- CW Truck Series Standings (PRO Version ONLY)\n- SC Drivers (PRO Version ONLY)\n- NW Drivers (PRO Version ONLY)\n- CW Truck Series Drivers (PRO Version ONLY)\n- Sprint Cup Schedule\n- NW Series Schedule\n- CW Truck Series Schedule (PRO ONLY)\n- NASCAR Facebook Page\n- NASCAR Google+ Page\n- NASCAR Twitter Stream\n- NASCAR Store (PRO Version ONLY)\n\nPlease leave feedback for what you would like to see included in this informative app!"
+    downloadsCount: 0
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3777466
+    packageName: "com.andromo.dev28736.app53701"
+    category: "Sports"
+    contactEmail: "farsight87studios@gmail.com"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://www.farsightstudios.com.au"
+    screenshotsCount: 8
+    promoText: "EVERYTHING YOU NEED..."
+    recentChanges: "UPDATED TO VERSION 2.2.23\n\n- Massive User Interface & Design Changes\n- Much more..."
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"FarSight Studios\""
+  packageName: "com.andromo.dev28736.app53701"
+  versionCode: 6
+}
+app {
+  id: "v2:com.foxsports.android:1:9"
+  title: "FOX Sports Mobile"
+  appType: APPLICATION
+  creator: "FOX Sports Interactive"
+  version: "1.5.1"
+  rating: "4.1320415"
+  ratingsCount: 2787
+  ExtendedInfo {
+    description: "FOX Sports brings you the most comprehensive sports app available.  Why download multiple apps for each of your favorite sports and teams?  The FOX Sports app does all of this for free.\n\nSports covered:\n- NFL and NCAA Football \n- MLB\n- NBA and NCAA Men\'s Basketball\n- NHL\n- NASCAR \n- Golf \n- Tennis \n- Soccer (MLS, Premier League, UEFA Champions League, Serie A, Bundesliga, La Liga, and more)\n- MMA & Boxing\n\nFeatures:\n- News and exclusive analysis from the FOX Sports team of writers and on-air personalities \n- Scores, stats, standings and more for all major sports. \n- Video: highlights, pre- and post-game interviews, our hourly \342\200\234FOX Flash\342\200\235 update of top stories, original programming from our \342\200\234Lunch With Benefits\342\200\235 series, and more. \n- Local content (news, video and analysis) from the Fox Sports Net (FSN) regional cable networks\n\nPersonalization:\n- Store your favorite Sports, Teams & Local FSN region to quickly get to the content you want.\n\nThis app is optimized for devices running Android OS 1.6 and higher, including large and x-large screens (tablets).  Devices running Android OS 1.5 or less are not supported.\n\nPlease see our Terms of Use and Privacy Policy at:\nhttp://msn.foxsports.com/other/page/terms-of-use\nhttp://msn.foxsports.com/other/page/privacy-policy"
+    downloadsCount: 0
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 10114516
+    packageName: "com.foxsports.android"
+    category: "Sports"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.foxsports.com/mobile"
+    screenshotsCount: 6
+    promoText: "FOX Sports brings you the most comprehensive sports app available."
+    recentChanges: "- Faster NFL and NCAA scoring\n- Updated \"My Sports\" Listings"
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "\"FOX Sports Interactive\""
+  packageName: "com.foxsports.android"
+  versionCode: 9
+}
+app {
+  id: "v2:com.speedtv:1:8"
+  title: "The Official SPEED Channel App"
+  appType: APPLICATION
+  creator: "FOX Sports Interactive"
+  version: "2.1"
+  rating: "3.4106615"
+  ratingsCount: 1013
+  ExtendedInfo {
+    description: "Follow your favorite motor sports and racing action with the 2011 SPEED Channel application\342\200\246wherever you are! \n\nSPEED\342\204\242, anchored by its popular and wide-ranging coverage of NASCAR and Formula 1 is the nation\342\200\231s first and only cable television network dedicated to automotive and motorcycle racing, performance and lifestyle. SPEED, a member of the FOX Sports Media Group, is among the industry leaders in interactive TV, video on demand, mobile initiatives and broadband services. \n\nThe SPEED Channel application delivers the latest breaking news, opinion, and expert commentary, along with race results, standings and schedules to the palm of your hand. Plus, you\342\200\231ll find photo galleries and many of your favorite SPEED programs, in both video and audio formats. Programming selection will include SPEED shows such as SPEED Center, Wind Tunnel with Dave Despain, Pinks All Out, SPEED Engine Block, Car Warriors, Car Science, NASCAR on SPEED, and more! \n\nKey Features: \nBreaking news and featured stories \nRace results, standings, and upcoming event information for your favorite sports, including: \nNASCAR (Sprint Cup Series, Camping World Truck Series, Nationwide Series); \nFormula One; \nAuto Racing (Indy Car Series, Le Mans Series, Grand American Racing Series, NHRA Drag Racing Series, etc); \nMotorcycle Racing (MotoGP & Moto2, World Superbike, AMA Supercross & Motocross, AMA Superbike & Supersport, etc). \nVideo podcasts: \nFormula 1 Roundtables \nPINKS All Out & Pinks! \nSPEED Report \nWindTunnel with Dave Despain \nSPEED Engine Block \nSPEED X Extreme Action Clips \nSPEED 2 Wheel Action Clips \nBarrett-Jackson Collector Car Auction Highlight Clips \nAudio Podcasts \nSPEED Center(Full Audio) \nWindTunnel (Full Audio) \nNASCAR Beat: The Official Podcast of NASCAR \nRace Day on Fox Sports \342\200\223 SPEED Radio \nWeekly SPEED television programming schedule \nThis application is optimized to bring you the most up to date information quickly and easily.\n\nSPEEDTV, SPEED TV, SPEED.com, SPEEDtv.com, Foxsports.com, American Lemans, Grand Am, F1, Formula One, Forula 1, NASCAR Cup, NASCAR Trucks, NASCAR Nationwide, car crashes, car photos, umbrella girls, grid girls"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    installSize: 945895
+    packageName: "com.speedtv"
+    category: "Sports"
+    contactEmail: "feedback@speedtv.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.speed.com"
+    screenshotsCount: 4
+    promoText: "Follow your favorite motor sports and racing action with the 2011 SPEED Channel application\342\200\246wherever you are! \n\nSPEED\342\204\242, anchored by its popular and wide-ranging coverage of NASCAR and Formula 1 is the nation\342\200\231s first and only cable television network dedicated to automotive and motorcycle racing, performance and lifestyle. SPEED, a member of the FOX Sports Media Group, is among the industry leaders in interactive TV, video on demand, mobile initiatives and broadband services. \n\nThe SPEED Channel application delivers the latest breaking news, opinion, and expert commentary, along with race results, standings and schedules to the palm of your hand. Plus, you\342\200\231ll find photo galleries and many of your favorite SPEED programs, in both video and audio formats. Programming selection will include SPEED shows such as SPEED Center, Wind Tunnel with Dave Despain, Pinks All Out, SPEED Engine Block, Car Warriors, Car Science, NASCAR on SPEED, and more! \n\nKey Features: \nBreaking news and featured stories \nRace results, standings, and upcoming event information for your favorite sports, including: \nNASCAR (Sprint Cup Series, Camping World Truck Series, Nationwide Series); \nFormula One; \nAuto Racing (Indy Car Series, Le Mans Series, Grand American Racing Series, NHRA Drag Racing Series, etc); \nMotorcycle Racing (MotoGP & Moto2, World Superbike, AMA Supercross & Motocross, AMA Superbike & Supersport, etc). \nVideo podcasts: \nFormula 1 Roundtables \nPINKS All Out & Pinks! \nSPEED Report \nWindTunnel with Dave Despain \nSPEED Engine Block \nSPEED X Extreme Action Clips \nSPEED 2 Wheel Action Clips \nBarrett-Jackson Collector Car Auction Highlight Clips \nAudio Podcasts \nSPEED Center(Full Audio) \nWindTunnel (Full Audio) \nNASCAR Beat: The Official Podcast of NASCAR \nRace Day on Fox Sports \342\200\223 SPEED Radio \nWeekly SPEED television programming schedule \nThis application is optimized to bring you the most up to date information quickly and easily.\n\nSPEEDTV, SPEED TV, SPEED.com, SPEEDtv.com, Foxsports.com, American Lemans, Grand Am, F1, Formula One, Forula 1, NASCAR Cup, NASCAR Trucks, NASCAR Nationwide, car crashes, car photos, umbrella girls, grid girls"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"FOX Sports Interactive\""
+  packageName: "com.speedtv"
+  versionCode: 8
+}
+app {
+  id: "v2:com.gotv.nflgamecenter.us.lite:1:709"
+  title: "NFL \'12"
+  appType: APPLICATION
+  creator: "NFL Enterprises LLC"
+  version: "3.5"
+  rating: "4.197892"
+  ratingsCount: 18409
+  ExtendedInfo {
+    description: "Follow the NFL Combine with NFL \'12! \n\nFeatures Include: \n\n- Coverage of the NFL Combine \n- Video highlights (Tablet), game recaps, big plays and all the latest NFL video \n- NFL.com news & tweets \n- Custom alerts \n- Team pages & my team customization \n- mPoint Rewards - Earn mPoints by unlocking achievements in the app and redeem the points for rewards"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "com.android.launcher.permission.INSTALL_SHORTCUT"
+    permissionId: "com.gotv.nflgamecenter.us.lite.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.USE_CREDENTIALS"
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 31742759
+    packageName: "com.gotv.nflgamecenter.us.lite"
+    category: "Sports"
+    contactEmail: "customer.service@nflhelp.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.nfl.com/mobile/app"
+    screenshotsCount: 6
+    promoText: "Catch all the NFL action this season with NFL \'12!"
+    recentChanges: "- Combine Coverage \n- Bug Fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"NFL Enterprises LLC\""
+  packageName: "com.gotv.nflgamecenter.us.lite"
+  versionCode: 709
+}
+app {
+  id: "v2:com.yahoo.mobile.client.android.fantasybaseball:1:1195215634"
+  title: "Yahoo! Fantasy Baseball"
+  appType: APPLICATION
+  creator: "Yahoo! Inc."
+  version: "2.4.1"
+  rating: "3.896073"
+  ratingsCount: 2521
+  ExtendedInfo {
+    description: "Built for Android users, Yahoo! Fantasy Baseball gives you real-time fantasy score updates wherever you go. View team, league, and player stats, edit your lineups, trade players, talk trash in message boards and check your standings and matchups. Play Ball!\n\nFeatures:\n\342\200\242 My Watch List (Option listed under \"Status\" category of Player Search tab)\n\342\200\242 Add/Delete from Watch List (flag icon in the Player Detail page)\n\342\200\242 Ability to link to Yahoo Sportacular App for real game info\n\342\200\242 Daily fantasy points on Team page for Points and H2H Points league\n\342\200\242 Real-time fantasy score updates: View team, league, and player stats for all league types.\n\342\200\242 Manage your lineup. View and set your lineup for today and upcoming days.\n\342\200\242 Manage trades and waivers right from your phone.\n\342\200\242 Full message board access\n\342\200\242 Track matchups: View your past, present, and future matchups \n\342\200\242 Improve your team: Search for free agents and read breaking player news.\n\342\200\242 Trades and Waivers\n\342\200\242 Yahoo! Sports Blogs\n\342\200\242 Login with Facebook and Google in addition to Yahoo!\n\342\200\242 Recent League Transactions (Top of league page)\n\342\200\242 Enhanced Player Search (More search options)\n\342\200\242 Ability to move app to SD card"
+    downloadsCount: 0
+    permissionId: "com.yahoo.mobile.client.android.permissions.YAHOO_INTER_APP"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 5459263
+    packageName: "com.yahoo.mobile.client.android.fantasybaseball"
+    category: "Sports"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://baseball.fantasysports.yahoo.com/b1"
+    screenshotsCount: 8
+    promoText: "Yahoo! Fantasy Baseball"
+    recentChanges: "New Features in 2.4.1\n\n\342\200\242 Fix crash on login for LDPI devices"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Yahoo! Inc.\""
+  packageName: "com.yahoo.mobile.client.android.fantasybaseball"
+  versionCode: 1195215634
+}
+app {
+  id: "v2:com.simplysmartapps.free.soccer.streaming:1:23"
+  title: "Free Soccer Streaming"
+  appType: APPLICATION
+  creator: "RubenGM Software"
+  version: "1.15.20130216"
+  rating: "4.3981843"
+  ratingsCount: 6389
+  ExtendedInfo {
+    description: "Watch LIVE soccer matches for FREE!\n\nUse this app to choose between many channels available and view:\n - ESPN\n - FOX Deportes\n - GolTV\n - Canal+ Liga\n - Friendly matches.\n - Chilean league.\n - Colombian league (Liga Postobon).\n - Mexican league.\n - French league.\n - Spanish league (Liga BBVA).\n - Spanish \"Copa del Rey\" cup.\n - English league (Barclays Premier League).\n - European championships.\n - And more!\n\nThis app is ad supported. Ads will be shown when you open a game, but once you close them (or ignore them until the timer runs out) you will be able to watch the game.\n\nSome of the soccer teams you can find: Manchester United, Arsenal, West Ham, Chelsea, Everton, Real Madrid, FC Barcelona, Valencia, Atl\303\251tico de Madrid, Athletic de Bilbao, Espa\303\261ol, Sevilla, Olympique de Marseille, Olympique Lyonnais."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    installSize: 759197
+    packageName: "com.simplysmartapps.free.soccer.streaming"
+    category: "Sports"
+    contactEmail: "rubengm@gmail.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.rubengm.com"
+    screenshotsCount: 4
+    promoText: "Watch LIVE soccer matches for FREE!"
+    recentChanges: "Fixed match list.\nBetter ad auto removal for Android 3.0+"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"RubenGM Software\""
+  packageName: "com.simplysmartapps.free.soccer.streaming"
+  versionCode: 23
+}
+app {
+  id: "v2:com.neulion.smartphone.ufc.android:1:9"
+  title: "UFC TV"
+  appType: APPLICATION
+  creator: "UFC\302\256 - The Ultimate Fighting Championship\302\256"
+  version: "2.0731"
+  rating: "4.162105"
+  ratingsCount: 2375
+  ExtendedInfo {
+    description: "Watch UFC events live on your Android phone.  Most UFC Pay-Per-Events will include the option to view in four different camera angles.  Also, purchase any past events or individual fights from the Fight Library within the Android application. And, watch Press Conferences and Weigh-ins live and for free.  View Fighter profiles of your favorite UFC fighters and get the latest News and TV Schedule.\nPerfect for the Ultimate UFC fan!"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    installSize: 1538769
+    packageName: "com.neulion.smartphone.ufc.android"
+    category: "Sports"
+    contactEmail: "UFCTVSupport@UFC.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.UFC.TV"
+    screenshotsCount: 8
+    promoText: "Watch UFC events live on your Android phone.  Most UFC Pay-Per-Events will include the option to view in four different camera angles.  Also, purchase any past events or individual fights from the Fight Library within the Android application. And, watch Press Conferences and Weigh-ins live and for free.  View Fighter profiles of your favorite UFC fighters and get the latest News and TV Schedule.\nPerfect for the Ultimate UFC fan!"
+    recentChanges: "* Updated with fix for login issues on certain devices\n\n* Added fight card with ability to view fighter profiles\n* Added ability to score fights round-by-round during a live event\n* Added optional system reminders for upcoming events\n* Added in-app notification for live and soon-to-be-live streaming events\n* Added support for local time zones\n* Updated general interface design and sharing options\n* Minor bug fixes"
+    promotionalVideo: "http://www.youtube.com/watch?v=181ZZgv4pak"
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "\"UFC\302\256 - The Ultimate Fighting Championship\302\256\""
+  packageName: "com.neulion.smartphone.ufc.android"
+  versionCode: 9
+}
+app {
+  id: "v2:com.twothumbsapp.futbolLigaMexicana:1:29"
+  title: "Soccer Mexican League"
+  appType: APPLICATION
+  creator: "2ThumbsApp"
+  version: "3.61"
+  rating: "4.5209837"
+  ratingsCount: 5814
+  ExtendedInfo {
+    description: "NOTE: This application currently only supports Spanish language given its user-base.\n\nSoccer Mexican League - 2ThumbsApp brings you the football soccer mexican league with match schedules, results, standings, and much more.  It contains all the information every fan should know about the league; it also displays the matches for the mexican national team.  This information is also available at www.facebook.com/futbol.2ThumbsApp\n\nATTENTION:\nThis application makes use of the internet connection to update results and match information; you are solely responsible for any fees deriving from this.\n\nIn order to navigate through all the pages press the \'Inicio\' button on the top left.  There are other ways to navigate the application such as using finger side-sweep; for more information visit the \'Ay\303\272da\' page in the app, this page can be reached by pressing your cellphone\'s menu key.\n\nFUNCTIONALITY/SUPPORT:\n- First Division (match schedules & results).\n- Ascending Division (match schedules & results).\n- Mexican national team (match schedules & results).\n- See matches by date or by team.\n- Results and scheduled changes are auto-updated.  It also allows users to force updates manually to get current results as desired.\n- All matches are displayed on your local time.\n- It has a \'My Team\' option; this is available the main menu and it displays custom background and font.\n- Easy navigation allows users to switch pages by sliding their finger left or right.\n- Standings for both divisions, first division and ascending division.\n- Compare teams performance.\n- Descending stats.\n- Match reminders."
+    downloadsCount: 0
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "com.android.vending.BILLING"
+    installSize: 2151580
+    packageName: "com.twothumbsapp.futbolLigaMexicana"
+    category: "Sports"
+    contactEmail: "flm_support@2thumbsapp.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.2thumbsapp.com"
+    screenshotsCount: 6
+    promoText: "NOTE: This application currently only supports Spanish language given its user-base.\n\nSoccer Mexican League - 2ThumbsApp brings you the football soccer mexican league with match schedules, results, standings, and much more.  It contains all the information every fan should know about the league; it also displays the matches for the mexican national team.  This information is also available at www.facebook.com/futbol.2ThumbsApp\n\nATTENTION:\nThis application makes use of the internet connection to update results and match information; you are solely responsible for any fees deriving from this.\n\nIn order to navigate through all the pages press the \'Inicio\' button on the top left.  There are other ways to navigate the application such as using finger side-sweep; for more information visit the \'Ay\303\272da\' page in the app, this page can be reached by pressing your cellphone\'s menu key.\n\nFUNCTIONALITY/SUPPORT:\n- First Division (match schedules & results).\n- Ascending Division (match schedules & results).\n- Mexican national team (match schedules & results).\n- See matches by date or by team.\n- Results and scheduled changes are auto-updated.  It also allows users to force updates manually to get current results as desired.\n- All matches are displayed on your local time.\n- It has a \'My Team\' option; this is available the main menu and it displays custom background and font.\n- Easy navigation allows users to switch pages by sliding their finger left or right.\n- Standings for both divisions, first division and ascending division.\n- Compare teams performance.\n- Descending stats.\n- Match reminders."
+    recentChanges: "NEW IN v3.61:\n- Fixes force close issue encountered by some users.\nNEW IN v3.60:\n- Contains the 2013 schedules.\n- Adds support for Android 4.2.\n- The main page now also includes matches of Copa MX.\n- The match stats now also indicate the penalty goals, missed penalty kicks, and substitutions.\n- The Liga MX includes information of the channel transmitting each match.\n- The Liga MX matches reflect if it\'s the first half, half time, or second half."
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "2ThumbsApp"
+  packageName: "com.twothumbsapp.futbolLigaMexicana"
+  versionCode: 29
+}
+app {
+  id: "v2:com.bamnetworks.mobile.android.ballpark:1:7"
+  title: "MLB.com At the Ballpark"
+  appType: APPLICATION
+  creator: "MLB Advanced Media, L.P."
+  version: "1.4.0"
+  rating: "4.359477"
+  ratingsCount: 306
+  ExtendedInfo {
+    description: "Visit your favorite Major League Baseball ballparks and the new MLB.com At The Ballpark will be your favorite mobile companion. This official MLB ballpark application perfectly complements and personalizes your trip with mobile check-in, social media, offers, rewards and exclusive content. Select MLB ballparks also offer a mobile food ordering component.\n\nAmong the features available for MLB.com At The Ballpark are:\n\n\342\200\242\302\240\302\240Check-in for ballpark offers and rewards\n\342\200\242\302\240 Interactive concourse maps and directory\n\342\200\242\302\240\302\240Social media integration\n\342\200\242\302\240 Customized to feature a designated favorite MLB ballpark\n\342\200\242\302\240\302\240Team schedule, ticket information and sales and promotional event listings\n\342\200\242\302\240\302\240Access to food and beverage ordering available at select parks*\n\342\200\242\302\240\302\240Directions and parking information\n\342\200\242\302\240 My Profile: A personalized check-in history that includes games attended, MLB ballparks visited, and team W-L records. Use your MLB.com account to access and transfer your check-in history from MLB.com At Bat 11 to At The Ballpark.\n\n* Food and beverage mobile ordering currently is accessible at the following MLB ballparks: Citizens Bank Park (Philadelphia), Minute Maid Park (Houston), Chase Field (Phoenix) and Marlins Ballpark (Miami). Additional ballparks will be added as they become available."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.RESTART_PACKAGES"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.KILL_BACKGROUND_PROCESSES"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.VIBRATE"
+    installSize: 3549867
+    packageName: "com.bamnetworks.mobile.android.ballpark"
+    category: "Sports"
+    contactEmail: "mlb-mobile-cs@mlb.com"
+    downloadsCountText: "50,000-250,000"
+    contactPhone: "+18663065311"
+    contactWebsite: "http://www.mlb.com"
+    screenshotsCount: 4
+    promoText: "**"
+    recentChanges: "v. 1.4.0\n-  Offseason support\n-  Maintenance improvements\n\nv. 1.3.0\n-  NEW: Batter introduction and ballpark song listings. Browse music played at all 30 MLB ballparks and for your favorite players \n-  New check-in flow\n-  Maintenance improvements\n\nv. 1.2.0\n\n-  Support for the 2012 MLB All-Star Game and Homerun Derby\n\nv. 1.1.0\n\n-  Added Twitter Integration\n-  Bug Fixes and Performance Enhancements"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"MLB Advanced Media, L.P.\""
+  packageName: "com.bamnetworks.mobile.android.ballpark"
+  versionCode: 7
+}
+
+app {
+  id: "v2:com.neulion.smartphone.btn2go.android:1:4"
+  title: "BTN2Go"
+  appType: APPLICATION
+  creator: "Big Ten Network LLC"
+  version: "1.4"
+  rating: "2.715026"
+  ratingsCount: 386
+  ExtendedInfo {
+    description: "BTN2Go delivers live and on-demand programming to existing BTN subscribers via the web, smartphones, and tablets.\n\nBTN2Go is available to subscribers of participating TV providers. Currently, Bright House Networks, Charter, Cox, DIRECTV, Time Warner Cable, Verizon FiOS, WOW! and others are offering BTN2Go to their subscribers.  We continue to discuss BTN2Go with other television providers.\n\nUsers have on-demand access to BTN\'s deep video archive, including current season games from the Big Ten Conference\'s television partners (ABC, ESPN games will be available next day on-demand). Original series such as The Journey, Big Ten Icons, Big Ten\'s Best and The Big Ten\'s Greatest Games, as well as game highlights and coaches shows. \n\nAfter downloading the FREE BTN2Go app, select your TV provider and sign-in with your TV provider credentials. You can also create a BTN2Go account to customize your BTN2Go experience, which will allow you to save your favorite Big Ten teams for quick and easy access to relevant programming, ability to receive push alerts and also stay in touch with the latest news and information from the Big Ten Network. \n\nThe Big Ten Network is the first internationally distributed television network dedicated to covering one of America\342\200\231s premier collegiate conferences, the Big Ten Conference. Stay connected with your favorite Big Ten teams: \n\nIllinois Fighting Illini \nIndiana Hoosiers \nIowa Hawkeyes \nMichigan Wolverines \nMichigan State Spartans \nMinnesota Golden Gophers \nNebraska Cornhuskers \nNorthwestern Wildcats \nOhio State Buckeyes \nPenn State Nittany Lions \nPurdue Boilermakers \nWisconsin Badgers\n\nJoining the Big Ten in 2014:\n\nMaryland Terrapins\nRutgers Scarlet Knights\n\nhttp://btn.com/about/btn-privacy-policy/"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3976727
+    packageName: "com.neulion.smartphone.btn2go.android"
+    category: "Sports"
+    contactEmail: "btn2gosupport@btn.com"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://www.btn2go.com/btn2go/FAQ.jsp"
+    screenshotsCount: 5
+    promoText: "BTN2Go delivers live and on-demand programming to existing BTN subscribers via the web, smartphones, and tablets.\n\nBTN2Go is available to subscribers of participating TV providers. Currently, Bright House Networks, Charter, Cox, DIRECTV, Time Warner Cable, Verizon FiOS, WOW! and others are offering BTN2Go to their subscribers.  We continue to discuss BTN2Go with other television providers.\n\nUsers have on-demand access to BTN\'s deep video archive, including current season games from the Big Ten Conference\'s television partners (ABC, ESPN games will be available next day on-demand). Original series such as The Journey, Big Ten Icons, Big Ten\'s Best and The Big Ten\'s Greatest Games, as well as game highlights and coaches shows. \n\nAfter downloading the FREE BTN2Go app, select your TV provider and sign-in with your TV provider credentials. You can also create a BTN2Go account to customize your BTN2Go experience, which will allow you to save your favorite Big Ten teams for quick and easy access to relevant programming, ability to receive push alerts and also stay in touch with the latest news and information from the Big Ten Network. \n\nThe Big Ten Network is the first internationally distributed television network dedicated to covering one of America\342\200\231s premier collegiate conferences, the Big Ten Conference. Stay connected with your favorite Big Ten teams: \n\nIllinois Fighting Illini \nIndiana Hoosiers \nIowa Hawkeyes \nMichigan Wolverines \nMichigan State Spartans \nMinnesota Golden Gophers \nNebraska Cornhuskers \nNorthwestern Wildcats \nOhio State Buckeyes \nPenn State Nittany Lions \nPurdue Boilermakers \nWisconsin Badgers\n\nJoining the Big Ten in 2014:\n\nMaryland Terrapins\nRutgers Scarlet Knights\n\nhttp://btn.com/about/btn-privacy-policy/"
+    recentChanges: "Minor bug fixes & fixed force close on some devices"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Big Ten Network LLC\""
+  packageName: "com.neulion.smartphone.btn2go.android"
+  versionCode: 4
+}
+app {
+  id: "v2:com.allsnow.android:1:97"
+  title: "AllSnow Ski Reports & Tracker"
+  appType: APPLICATION
+  creator: "AllTrails, Inc"
+  version: "2.0.2"
+  rating: "3.7165775"
+  ratingsCount: 187
+  ExtendedInfo {
+    description: "We kidnapped and locked a team of Android hackers deep inside an undisclosed ski mountain for the last year to bring you the most advanced ski tracking app on Android. No we can\'t tell you where they are located, but what we can tell you is what they have in store will blow your mind. Literally.\n \nDownload today to instantly access snow conditions, forecasts, powder alerts, and offline trail maps - now supporting 2,000+ ski areas worldwide. Then hit the slopes and track your day at any mountain, anywhere with the only Android app that offers real-time lift & run statistics including distance, vertical drop, and speed.\n \nIf you live, breath, and love winter - download AllSnow twice, tell everyone you know, and then hit the slopes!\n\n-------------\n\nHere is everything you can do with AllSnow:\n\nWEATHER\n\342\200\242 Snow conditions for 2,000+ ski areas worldwide\n\342\200\242 Weather & snow forecasts for every ski area\n\342\200\242 Powder Alerts to notify you of recent snowfall\n\nSKI AREA INFO\n\342\200\242 Easily locate nearby ski areas using GPS\n\342\200\242 High resolution & zoomable trail maps for most ski areas\n\342\200\242 Driving directions to get you to the slopes\n\342\200\242 Discounted lift tickets for participating resorts\n\nTRACKING\n\342\200\242 Simply hit start to track your entire day on the mountain\n\342\200\242 Uses built-in GPS so no cellular or phone signal required\n\342\200\242 Detailed reports on lifts, runs, vertical feet, top speed, & more\n\342\200\242 The FIRST & ONLY Android app with real-time lift & run statistics\n\n\nTOP SECRET (coming soon):\n\342\200\242 Buddy tracking to help you find friends on the slopes\n\342\200\242 Compete with friends & other skiers/snowboarders\n\342\200\242 And a whole lot more\342\200\246\n\nNOTE: Make sure you save a mountain resort to your favorites for full offline capabilities\n\n-------------\n\nSUPPORT\nPlease feel free to email us at android-support@allsnow.com for support, issues, or feature requests."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "com.allsnow.android.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3697242
+    packageName: "com.allsnow.android"
+    category: "Sports"
+    contactEmail: "android-support@allsnow.com"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://allsnow.com"
+    screenshotsCount: 6
+    promoText: "The most advanced ski reports & tracking app, AllSnow, now finally on Android!"
+    recentChanges: "* No use of GPS when you\'re not tracking\n* Fixed crashes around Facebook authentication\n* More bug fixes!\n\n---------\n\nHuge update for the 2012/13 Season!\n\n* Completely new look based on your feedback\n* Unlimited tracking at any ski area worldwide\n* Real-time lift & run statistics\n* Access your profile & tracks directly in the app\n\nAnd tons more we hope you\'ll love."
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "\"AllTrails, Inc\""
+  packageName: "com.allsnow.android"
+  versionCode: 97
+}
+app {
+  id: "v2:com.tour.pgatour:1:10"
+  title: "PGA TOUR"
+  appType: APPLICATION
+  creator: "PGATOUR.com"
+  version: "1.7"
+  rating: "3.9353034"
+  ratingsCount: 2504
+  ExtendedInfo {
+    description: "The official PGA TOUR App provides inside access to PGA TOUR\342\200\231s best players and tournaments all season long. Customizable leaderboard, scorecards, highlight video, play-by-play and more will keep you up-to-date of the PGA TOUR, Champions Tour, and Nationwide Tour.\n \n-Live real-time scoring from every PGA TOUR tournament\n-Customize your leaderboard. Set your favorite players for easy viewing\n-View complete scorecards for every round of every player\n-Get live play-by-play for all 18 holes for every player\n-Read all the latest news from the PGA TOUR\n-View Top Shots, Shot of the Day, Round Recaps and PGA TOUR Today video\n \nThe only way to follow the Champions and Web.com Tours. In depth coverage from all three Tours includes the same features as provided in the PGA TOUR section, including player profiles and complete tournament schedules for the entire season."
+    downloadsCount: 0
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.KILL_BACKGROUND_PROCESSES"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 7092902
+    packageName: "com.tour.pgatour"
+    category: "Sports"
+    contactEmail: "mobile@pgatourhq.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.pgatour.com/multimedia/wireless/"
+    screenshotsCount: 4
+    promoText: "Follow the PGA TOUR on your Android with the all new official Android App."
+    recentChanges: "Added PGA TOUR Latinoamerica\nPrep for 2013 Season\nBug Fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "PGATOUR.com"
+  packageName: "com.tour.pgatour"
+  versionCode: 10
+}
+app {
+  id: "v2:com.espn.espnfantasybaseball:1:40"
+  title: "ESPN Fantasy Baseball"
+  appType: APPLICATION
+  creator: "ESPN Inc"
+  version: "3.0.0"
+  rating: "3.3859785"
+  ratingsCount: 1298
+  ExtendedInfo {
+    description: "Download the ESPN Fantasy Baseball app now for FREE and get all the information you need before your draft and to manage your teams throughout the season! Manage multiple teams and leagues, follow your matchups in real time, add/drop/trade players, and make last second lineup changes from wherever you are. The ESPN Fantasy Baseball App will keep you connected so you never miss a step in your league.\n\nThe ESPN Fantasy Baseball app features:\n\n-Team Management: Start/bench players, add, drop, and claim players off waivers, propose, accept or reject trades with other managers\n-FantasyCast Live Scoring and Stats: Real-time scoring and detailed information for all your matchups.\n-Fantasy News, Videos and Tweets from ESPN\342\200\231s fantasy analysts.\n-View and post messages to your league\342\200\231s message board\n\nBecome an ESPN Insider for access to the following exclusive features:\n\n-Personalized Push Notifications will alert you when you have a player headed to the DL or an eligible player on the bench.\n-Exclusive video and breaking news from ESPN experts including Matthew Berry, Eric Karabell and Christopher Harris.\n-Spring Training Notes, Rookie Reports, Breakout Candidates and advice from the best fantasy experts in the industry.\n\nDownload now because there\'s no better time to check on your fantasy teams, than anytime you please.\n\nNOTE: You must have an ESPN Fantasy Baseball team to use this app. This app will only manage your current teams. Past and future teams are not supported."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 907591
+    packageName: "com.espn.espnfantasybaseball"
+    category: "Sports"
+    contactEmail: "no_response@espn.com"
+    downloadsCountText: "50,000-250,000"
+    contactPhone: "+18663173776"
+    contactWebsite: "http://m.espn.go.com"
+    screenshotsCount: 3
+    promoText: "There\'s no better time to check on your fantasy teams than anytime you please."
+    recentChanges: "Freshly updated for the 2013 season -- the first for the Houston Astros in the American League. Get access to breaking news, ESPN Insider lineup and trade alerts, and tools to manage your teams wherever your phone takes you. Join now for free at ESPN.com."
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"ESPN Inc\""
+  packageName: "com.espn.espnfantasybaseball"
+  versionCode: 40
+}
+app {
+  id: "v2:com.mobilefootie.wc2010:1:322"
+  title: "Soccer Scores - FotMob"
+  appType: APPLICATION
+  creator: "NorApps"
+  version: "9.3.1"
+  rating: "4.522711"
+  ratingsCount: 27828
+  ExtendedInfo {
+    description: "Over 3 million downloads for the best soccer/football app available! Featuring audio commentaries for all Premier League matches in up to 12 different languages.\n\nAlso featuring:\n* Livescores with alerts \n* Match stats (lineup, stats, goals, cards, penalties, missed penalties, assists and substitutions) \n* Tables\n* Fixtures\n* News (league news and club news)\n* Topscorers\n* Favorite teams\n\nCoverage of: \n* Premier League\n* Championship\n* League 1 & 2\n* Conference\n* Eredivisie\n* Bundesliga\n* 2. & 3. Bundesliga\n* Serie A\n* Serie B\n* La Liga (Liga BBVA)\n* MLS (Major League Soccer)\n* Europa League\n* Champions League\n* Euro 2012\n* Ligue 1 \n* Mexican league\n* Scottish Premier League \n* Allsvenskan\n* Superettan\n* Tippeligaen\n* Adeccoligaen\n* and most other football/soccer leagues. Missing one? Ask us!\n\nNo affiliation with BBC, Sky Sports or ESPN.  \n\nClub news for clubs like Manchester United, Chelsea, Arsenal, Barcelona, Juventus, FC Bayern M\303\274nchen, Borussia Dortmund, Inter, Liverpool and others.\n\nIn-app purchase removes ads and gives push alerts.\n\nSome permissions explained: \nRead phone state and identify:  needed to mute audio commentaries when an incoming phone call occurs. \n\nKnown accounts permissions is required for Google Cloud Messaging (Push alerts).\n\nPro tips: \n1. Long press match in live window to add notification for it without going into match facts\n2. Long press league in live window to add notifications for entire league\n3. Long press match in team fixtures, league fixture or live window to add to Google Calendar"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "com.mobilefootie.wc2010.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 4225894
+    packageName: "com.mobilefootie.wc2010"
+    category: "Sports"
+    contactEmail: "support@norapps.no"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.facebook.com/fotmob"
+    screenshotsCount: 7
+    promoText: "The best LIVE-coverage available. News feed, tables and much more."
+    recentChanges: "- Future fixtures are now enable for UK users!\n- Can now share the match or individual events by long pressing the match event\n- Added Last updated information to the live screen\n- Color to indicate win/loss in team fixtures\n- Team crests are now in higher quality \n- Optimized loading of data at startup. \n- Fixed random crashes related to audio playing of commentaries"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "NorApps"
+  packageName: "com.mobilefootie.wc2010"
+  versionCode: 322
+}
+app {
+  id: "v2:com.espn.bcs:1:17"
+  title: "ESPN College Football"
+  appType: APPLICATION
+  creator: "ESPN Inc"
+  version: "3.1.1"
+  rating: "4.185539"
+  ratingsCount: 2932
+  ExtendedInfo {
+    description: "The new ESPN College Football App is the ultimate, year-round companion for every college football fan.  Follow the nation\'s top stories with unprecedented coverage and watch in-progress highlights as big plays happen.  Get breaking news and scoring alerts for your favorite teams\342\200\231 and follow any game you care about with customizable scoreboards.\n\nFeatures:\n\n\342\200\242 In-progress video alerts of the biggest plays pushed right to you moments after they happen.\n\342\200\242 Easy access to live games on WatchESPN\n\342\200\242 Personalized My Games scoreboard featuring any college football game you care about\n\342\200\242 Comprehensive editorial coverage featuring game previews, recaps, analysis and highlights.\n\342\200\242 Signature ESPN analysis videos from our college football team plus exclusive clips from College GameDay, ESPNU and more\n\342\200\242 Be the expert with College GameDay voting, video features and matchup breakdowns.\n\342\200\242 Team by team Twitter content and discussions.\n\342\200\242 Breaking news alerts, scoring alerts, potential upsets and video highlights and analysis alerts\n\342\200\242 Bowl Bound section with weekly projections from Brad Edwards for every bowl game\n\342\200\242 Team alerts for all 124 FBS schools\n\342\200\203"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "com.espn.bcs.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 2728408
+    packageName: "com.espn.bcs"
+    category: "Sports"
+    contactEmail: "no_response@espn.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18885493776"
+    contactWebsite: "http://m.espn.go.com"
+    screenshotsCount: 7
+    promoText: "The college football fan\342\200\231s ultimate year-round companion."
+    recentChanges: "* Brand new recruiting section\n* Improved statistics experience\n* Re-designed menu experiences\n* Bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"ESPN Inc\""
+  packageName: "com.espn.bcs"
+  versionCode: 17
+}
+app {
+  id: "v2:com.yahoo.mobile.client.android.fantasyfootball:1:1138812432"
+  title: "Yahoo! Fantasy Football \'12"
+  appType: APPLICATION
+  creator: "Yahoo! Inc."
+  version: "3.1.3"
+  rating: "4.3949704"
+  ratingsCount: 77578
+  ExtendedInfo {
+    description: "If you can\'t live without Fantasy Football, download the app now! Whether you want quick fantasy updates or a game day couch companion, the Yahoo! Fantasy Football Android app delivers real-time live scoring, matchups, player stats, and more so you can manage your team at home or on the road. \n \nFeatures:\n\342\200\242 Live Scoring: Follow your team, league, and player stats during games in real time. \n\342\200\242 Roster Management: Injured QB? Start your backup or find a replacement right from the app. View and set your lineup for today and upcoming weeks by clicking on the Edit icon on your team page. \n\342\200\242 Track matchups: View your past, present, and future matchups \n\342\200\242 Breaking Player News and Roto Arcade: Keep up with the latest updates without having to look for them. \n\342\200\242 Full message board access once your league drafts.\n\342\200\242 Login with Facebook and Google in addition to Yahoo!\n\342\200\242 Manage trades right from your phone (Propose from Player Details page and view in your team Transactions)\n\342\200\242 Follow League Transactions (Transaction icon on top of league page)\n\342\200\242 Access your Watch List (Option listed under \"Status\" category of Player Search tab).  Add/Delete from Watch List using the flag icon in the Player Details and Search Results pages.\n\342\200\242 Link to Yahoo! Sportacular App for real game info\n\342\200\242 Move app to SD card\n\nIf you have issues, please go to http://m.yahoo.com/w/customercare/article?entry=andfantasyfb1.xml to contact us.\n** If the shortcut/launch icon for your app is not working, please do one of the following to fix the issue:\nRestart your phone once to update the launch icon; or\nUninstall and then reinstall the Fantasy Football app"
+    downloadsCount: 0
+    permissionId: "com.yahoo.mobile.client.android.permissions.YAHOO_INTER_APP"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 4487505
+    packageName: "com.yahoo.mobile.client.android.fantasyfootball"
+    category: "Sports"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://mobile.yahoo.com/fantasy-football/android"
+    screenshotsCount: 8
+    promoText: "Yahoo! Fantasy Football, the #1 Free Fantasy Football game, comes to Android."
+    recentChanges: "What\'s New in Version 3.1.3:\n\342\200\242 Bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"Yahoo! Inc.\""
+  packageName: "com.yahoo.mobile.client.android.fantasyfootball"
+  versionCode: 1138812432
+}
+app {
+  id: "v2:mobi.sportstap.android.sportstap:1:65"
+  title: "SportsTap"
+  appType: APPLICATION
+  creator: "Score Media Ventures"
+  version: "3.3"
+  rating: "4.3025503"
+  ratingsCount: 34229
+  ExtendedInfo {
+    description: "SportsTap by ScoreMobile.  Follow all of your favorites teams from the NFL, MLB, NBA, NHL, NCAA, CFL, NASCAR, Formula One, IndyCar, PGA, LPGA, ATP, WTA, MLS, plus the top soccer leagues from England, Italy, Brasil, Mexico, Germany and more.  New: Special event content and coverage for 2012 Olympics!\n\nWe give you detailed News, Stats, Schedules and in depth Box Scores right on your on your Android device.  Need Fantasy intel? Check out the latest ROTOWIRE team and player detailed reports.\nUse our Alerts feature to get live updates sent directly to your device. Alerts allow you to follow all the action as it happens wherever you are.\n\nUnique to Android, try our widget to quickly stay up-to-date with all your favorite teams. Just add your teams and get quick updates right on your device\'s homescreen.\n\nWant to follow your home-town team? LocalTap allows you follow all teams within a 50, 100, or 200 mile range."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.VIBRATE"
+    installSize: 1328801
+    packageName: "mobi.sportstap.android.sportstap"
+    category: "Sports"
+    contactEmail: "info@sportstap.mobi"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://sportstap.mobi"
+    screenshotsCount: 6
+    promoText: "The ultimate mobile sports portal."
+    recentChanges: "Added 2012 Summer Olympics section - content and medal count coverage beginning 7/25.  \n\nThanks to all our users for the great feedback and suggestions.  We\'re working hard to keep this the quickest and most useful android sports app for 4 years running!"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Score Media Ventures\""
+  packageName: "mobi.sportstap.android.sportstap"
+  versionCode: 65
+}
+app {
+  id: "v2:com.skireport:1:23"
+  title: "Ski & Snow Report"
+  appType: APPLICATION
+  creator: "SkiReport.com"
+  version: "2.5.7"
+  rating: "4.304786"
+  ratingsCount: 12494
+  ExtendedInfo {
+    description: "OnTheSnow, the world\'s leading website for ski and snow conditions, brings you the world\'s most-downloaded ski and snowboard application, the Ski & Snow Report app. This Ski & Snow Report app brings you current snow conditions reports at more than 2,000 ski areas around the globe, plus features first-hand ski reports from users.  \nFeatures Include:\n-- More than 2,000 global ski areas listed, including Aspen, Whistler, Vail, Killington, Jackson Hole and more.\n-- Trail maps of most ski areas\n-- Locate nearby ski areas via GPS\n-- First-hand ski reports from fellow skiers\n-- Post photos from the slopes\n-- \"Powder Points\" highlight biggest new snowfall totals\n-- Live webcams\n-- Weather forecasts by area\n-- Map to ski areas\n-- Mountain stats and snow history graph"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "com.skireport.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 1095784
+    packageName: "com.skireport"
+    category: "Sports"
+    contactEmail: "darby@mountainnews.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+17208877724"
+    contactWebsite: "http://www.onthesnow.com"
+    screenshotsCount: 4
+    promoText: "Ultimate guide before you hit the slopes: ski reports, cams, weather, & more!"
+    recentChanges: "Version 2.5.7:\n- Fix for FHR photo crash!\n- Fix for missing Galaxy Nexus settings option.\n\nVersion 2.5.6:\n- Stability improvements on high-end devices.\n- Localization fixes.\n- First Hand Report post fix.\n\nVersion 2.5.5:\n- Stability improvements.\nRemember you can always change your powder points settings via the edit areas section.\n\nVersion 2.5.4:\n- Better Norwegian language support.\n- Better Danish language support. \n\nVersion 2.5.3:\n- Better German language support\n- Better resort searching."
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "SkiReport.com"
+  packageName: "com.skireport"
+  versionCode: 23
+}
+app {
+  id: "v2:com.golfnow.android.teetimes:1:23"
+  title: "GolfNow"
+  appType: APPLICATION
+  creator: "GolfNow - Mobile Development Team"
+  version: "1.01.23"
+  rating: "4.5203547"
+  ratingsCount: 2481
+  ExtendedInfo {
+    description: "Book tee times 24/7 on the GolfNow mobile app!\n\nWith over 100,000 tee times at over 4,000 quality courses and resorts across the US, Canada, Ireland, Scotland, Bermuda and Mexico, booking a tee time has never been easier!\n- Stay signed in to GolfNow automatically.\n- Search \342\200\234Hot Deals\342\200\235 for maximum savings. \n- Use GPS locator or browse by Area to quickly find a course near home or on the road.\n- Share your tee times reservations on Facebook and Twitter.\n- GolfNow Map View shows you how to get to your course.\n- Earn rounds toward Frequent Golfer status. \nIt\'s never been easier to book a round on your mobile device!\n\nThis application is not optimized for Android tablets."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    installSize: 798401
+    packageName: "com.golfnow.android.teetimes"
+    category: "Sports"
+    contactEmail: "golfnowmobile@gmail.com"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://www.golfnow.com"
+    screenshotsCount: 6
+    promoText: "Book tee times 24/7 on the GolfNow mobile app!\n\nWith over 100,000 tee times at over 4,000 quality courses and resorts across the US, Canada, Ireland, Scotland, Bermuda and Mexico, booking a tee time has never been easier!\n- Stay signed in to GolfNow automatically.\n- Search \342\200\234Hot Deals\342\200\235 for maximum savings. \n- Use GPS locator or browse by Area to quickly find a course near home or on the road.\n- Share your tee times reservations on Facebook and Twitter.\n- GolfNow Map View shows you how to get to your course.\n- Earn rounds toward Frequent Golfer status. \nIt\'s never been easier to book a round on your mobile device!\n\nThis application is not optimized for Android tablets."
+    recentChanges: "v1.01.23\n- Icon key for tee time extras\n- Bug fixes and performance enhancements\n\nv1.01.19\n- Bug fixes\n\nv1.01.18\n- Use GPS to search for tee times near you!\n- More search areas for more tee times!\n- Bug fixes\n- Stability improvements\n\nv1.01.11\n- Stay signed in to GolfNow automatically!\n- Share your reservations on Facebook and Twitter!\n- Book tee times in Bermuda and Mexico!\n- Bug fixes\n- Stability improvements"
+    promotionalVideo: "http://www.youtube.com/watch?v=qVHetJtuLuY&list=PL753943B9F5CAF0E8&index=3&feature=plpp_video"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"GolfNow - Mobile Development Team\""
+  packageName: "com.golfnow.android.teetimes"
+  versionCode: 23
+}
+
+app {
+  id: "v2:com.espn.espnfantasyfootball:1:68"
+  title: "ESPN Fantasy Football 2012"
+  appType: APPLICATION
+  creator: "ESPN Inc"
+  version: "2.9.7"
+  rating: "3.477001"
+  ratingsCount: 10283
+  ExtendedInfo {
+    description: "With the ESPN Fantasy Football 2012 app, you can manage multiple teams and leagues, follow your matchups in real-time, add/drop/trade players, and make last-second lineup changes from wherever you are. Spend your Sundays constantly connected to all of your leagues and teams and you won\'t miss the chance to grab that backup RB turned fantasy stud. The ESPN Fantasy Football App provides the added advantage you need to dominate your fantasy league.\n\nFeatures include:\n\342\200\242Team Management: Start/bench players, add, drop, and claim players off waivers, propose, accept or reject trades with other managers\n\342\200\242FantasyCast Live Scoring and Stats: Real-time scoring and detailed information for all your matchups.\n\342\200\242Personalized Push Notifications for injuries, substitutions, and scoring updates.\n\342\200\242Fantasy News, Videos and Tweets from ESPN\342\200\231s fantasy analysts.\n\342\200\242View and post messages to your league\342\200\231s message board\n\nDownload now because there\'s no better time to check on your fantasy teams, than anytime you please.\nNOTE: You must have an ESPN Fantasy Football team to use this app. This app will only manage your 2012 teams; past and future teams are not supported."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "com.espn.espnfantasyfootball.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 769909
+    packageName: "com.espn.espnfantasyfootball"
+    category: "Sports"
+    contactEmail: "no_response@espn.com"
+    downloadsCountText: ">250,000"
+    contactPhone: "+18885493776"
+    contactWebsite: "http://m.espn.go.com/general/fantasy/?wjb="
+    screenshotsCount: 3
+    promoText: "With the ESPN Fantasy Football 2012 app, you can manage multiple teams and leagues, follow your matchups in real-time, add/drop/trade players, and make last-second lineup changes from wherever you are. Spend your Sundays constantly connected to all of your leagues and teams and you won\'t miss the chance to grab that backup RB turned fantasy stud. The ESPN Fantasy Football App provides the added advantage you need to dominate your fantasy league.\n\nFeatures include:\n\342\200\242Team Management: Start/bench players, add, drop, and claim players off waivers, propose, accept or reject trades with other managers\n\342\200\242FantasyCast Live Scoring and Stats: Real-time scoring and detailed information for all your matchups.\n\342\200\242Personalized Push Notifications for injuries, substitutions, and scoring updates.\n\342\200\242Fantasy News, Videos and Tweets from ESPN\342\200\231s fantasy analysts.\n\342\200\242View and post messages to your league\342\200\231s message board\n\nDownload now because there\'s no better time to check on your fantasy teams, than anytime you please.\nNOTE: You must have an ESPN Fantasy Football team to use this app. This app will only manage your 2012 teams; past and future teams are not supported."
+    recentChanges: "Fixes display issues on My Team screen for users with older versions of Android."
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"ESPN Inc\""
+  packageName: "com.espn.espnfantasyfootball"
+  versionCode: 68
+}
+app {
+  id: "v2:com.swingbyswing:1:619"
+  title: "Free Golf GPS & Scorecard"
+  appType: APPLICATION
+  creator: "Swing by Swing"
+  version: "3.1.4"
+  rating: "4.526587"
+  ratingsCount: 5623
+  ExtendedInfo {
+    description: "Swing by Swing is an accurate, reliable, and 100% FREE Golf GPS Range Finder and Scorecard for your Android. \n\nThis is not a \"trial\" version. It is not \"limited functionality\". \n\nYou get: \n\n* A full-featured GPS rangefinder which shows distance to center of green, and every obstacle on the course. FREE for life! \n\n* A free golf scorecard to keep score for your entire foursome \n\n* Automatic website account to review your rounds in detail, see pictures you uploaded, review your scores and stats, and share with friends \n\n* Graphs and stats so you can watch your game improve \n\n* 35,000 courses mapped in the system \n\n***** \n\nAbout the Range Finder \n\nTake strokes off your game with smart golf information: \n\n* Accurate distance information, rivaling any other app or $300 device. \n\n* View a satellite photo of the hole you are playing. Zoom in and touch anywhere to get distance from you to that point. \n\n* Upgrade to a Looper and get Green View on every hole in the world, showing the distance to front/middle/back \n\n* Free shot distance tracking. Find out how far you just bombed that 1-Wood down the fairway! (Loopers can use the Club Tracker to measure the distance of every club in their bag, and see a 3D flyover of every shot hit during a specific round.) \n\n* Take a photo during your round and it automatically uploads to your website round page\n\n***** \n\nAbout the Scorecard \n\n* Free score and putt tracking on any course in the world \n\n* Store your rounds free for life in our database, and watch your game improve with graphs and stats \n\n* Upgrade to Looper and play your friends with Stroke Play or Stableford, using full handicaps, USGA handicaps, or Course handicaps! You\'ll also get extended scorecard functionality, and even more stats and graphs. \n\n\n***** \n\nAbout SwingBySwing.com Website \n\n* Your rounds, scores, path around the course, pictures, and more, are all uploaded automatically to the website. Each round of golf creates an associated website page with awesome detail of your round: \n\n* Watch your exact path traveled around the course. \n\n* View your stats and graphs, and high rez satellite photos. \n\n* Pictures you take on the course are automatically associated with your round of golf, saved to your phone camera roll, and viewable on the round page. \n\n***** \n\nUse the GPS for FREE, or upgrade to Looper and unlock the true power of Swing by Swing: \n\n* The GPS Range Finder application is free. All 35,000+ courses in the system are playable for FREE. \n\n* The Scorecard is free for tracking scores and putts. Loopers get the extended scorecard to track things like fairways hit, sand shots, and penalties. Get stats like greens in regulation, fairways hit, putts, and more! \n\n* Club Tracker module is also free for basic shot tracking. When you upgrade to Looper, you\'ll be able to track the distance of every club in your bag and see a 3D overlay of every shot you hit during the round. \n\n* Your SwingBySwing.com account is free, and you can enter all your past scores, view current scores, your path around the course, stats, graphs, uploaded pictures, and more.\n\n***** \n\nWhy Choose SwingBySwing? \n\n* Our GPS Range Finder is free now. It will be free next month, and it will be free next year. \n\n* Easy to use - a few taps and you\'re playing. Automatically advances from hole to hole.\n\n* Works on ANY course in the world. If your course is not in the system, or not mapped for play, you can use our simple online interface to add it yourself. (Or pay us to do it for you) \n\n* Quick and reliable customer support via email or our website."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "android.permission.CAMERA"
+    installSize: 1110047
+    packageName: "com.swingbyswing"
+    category: "Sports"
+    contactEmail: "contact@swingbyswing.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.swingbyswing.com"
+    screenshotsCount: 5
+    promoText: "An accurate, reliable, and FREE Golf GPS Range Finder for your Android phone."
+    recentChanges: "New golf goodness from Swing by Swing!\nUpdates to the Golf GPS & Scorecard app for Android:\n\n* Sign in with Facebook \n* Add photos during your round (then see them on your live round track and stats page when the round is over) \n* Get more detail about your golf courses \n* Extra support for incredible detail and functionality on the website, free with your Swing by Swing account\n* Mucho improvement to one-off shot tracker for freebie users \n* Fixed some crazy bugs and smoothed out some UI issues"
+    promotionalVideo: "http://www.youtube.com/watch?v=pOwXi6Aw-R0&list=UU5NNzNAkoIu1ldbc6QVDGUw&index=1&feature=plcp"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Swing by Swing\""
+  packageName: "com.swingbyswing"
+  versionCode: 619
+}
+app {
+  id: "v2:com.myleaderboard.GolfChannel:1:37"
+  title: "Golf Channel Mobile"
+  appType: APPLICATION
+  creator: "Golf Channel"
+  version: "3.5.2.1"
+  rating: "3.5861537"
+  ratingsCount: 2600
+  ExtendedInfo {
+    description: "Keep the golf world at your fingertips with the new Golf Channel Mobile. Read the latest articles, blogs, and analysis from the game\342\200\231s most knowledgeable insiders.  Mark and follow your favorite players in this week\'s tournaments with leaderboards from all major worldwide tours; Watch videos covering the latest news in the golfing world along with instructional videos from the world\342\200\231s best instructors. Get the Golf Channel experts\' picks before each tournament and breaking news as it happens, anytime and anywhere. \n\n* Check out the latest shows (news and originals), with behind-the-scenes videos, photo galleries and other exclusive content. \n\n* Get the latest tips from golf\342\200\231s best instructors and legends.\n\n* Wake Up and Smell the Fairway! Now you can listen to Morning Drive every weekday morning LIVE. Start your day with Morning Drive live audio streaming (Android 3.1 and up)\n\nGolf Channel Mobile is subject to EULA acceptance and your agreement to the Golf Channel\'s standard Terms of Service."
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    installSize: 1881051
+    packageName: "com.myleaderboard.GolfChannel"
+    category: "Sports"
+    contactEmail: "mobilefeedback@golfchannel.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.golfchannel.com/mobile-feedback"
+    screenshotsCount: 8
+    promoText: "Official Mobile Application for the Golf Channel - 3.5"
+    recentChanges: "Golf Channel Mobile Version 3.5.2.1: Correct minor user account issue\n\nVersion 3.5.2: Enhancements and fixes for Ryder Cup\n\nVersion 3.5.1: Fixes comment login bug.\n\nGolf Channel Mobile Version 3.5 \n\nENHANCED PLAYOFF COVERAGE\n\nVIDEO ENHANCEMENTS\n\n\nPlus a few other minor enhancements to the interface.\n\n\nVersion 3.4: Find a player, Live audio\nVersion 3.3: Enhanced leaderboards and photo galleries"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"Golf Channel\""
+  packageName: "com.myleaderboard.GolfChannel"
+  versionCode: 37
+}
+app {
+  id: "v2:pishtech.mfa:1:28"
+  title: "My Fishing Advisor"
+  appType: APPLICATION
+  creator: "MyFishingAdvisor.com"
+  version: "1.28"
+  rating: "4.34179"
+  ratingsCount: 1419
+  ExtendedInfo {
+    description: "Pishtech brings you My Fishing Advisor: a powerful tool for freshwater fishing.  It analyzes the weather, sun and moon position, moon phase, and many other factors to determine where fish will be located, how active they will be, and what lures, baits and presentations will be most effective.  Select when you\'ll be fishing, pick your location by GPS or on the map, select the type of body of water, water conditions, and what species you want to catch.  See the best fishing days and times based on forecasted weather water temperature, spawning related behavior, solunar factors and more.  My Fishing Advisor will guide you as you select the structure and cover to fish, and what type, size, and color of lure or bait.  It will even help you select the right line and details like sinker weights, hook sizes, etc.\n\nCurrently supports these species:\n\nLargemouth Bass\nSmallmouth Bass\nStriped Bass\nWhite Bass\nNorthern Pike\nMusky\nWalleye\nYellow Perch\nCrappie\nBluegills & Sunfish\nChannel Catfish\nFlathead Catfish\nBlue Catfish\nWhite Catfish\nCarp\nRainbow Trout\nBrown Trout\nBrook Trout\nLake Trout\n\nThis is the first mobile app to use this technology, previously used in a tournament-winning Windows software package for anglers.  The first release is intended primarily for use in the continental United States.  More species and improved support for other regions will be included in upcoming versions.\n\nMy Fishing Advisor is currently free and ad-supported.  A paid ad-free version is planned for the near future.\n\nIf you encounter problems with My Fishing Advisor, please let us know at info@myfishingadvisor.com.  We\'ll respond quickly to fix any issues we can, but we can only do that if you let us know the details of the issue.  Thanks, and happy fishing!"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_GPS"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_MOCK_LOCATION"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    installSize: 4176015
+    packageName: "pishtech.mfa"
+    category: "Sports"
+    contactEmail: "info@myfishingadvisor.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.myfishingadvisor.com"
+    screenshotsCount: 6
+    promoText: "Find when, where and how to catch more fish"
+    recentChanges: "This update improves the accuracy of the water temperature estimates in most cases.  It includes a special compensation for unusually warm water temperatures this year due to an early spring in much of North America.    Also includes a few improvements to the lure selection logic."
+    promotionalVideo: "http://www.youtube.com/watch?v=MHVIBQiB8b8"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "MyFishingAdvisor.com"
+  packageName: "pishtech.mfa"
+  versionCode: 28
+}
+app {
+  id: "v2:com.apptivateme.chicagoblackhawks:1:117"
+  title: "Chicago Blackhawks (Official)"
+  appType: APPLICATION
+  creator: "Chicago Blackhawks"
+  version: "12.4.6"
+  rating: "3.997009"
+  ratingsCount: 1003
+  ExtendedInfo {
+    description: "The Official Blackhawks App incorporates the latest headlines & news, Blackhawks TV features and team coverage, photo galleries, stats, standings and schedule information, along with updates from the team\342\200\231s award-winning Twitter feed. Please note that due to NHL restrictions, goals and game highlights cannot be made available via the App.\n\nSee recent changes for update information"
+    downloadsCount: 0
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.RECORD_AUDIO"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.BROADCAST_STICKY"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 5048320
+    packageName: "com.apptivateme.chicagoblackhawks"
+    category: "Sports"
+    contactEmail: "akempenaar@chicagoblackhawks.com"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://www.chicagoblackhawks.com"
+    screenshotsCount: 5
+    promoText: "The Official Chicago Blackhawks App for Android 2.1+ devices."
+    recentChanges: "- Event push notifications with numerous, optional live scoring and highlight updates that come straight from the league, so you always know how your Blackhawks are doing even when you can\342\200\231t watch the game \n- Social view tab, which is now separated from the News section for easier access \n- \342\200\234Home and Away\342\200\235 box score indicator to help you plan your Blackhawks viewing schedule and game ticket purchases\n- Improved app performance and stability"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Chicago Blackhawks\""
+  packageName: "com.apptivateme.chicagoblackhawks"
+  versionCode: 117
+}
+app {
+  id: "v2:com.yahoo.mobile.client.android.fantasybasketball:1:1177413790"
+  title: "Yahoo! Fantasy Basketball 2012"
+  appType: APPLICATION
+  creator: "Yahoo! Inc."
+  version: "1.1.0"
+  rating: "3.7112577"
+  ratingsCount: 6369
+  ExtendedInfo {
+    description: "Yahoo! Fantasy Basketball, the #1 Fantasy Basketball game and the official\nfantasy game of NBA.com, now on Android.\n\nIf you can\'t live without Fantasy Basketball, download this app now! Whether you want quick fantasy updates or a game day couch companion, the Yahoo! Fantasy Basketball Android app delivers real-time live scoring, matchups, player stats, and more so you can manage your team at home or on the road. \n \nFeatures:\n\342\200\242 Live Scoring: Follow your team, league, and player stats during games in real time. \n\342\200\242 Roster Management: Injured Power Forward? Start your backup or find a replacement right from the app. View and set your lineup for today and upcoming weeks by clicking on the yellow edit icon on your team page. \n\342\200\242 Track matchups: View your past, present, and future matchups \n\342\200\242 Breaking Player News and Expert Blogs: Keep up with the latest updates without having to look for them. \n\342\200\242 Full message board access.\n\342\200\242 Login with Facebook and Google in addition to Yahoo!\n\342\200\242 Manage trades right from your phone (Propose from Player Details page and view in your team Transactions)\n\342\200\242 Follow League Transactions (Transaction icon on top of league page)\n\342\200\242 Access your Watch List (Option listed under \"Status\" category of Player Search tab).  Add/Delete from Watch List using the flag icon in the Player Details and Search Results pages.\n\342\200\242 Link to Yahoo! Sportacular App for real game info\n\342\200\242 Move app to SD card\n\nIf you have issues, please go to http://m.yahoo.com/w/customercare/article?entry=andfantasybb2.xml to contact us.\n\n** If the shortcut/launch icon for your app is not working, please do one of the following to fix the issue:\nRestart your phone once to update the launch icon; or\nUninstall and then reinstall the Fantasy Basketball app"
+    downloadsCount: 0
+    permissionId: "com.yahoo.mobile.client.android.permissions.YAHOO_INTER_APP"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 3291594
+    packageName: "com.yahoo.mobile.client.android.fantasybasketball"
+    category: "Sports"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://m.yahoo.com/w/customercare/article?entry=andfbball3.xml&ref=andfbball&.intl=us&.lang=en "
+    screenshotsCount: 8
+    promoText: "Yahoo! Fantasy Basketball, the #1 Fantasy Basketball game, now on Android."
+    recentChanges: "* Fix issues with 2011 stats\n* Fix game schedule display\n* Fix trade functionality"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"Yahoo! Inc.\""
+  packageName: "com.yahoo.mobile.client.android.fantasybasketball"
+  versionCode: 1177413790
+}
+app {
+  id: "v2:io.gamechanger:1:57"
+  title: "GameChanger Scorekeeper"
+  appType: APPLICATION
+  creator: "GameChanger Media"
+  version: "2.8.1"
+  rating: "3.7657657"
+  ratingsCount: 555
+  ExtendedInfo {
+    description: "The GameChanger mobile scorekeeping app and website provide scorekeeping, stats, live game updates and game recap stories for thousands of amateur baseball and softball teams.\n\nThe free scoring app makes it easy to keep score and manage statistics for any team (Little League, Pony, Babe Ruth, Prep, High School, NJCAA, JUCO, NCAA, Adult)\n\n* Winner of \"Best in Show\" at 2010 American Baseball Coaches Association Convention (ABCA)\n\n* \"A no-brainer\" - Los Angeles Times\n\n* \342\200\234GameChanger is the call.\342\200\235 - NY Times\n\n* \342\200\234The GameChanger app is game changing\342\200\235 \342\200\223 CNBC Sports Business\n\n* \342\200\234A scoring app that is a game changer\342\200\235 - WTIC\n\n* Chosen partner of USA Baseball, Little League International, Cal Ripken Baseball, MaxPreps.com, Perfect Game USA, eteamz.com and East Cobb Baseball.\n \nPRODUCT OVERVIEW\n* Coaches and scorekeepers will save valuable time with extensive stat management tools, spray charts and pitch-by-pitch game recaps.\n* Fans can view live GameStream plays or stats and read game recap stories.\n \nONLINE RESOURCES\n* Learn more and get started at www.GameChanger.io.\n* FAQ and App User\'s Guide: www.GameChanger.io/help\n* Video Tutorials: www.GameChanger.io/help/tutorials\n \nGAMECHANGER APP FEATURES\n* Create your team, schedule, roster and lineup\n* Make easy roster edits and substitutions\n* Drag defensive players to location where ball is fielded\n* Drag and drop advancing runners\n* View live score, pitch counts and play-by-play recaps\n* Undo plays for in-game editing\n* Resume scoring a game with auto-save on every pitch\n* Digital scorebook\n \nWEB FEATURES (www.GameChanger.io)\n* Create teams, rosters and schedules for access on the app\n* View live play-by-play and game stats (\"GameStream\")\n* View post game box scores (basic and advanced)\n* View score book online.\n* 150+ stats including IP, H, R, ER, BB, SO, HR, ERA, total strikes, first pitch strikes, strike %, batters on or out in 3 pitches or less, AB, H, AVG, RBI, OBP, SLG, OPS, and 6-plus pitch at-bats (http://www.gamechanger.io/features/stat-list)\n* View dynamic spray charts for every ball put in play\n* Read and share auto-generated game recap stories\n \nGameChanger is designed by an entrepreneurial and customer-focused team at GameChanger Media, Inc.\n \nTestimonials:\n \n\342\200\234GameChanger is essential for any baseball program.  Do your program a favor\342\200\246become a Game Changer\342\200\235 \342\200\223 Marc L., High School Baseball Coach\n \n\342\200\234There is no better app for scorekeeping at any level.  I won\342\200\231t ever coach without it.\342\200\235 - Wilo C., Youth Baseball Coach\n \n\342\200\234Our families, like most, live very dynamic lives and it was Game Changer that brought them the game.  It truly is a \"Game Changer!\"- Dwight S., High School Coach\n \n\342\200\234I can\'t say enough good stuff about this program.\342\200\235 - Jill M., High School Softball Scorekeeper\n \n\342\200\234GameChanger is every coach\342\200\231s most useful in-game tool.\342\200\235 - Dan M, Youth Coach\n \n\342\200\234GameChanger absolutely made my life easier as a team manager.\342\200\235 Orlando D., Travel Team Manager & Scorekeeper\n \n\342\200\234GameChanger has provided a streamlined approach to tracking stats for our high school baseball program. Evaluating post-game stats is a quick 10-15 minute process.\342\200\235 - Joel S., High School Coach\n \n\342\200\234I instantly loved the ease of use.\342\200\235 - Kathy L., Tournament / League Administrator\n \n\342\200\234Game Changer scorekeeper has changed how we generate and use information.\342\200\235 - Darren F, College Coach\n   \n\342\200\234We utilize the spray charts. Game Changer has helped us win several games already!\342\200\235 - Jay H, Youth Baseball Coach\n\n\342\200\234Game Changer baseball and game changer softball software is the easiest scoring program out there. Stat tracking and score keeping is now painless. It\342\200\231s now simple to score baseball and score softball on your Android device\342\200\235 - Sean, CT Score keeper."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 9583879
+    packageName: "io.gamechanger"
+    category: "Sports"
+    contactEmail: "android@gamechanger.io"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://www.gamechanger.io"
+    screenshotsCount: 7
+    promoText: "The GameChanger mobile scorekeeping app and website provide scorekeeping, stats, live game updates and game recap stories for thousands of amateur baseball and softball teams.\n\nThe free scoring app makes it easy to keep score and manage statistics for any team (Little League, Pony, Babe Ruth, Prep, High School, NJCAA, JUCO, NCAA, Adult)\n\n* Winner of \"Best in Show\" at 2010 American Baseball Coaches Association Convention (ABCA)\n\n* \"A no-brainer\" - Los Angeles Times\n\n* \342\200\234GameChanger is the call.\342\200\235 - NY Times\n\n* \342\200\234The GameChanger app is game changing\342\200\235 \342\200\223 CNBC Sports Business\n\n* \342\200\234A scoring app that is a game changer\342\200\235 - WTIC\n\n* Chosen partner of USA Baseball, Little League International, Cal Ripken Baseball, MaxPreps.com, Perfect Game USA, eteamz.com and East Cobb Baseball.\n \nPRODUCT OVERVIEW\n* Coaches and scorekeepers will save valuable time with extensive stat management tools, spray charts and pitch-by-pitch game recaps.\n* Fans can view live GameStream plays or stats and read game recap stories.\n \nONLINE RESOURCES\n* Learn more and get started at www.GameChanger.io.\n* FAQ and App User\'s Guide: www.GameChanger.io/help\n* Video Tutorials: www.GameChanger.io/help/tutorials\n \nGAMECHANGER APP FEATURES\n* Create your team, schedule, roster and lineup\n* Make easy roster edits and substitutions\n* Drag defensive players to location where ball is fielded\n* Drag and drop advancing runners\n* View live score, pitch counts and play-by-play recaps\n* Undo plays for in-game editing\n* Resume scoring a game with auto-save on every pitch\n* Digital scorebook\n \nWEB FEATURES (www.GameChanger.io)\n* Create teams, rosters and schedules for access on the app\n* View live play-by-play and game stats (\"GameStream\")\n* View post game box scores (basic and advanced)\n* View score book online.\n* 150+ stats including IP, H, R, ER, BB, SO, HR, ERA, total strikes, first pitch strikes, strike %, batters on or out in 3 pitches or less, AB, H, AVG, RBI, OBP, SLG, OPS, and 6-plus pitch at-bats (http://www.gamechanger.io/features/stat-list)\n* View dynamic spray charts for every ball put in play\n* Read and share auto-generated game recap stories\n \nGameChanger is designed by an entrepreneurial and customer-focused team at GameChanger Media, Inc.\n \nTestimonials:\n \n\342\200\234GameChanger is essential for any baseball program.  Do your program a favor\342\200\246become a Game Changer\342\200\235 \342\200\223 Marc L., High School Baseball Coach\n \n\342\200\234There is no better app for scorekeeping at any level.  I won\342\200\231t ever coach without it.\342\200\235 - Wilo C., Youth Baseball Coach\n \n\342\200\234Our families, like most, live very dynamic lives and it was Game Changer that brought them the game.  It truly is a \"Game Changer!\"- Dwight S., High School Coach\n \n\342\200\234I can\'t say enough good stuff about this program.\342\200\235 - Jill M., High School Softball Scorekeeper\n \n\342\200\234GameChanger is every coach\342\200\231s most useful in-game tool.\342\200\235 - Dan M, Youth Coach\n \n\342\200\234GameChanger absolutely made my life easier as a team manager.\342\200\235 Orlando D., Travel Team Manager & Scorekeeper\n \n\342\200\234GameChanger has provided a streamlined approach to tracking stats for our high school baseball program. Evaluating post-game stats is a quick 10-15 minute process.\342\200\235 - Joel S., High School Coach\n \n\342\200\234I instantly loved the ease of use.\342\200\235 - Kathy L., Tournament / League Administrator\n \n\342\200\234Game Changer scorekeeper has changed how we generate and use information.\342\200\235 - Darren F, College Coach\n   \n\342\200\234We utilize the spray charts. Game Changer has helped us win several games already!\342\200\235 - Jay H, Youth Baseball Coach\n\n\342\200\234Game Changer baseball and game changer softball software is the easiest scoring program out there. Stat tracking and score keeping is now painless. It\342\200\231s now simple to score baseball and score softball on your Android device\342\200\235 - Sean, CT Score keeper."
+    recentChanges: "2.8.1 fixes a number of crashes that were affecting scorekeepers\n\n2.8.0 includes several bug fixes.\n\n- Fixed error when editing team info\n- Fixed font rendering\n- Smoother performance scrolling through team lists\n- Fixed bug that blocked login after a practice game\n- Login / signup form usability"
+    promotionalVideo: "http://www.youtube.com/watch?v=1CwHAmQ8vCM"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"GameChanger Media\""
+  packageName: "io.gamechanger"
+  versionCode: 57
+}
+app {
+  id: "v2:com.startal.JeffGordon:1:2"
+  title: "Jeff Gordon\302\256 - OFFICIAL"
+  appType: APPLICATION
+  creator: "Startal, Inc."
+  version: "1.0.3"
+  rating: "5.0"
+  ratingsCount: 33
+  ExtendedInfo {
+    description: "The Jeff Gordon\302\256 App is the free official app of four-time NASCAR Cup Series Champion Jeff Gordon\302\256 and is a premier resource for fans to learn more about Jeff, stay connected to him 24/7 and receive first access to exclusive in-app content. \n\n- Get real-time news and updates from Jeff Gordon\302\256 exclusively through his official app.\n\n- Obtain exclusive Jeff Gordon\302\256 wallpapers to proudly display on your device.\n\n- Share important news and goods from the app with your friends and fans via email, SMS and on Facebook."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    installSize: 18187673
+    packageName: "com.startal.JeffGordon"
+    category: "Sports"
+    contactEmail: "support@startal.com"
+    downloadsCountText: "1,000-5,000"
+    contactPhone: "+13106862270"
+    contactWebsite: "http://www.startal.com/"
+    screenshotsCount: 4
+    promoText: "The official app of four-time NASCAR Cup Series Champion, Jeff Gordon\302\256."
+    19: 0
+    28: 1
+    34: 3
+    36: 3
+    37: "Medium Maturity"
+  }
+  creatorId: "\"Startal, Inc.\""
+  packageName: "com.startal.JeffGordon"
+  versionCode: 2
+}
+app {
+  id: "8444956925869761908"
+  title: "HIIT interval training timer"
+  appType: APPLICATION
+  creator: "Giorgio Regni"
+  version: "5.2 "
+  rating: "4.427163"
+  ratingsCount: 1826
+  ExtendedInfo {
+    description: "Stopwatch for interval cardio training.\n\nA great way to burn fat in a short & intense workout.\n\nChanges: allow music player in background, buzz volume control, remove ads with HIIT ad free! \n\nThanks for your feedback, vote on new features at our homepage!\n\nFor cycling, running, sprinting, weightlifting, circuits, tabata..."
+    downloadsCount: 0
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    installSize: 472865
+    packageName: "com.ihunda.android.hiit"
+    category: "Sports"
+    contactEmail: "hiit@ihunda.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://hiit.uservoice.com"
+    screenshotsCount: 2
+    promoText: "Tabata HIIT timer, cycling, running, sprinting, weightlifting, abs, aerobics..."
+    recentChanges: "New steps / podometer measure (BETA)"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Giorgio Regni\""
+  packageName: "com.ihunda.android.hiit"
+  versionCode: 52
+}
+app {
+  id: "v2:com.hudl.hudroid:1:10"
+  title: "Hudl"
+  appType: APPLICATION
+  creator: "Agile Sports"
+  version: "2.3"
+  rating: "4.4681106"
+  ratingsCount: 831
+  ExtendedInfo {
+    description: "Hudl lets sports coaches and athletes comfortably watch their team\'s video they\'ve published to Hudl.com\n\n* Watch your team\'s game, practice, and opponent scout video.\n* Browse your teams, schedules, and playlists. \n* Use breakdown data to filter and quickly find clips. \n* Swipe the screen slowly to control the video playback speed when in Download mode.\n\nThis app requires an account on Hudl.com. If you\'re a coach, athletic director, or booster, visit http://www.hudl.com/signup to sign up. Check with your coach for your login information if you\'re an athlete on a team that uses Hudl.\n\nAnyone can test drive Hudl by tapping \"Try the Demo\" on the Login screen within the app."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_LOGS"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 1220834
+    packageName: "com.hudl.hudroid"
+    category: "Sports"
+    contactEmail: "support@hudl.com"
+    downloadsCountText: "50,000-250,000"
+    contactPhone: "+14028170060"
+    contactWebsite: "http://www.hudl.com/"
+    screenshotsCount: 6
+    promoText: "Hudl lets sports coaches and athletes watch video they\'ve published to Hudl.com"
+    recentChanges: "Version 2.3\nBug fixes and performance enhancements.\n\nVersion 2.2.1 Bug fixes\nFixed an force close when users were logging out.\n\nVersion 2.2 New features\nUpdated the look and feel of the Hudl app to meet modern Android standards.\nFixed some common bugs.\nPerformance enhancements.\n\nVersion 2.1 New features\nFixes a crash when opening the library screen."
+    promotionalVideo: "http://www.youtube.com/watch?v=FA0a_AXqaAw"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"Agile Sports\""
+  packageName: "com.hudl.hudroid"
+  versionCode: 10
+}
+
+app {
+  id: "v2:zy.puzzle.jigsaw.app113.MMA:1:16"
+  title: "WWE Fight Game"
+  appType: APPLICATION
+  creator: "Makeup"
+  version: "1.6.3"
+  rating: "4.0735435"
+  ratingsCount: 1047
+  ExtendedInfo {
+    description: "FREE GAME! Popular and exciting game!\nThis is a wwe Fighter game, the game easy to difficult, very exciting. When you get into a difficult relationship, you try to hold down the portion of completed components move observation, can help you smooth clearance. I believe you will have fun!\nThe photo will be cut into 3x3-6x6 disarranged pieces. You must put all puzzle pieces at the correct position. You can press \342\200\234Hint\342\200\235 to check the whole photo the information. When you complete it, you can set the photo as your wallpaper and go to next game.\nWe love to hear how much you love Jigsaw Puzzles. Here\'s a few reviews from around the world from our great users.\nSPORTS GAME: \nDrag the pieces to the right place in order to recreate the picture !\nFriendly user interface,\nNew high score,\nShare with your friends,\nSet as your wallpaper,\nThe pictures are very beautiful,\nSupport for SD card storage.\nMore games are coming, if you have any feedback, please mail me, thanks and enjoy!\nAll our applications are free and ad supported. This explains the permissions. Thank you for understanding.\nkeyword\357\274\232wrestling game, free wrestling game,jigsaw puzzle game,super fight game ,wrestling puzzle game\357\274\214wwe\343\200\201mma\343\200\20113zone"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.SET_WALLPAPER"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    installSize: 7188184
+    packageName: "zy.puzzle.jigsaw.app113.MMA"
+    category: "Sports"
+    contactEmail: "freefo@sohu.com"
+    downloadsCountText: ">250,000"
+    screenshotsCount: 8
+    promoText: "FREE GAME! Popular and exciting game!\nThis is a wwe Fighter game, the game easy to difficult, very exciting. When you get into a difficult relationship, you try to hold down the portion of completed components move observation, can help you smooth clearance. I believe you will have fun!\nThe photo will be cut into 3x3-6x6 disarranged pieces. You must put all puzzle pieces at the correct position. You can press \342\200\234Hint\342\200\235 to check the whole photo the information. When you complete it, you can set the photo as your wallpaper and go to next game.\nWe love to hear how much you love Jigsaw Puzzles. Here\'s a few reviews from around the world from our great users.\nSPORTS GAME: \nDrag the pieces to the right place in order to recreate the picture !\nFriendly user interface,\nNew high score,\nShare with your friends,\nSet as your wallpaper,\nThe pictures are very beautiful,\nSupport for SD card storage.\nMore games are coming, if you have any feedback, please mail me, thanks and enjoy!\nAll our applications are free and ad supported. This explains the permissions. Thank you for understanding.\nkeyword\357\274\232wrestling game, free wrestling game,jigsaw puzzle game,super fight game ,wrestling puzzle game\357\274\214wwe\343\200\201mma\343\200\20113zone"
+    19: 0
+    28: 1
+    34: 3
+    36: 4
+    37: "High Maturity"
+  }
+  creatorId: "Makeup"
+  packageName: "zy.puzzle.jigsaw.app113.MMA"
+  versionCode: 16
+}
+app {
+  id: "v2:com.arequa.espn:1:5"
+  title: "ESPN Channel"
+  appType: APPLICATION
+  creator: "AreQua Mobile"
+  version: "5.0"
+  rating: "5.0"
+  ratingsCount: 5
+  ExtendedInfo {
+    description: "ESPN Channel your  App to enjoy the most successful sports networks  anywhere, anytime!\n\nESPN Channel includes access to the main sports and events, for instance: NFL, NBA, NHL, Soocer, Racing, Golf, Tennis, Boxing, MMA, Recruiting, Olympic Sports \342\200\246.\n\nDon\302\264t hesitate and Free Download this app focusing on sports-related programming including live and recorded event telecasts, sports talk shows, and other original programming. \n\nWith this APP you can enjoy the following features: \n\342\200\242\tWatch  the latest videos from your favorite sports from ESPN\n\342\200\242\tFind all the playlist in the main menu\n\342\200\242\tSelect the sport you want to follow \n\342\200\242\tCreate a list of favorite videos\n\342\200\242\tShare videos with your friends\n\342\200\242\tChoose an image and set it as wallpaper\n\342\200\242\tOrder by differents filters: last published, most viewed, more relevant, rating\342\200\246\n\342\200\242\tSee all the latest news from all the feeds related with ESPN"
+    downloadsCount: 0
+    permissionId: "android.permission.SET_WALLPAPER"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 908877
+    packageName: "com.arequa.espn"
+    category: "Sports"
+    contactEmail: "info@arequa.net"
+    downloadsCountText: "5,000-10,000"
+    contactWebsite: "http://www.arequa.net/"
+    screenshotsCount: 8
+    promoText: "ESPN Channel: Enjoy the most successful sports networks  anywhere, anytime!"
+    recentChanges: "Version 5.0:\n- Fixed bug with news.\n- Best User Interface.\n- Added new gallery of photography to share with your friends or set as wallpaper background."
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"AreQua Mobile\""
+  packageName: "com.arequa.espn"
+  versionCode: 5
+}
+app {
+  id: "v2:com.active.aps.meetmobile:1:15"
+  title: "Meet Mobile"
+  appType: APPLICATION
+  creator: "The ACTIVE Network, Inc."
+  version: "2.5.3.0003"
+  rating: "4.103896"
+  ratingsCount: 154
+  ExtendedInfo {
+    description: "Active Network\342\200\231s Meet Mobile supports the smallest swim meets to the largest national qualifying trials in the country, and provides easy, paper-free access to meet programs from all over the world, including heat sheets, psych sheets and real-time results.\n\nMeet Mobile transforms the swim meet experience for fans, swimmers, coaches and meet hosts alike:\n\n- FANS: Get real-time results for your favorite swimmers and teams, even if you\342\200\231re not at the meet.\n\n- SWIMMERS: Use Meet Mobile to check event timelines and heat and lane assignments so you don\342\200\231t have to chase down meet programs ever again.\n\n- COACHES: Use the app to keep track of when and where every swimmer needs to be.\n\n- SWIM CLUBS & MEET HOSTS: Focus on planning and running your meets, instead of handling paperwork.\n\nCAN\342\200\231T FIND YOUR MEET?\nTell the meet host to update to the latest version of HY-TEK\342\200\231s Meet Manager 4.0.\n\n\nFEATURES:\n\nFans:\n\342\200\242 Quickly find swim meets with robust search functions\n\342\200\242 Track swimmers and teams in real-time, even if you\342\200\231re not at the meet (and flag your \342\200\234Favorites\342\200\235 to easily find them again)\n\342\200\242 View real-time heat results along with cumulative and subtracted splits\n\342\200\242 View overall swimmer and relay rankings for each round of each event\n\342\200\242 Check real-time team scores\n\342\200\242 View records and time standards\n\nSwimmers:\n\342\200\242 View psych sheets prior to the meet or during an event\n\342\200\242 View heat sheets\n\342\200\242 View estimated event start times\n\342\200\242 View swimmer\342\200\231s list of entries, completed results and points scored\n\nCoaches:\n\342\200\242 View psych sheets prior to the meet or during an event\n\342\200\242 View each swimmer\'s results along with cumulative and subtracted splits\n\342\200\242 View relay results with swimmer names and splits by leg\n\342\200\242 View heat sheets by heat and by individual\n\342\200\242 View estimated timelines by event and individual\n\342\200\242 Check real-time team scores\n\342\200\242 View custom heat sheets and results filtered to show only your team members\n\nMeet Hosts:\n\342\200\242 Push out the event schedule and psych sheet information prior to the meet\n\342\200\242 Communicate heat sheet information without photocopies\n\342\200\242 Share estimated timelines for the start of each event\n\342\200\242 Get exposure within the app when people search for criteria that match your meet\n\342\200\242 Make fans, swimmers, and coaches happy by offering meet access from anywhere in the world, in real time\n\342\200\242 Set mobile pricing for heat sheets to create an additional revenue channel through heat sheet sales"
+    downloadsCount: 0
+    permissionId: "com.active.aps.meetmobile.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "android.permission.SEND_SMS"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 4796549
+    packageName: "com.active.aps.meetmobile"
+    category: "Sports"
+    contactEmail: "mobilesupport@activenetwork.com"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://www.active.com/mobile"
+    screenshotsCount: 5
+    promoText: "Get real-time access to heat and psych sheet info, and event results."
+    recentChanges: "New in 2.5.3:\n\342\200\242 Getting the app ready for forthcoming service evolutions"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"The ACTIVE Network, Inc.\""
+  packageName: "com.active.aps.meetmobile"
+  versionCode: 15
+}
+app {
+  id: "v2:com.televisa.deportes.android:1:10"
+  title: "Televisa Deportes"
+  appType: APPLICATION
+  creator: "Televisa"
+  version: "5.3"
+  rating: "3.8270915"
+  ratingsCount: 2857
+  ExtendedInfo {
+    description: "Televisa Deportes lets you to stay up to date with all results from the Mexican soccer league and give you in-game details of every action minute by minute"
+    downloadsCount: 0
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 9406373
+    packageName: "com.televisa.deportes.android"
+    category: "Sports"
+    contactEmail: "farid.delapena@esmas.net"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.televisa.com"
+    screenshotsCount: 8
+    promoText: "Televisa Deportes"
+    recentChanges: "Fix stability issues"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "Televisa"
+  packageName: "com.televisa.deportes.android"
+  versionCode: 10
+}
+app {
+  id: "v2:lebron.james.topstar.kings:1:1"
+  title: "Lebron James live wallpaper HD"
+  appType: APPLICATION
+  creator: "Best 3D Live Wallpaper"
+  version: "1.0"
+  rating: "4.51636"
+  ratingsCount: 978
+  ExtendedInfo {
+    description: "NBA Star Player & MVP: Lebron James of the big three HD live wallpaper. He is \"the King James\" from Miami Heat; he is one of the big three (With Dwyane Wade and Chris Bosh) and team leader; he is the MVP of NBA 2012 Championship Finals (against Oklahoma City Thunder)--He is Lebron James.\n\nThis is a HD live wallpaper designed for NBA and basketball sports fans. Get a super cool James Live wallpaper to decorate your home screen. James is the king and a genius star player at NBA. He has shown his talent and professional skills many times to all over the world. He is named as most talent player as michael jordan and kobe bryant. \n\nLeBron Raymone James is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). A 6 ft 8 in (2.03 m) small forward, he is an NBA champion, NBA Finals MVP, three-time NBA MVP, and NBA Rookie of the Year. One of Miami\'s co-captains, he is an eight-time NBA All-Star and has earned eight All-NBA honors and four All-Defensive honors.\n\nKeywords:\nKing, Lebron James, NBA, Miami Heat, Cleveland Cavaliers, Lakers, MVP, Championship, sport, LWP, HD, Kevin Durant, Paul Pierce, Westbrook, Williams, US basketball team,"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.READ_LOGS"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "com.android.launcher.permission.INSTALL_SHORTCUT"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 742241
+    packageName: "lebron.james.topstar.kings"
+    category: "Sports"
+    contactEmail: "tgbyhnujm23@gmail.com"
+    downloadsCountText: "50,000-250,000"
+    screenshotsCount: 5
+    promoText: "Free NBA Super Star Lebron James Live Wallpaper App!"
+    recentChanges: "Three kings-Lebron James HD Live wallpaper"
+    19: 0
+    21: 1
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Best 3D Live Wallpaper\""
+  packageName: "lebron.james.topstar.kings"
+  versionCode: 1
+}
+app {
+  id: "v2:com.golflogix.ui:1:32"
+  title: "GolfLogix #1 Free Golf GPS App"
+  appType: APPLICATION
+  creator: "GolfLogix Golf GPS"
+  version: "6.4"
+  rating: "3.7435257"
+  ratingsCount: 3205
+  ExtendedInfo {
+    description: "#1 Golf App Worldwide - 4 Years in a Row. \nFREE Golf GPS, 3D Courses, Scores & Stats.\nGolf Digest Personal Round Analysis/Lessons.\nExclusive Equipment Deals from Golfsmith.\nWith over 2 Million Members, join the World\342\200\231s Largest Golf Club for FREE!\n\nBattery Tip:  To save battery life, under App Settings set \"GPS Live on Auto-Lock\" to OFF and you will have no issues with battery life on the course.\n\nThe #1 Golf App includes the following for your Android:\n\n-\tFree Golf GPS on any course in the world.\n-\tFree yardage book 3D color course images.\n-\tFree 4-player scoring, stats and handicaps.\n-\tGolf GPS to Front, Back & Center of Greens.\n-\tDaily Pin Positions. \n-\tGolf GPS Targets to any point on the Course.\n-\tGolf GPS to all Layups and Hazards.\n-\tVideo Flyovers of every Hole.\n-\tMy Golf Digest personal Analysis/Lessons.  \n-\tGolf Digest Live videos and tips from Mickelson,\n        Harmon, Leadbetter and more.\n-\tGolfsmith Pro Shop with exclusive product offers.\n-\tPatented Club Tracking. \n\nThe GolfLogix Golf GPS App is proudly endorsed by 9-time PGA TOUR Winner and Masters Champion Zach Johnson.  \n\nSee why millions of golfers trust GolfLogix, the #1 Golf App and world leader in Golf GPS software since 1999. \n\nDownload GolfLogix, the #1 Golf App today!   It\342\200\231s EASY, FAST, FUN and best of all, it\342\200\231s FREE!"
+    downloadsCount: 0
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_SETTINGS"
+    permissionId: "android.permission.READ_CONTACTS"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.RECEIVE_BOOT_COMPLETED"
+    permissionId: "android.permission.SEND_SMS"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_CALL_LOG"
+    installSize: 8608171
+    packageName: "com.golflogix.ui"
+    category: "Sports"
+    contactEmail: "smartphone@golfgps.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.GolfLogix.com"
+    screenshotsCount: 5
+    promoText: "#1 Golf App Worldwide - 4 Years in a Row. \nFREE Golf GPS, 3D Courses, Scores & Stats.\nGolf Digest Personal Round Analysis/Lessons.\nExclusive Equipment Deals from Golfsmith.\nWith over 2 Million Members, join the World\342\200\231s Largest Golf Club for FREE!\n\nBattery Tip:  To save battery life, under App Settings set \"GPS Live on Auto-Lock\" to OFF and you will have no issues with battery life on the course.\n\nThe #1 Golf App includes the following for your Android:\n\n-\tFree Golf GPS on any course in the world.\n-\tFree yardage book 3D color course images.\n-\tFree 4-player scoring, stats and handicaps.\n-\tGolf GPS to Front, Back & Center of Greens.\n-\tDaily Pin Positions. \n-\tGolf GPS Targets to any point on the Course.\n-\tGolf GPS to all Layups and Hazards.\n-\tVideo Flyovers of every Hole.\n-\tMy Golf Digest personal Analysis/Lessons.  \n-\tGolf Digest Live videos and tips from Mickelson,\n        Harmon, Leadbetter and more.\n-\tGolfsmith Pro Shop with exclusive product offers.\n-\tPatented Club Tracking. \n\nThe GolfLogix Golf GPS App is proudly endorsed by 9-time PGA TOUR Winner and Masters Champion Zach Johnson.  \n\nSee why millions of golfers trust GolfLogix, the #1 Golf App and world leader in Golf GPS software since 1999. \n\nDownload GolfLogix, the #1 Golf App today!   It\342\200\231s EASY, FAST, FUN and best of all, it\342\200\231s FREE!"
+    recentChanges: "GolfLogix, the World\342\200\231s #1 Golf App is proud to introduce The Golfsmith Pro Shop!\n\nAll GolfLogix members get exclusive deals on golf products plus Champion members get free $20 to use in the Golfsmith Pro Shop\n\nBattery Tip:  To save battery life, under App Settings set \"GPS Live on Auto-Lock\" to OFF.  By doing this you should have no issues with battery life on the course."
+    promotionalVideo: "http://www.youtube.com/watch?v=SE3L04-6U4M"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"GolfLogix Golf GPS\""
+  packageName: "com.golflogix.ui"
+  versionCode: 32
+}
+app {
+  id: "v2:es.lfp.gi.main:1:411"
+  title: "Liga de Futbol Profesional"
+  appType: APPLICATION
+  creator: "Liga de F\303\272tbol Profesional"
+  version: "4.1.1"
+  rating: "4.1891227"
+  ratingsCount: 6895
+  ExtendedInfo {
+    description: "Official Spanish Professional Football League app - 2012-2013 season\nFeel the passion of the Spanish Teams, minute-by-minute, just for FREE\n\n- FIXTURES, CALENDAR, RESULTS, TABLES of the LIGA BBVA, LIGA ADELANTE, COPA DEL REY, CHAMPIONS LEAGUE y EUROPA LEAGUE\n- MINUTE-BY-MINUTE comments. Now you can also follow and comment on twitter\n- ALERTS: live alert service that allows you to receive notifications at the beginning, goals and end of every match\n- 3D GOALS: 3D reproduction of the matchday goals, some minutes after they happen\n- NEWS: breaking and official news of the LFP\n- Other competitions: Now in addition to the LIGA BBVA and LIGA ADELANTE, you can also follow the KING\342\200\231S CUP, CHAMPIONS LEAGUE and EUROPA LEAGUE\n- MY TEAM: customize the contents of the app to access quickly and easily to all matches and fixtures of your favorite team\n- QUINIELA 1X2: results and scrutiny \n- CLUB LIGA: Access to the largest football club in the world where you can enjoy exclusive benefits\n- And also, matchday pictures, teams, games, facebook, youtube, ...\n\nDownload it now and if you like it, vote and share\nFor further information:\nwww.lfp.es\nwww.facebook.com/lfpoficial\nwww.twitter.com/lfpnews"
+    downloadsCount: 0
+    permissionId: "es.lfp.gi.main.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.FORCE_BACK"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.android.vending.BILLING"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 10676786
+    packageName: "es.lfp.gi.main"
+    category: "Sports"
+    contactEmail: "ligamovil.lfp@gmail.com"
+    downloadsCountText: ">250,000"
+    contactWebsite: "http://www.lfp.es"
+    screenshotsCount: 5
+    promoText: "Official Spanish Professional Football League app - 2012-2013 season\nFeel the passion of the Spanish Teams, minute-by-minute, just for FREE\n\n- FIXTURES, CALENDAR, RESULTS, TABLES of the LIGA BBVA, LIGA ADELANTE, COPA DEL REY, CHAMPIONS LEAGUE y EUROPA LEAGUE\n- MINUTE-BY-MINUTE comments. Now you can also follow and comment on twitter\n- ALERTS: live alert service that allows you to receive notifications at the beginning, goals and end of every match\n- 3D GOALS: 3D reproduction of the matchday goals, some minutes after they happen\n- NEWS: breaking and official news of the LFP\n- Other competitions: Now in addition to the LIGA BBVA and LIGA ADELANTE, you can also follow the KING\342\200\231S CUP, CHAMPIONS LEAGUE and EUROPA LEAGUE\n- MY TEAM: customize the contents of the app to access quickly and easily to all matches and fixtures of your favorite team\n- QUINIELA 1X2: results and scrutiny \n- CLUB LIGA: Access to the largest football club in the world where you can enjoy exclusive benefits\n- And also, matchday pictures, teams, games, facebook, youtube, ...\n\nDownload it now and if you like it, vote and share\nFor further information:\nwww.lfp.es\nwww.facebook.com/lfpoficial\nwww.twitter.com/lfpnews"
+    recentChanges: "1. Now you can also follow and comment on twitter.\n2. Other competitions: Now in addition to the LIGA BBVA and LIGA ADELANTE, you can also follow the KING\342\200\231S CUP, CHAMPIONS LEAGUE and EUROPA LEAGUE.\n3. CLUB LIGA: Access to the largest football club in the world where you can enjoy exclusive benefits."
+    19: 1
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Liga de F\303\272tbol Profesional\""
+  packageName: "es.lfp.gi.main"
+  versionCode: 411
+}
+app {
+  id: "v2:com.b3connect.dmf.client.android.boston:1:8"
+  title: "Boston Bruins Official App"
+  appType: APPLICATION
+  creator: "B3Connect"
+  version: "2.0.0"
+  rating: "4.3103447"
+  ratingsCount: 377
+  ExtendedInfo {
+    description: "Stay connected year round with the Official Boston Bruins Mobile App.  Get up-to-the-second play-by-play and game stats with the all-new ice tracker, plus the latest Bruins news, video, and much more.  Download it now for free and keep up-to-date with everything Boston Bruins.\n \nIncluded in this app:\n- Live game updates with box scores, game stats and the all-new ice tracker\n- Custom Alerts and user controlled preferences\n- The latest Bruins news\n- Photo galleries from Bruins games and events around town\n- Video from bostonbruinsTV that brings you from the B\342\200\231s locker room to the ice\n- Bruins player bios, photos and updated stats\n- Conference/Division standings and out-of-town scores\n- Interactive game schedule, allowing you to buy Bruins tickets directly from your smartphone\n- Fantasy Five game where you can compete against other B\342\200\231s fans\n- Ability to incorporate your Twitter and Facebook accounts, allowing you to share content\n \nNew features are added periodically so make sure to keep your Official Bruins Mobile App updated through the App Store!"
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.GET_ACCOUNTS"
+    permissionId: "android.permission.SET_PREFERRED_APPLICATIONS"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.SET_WALLPAPER"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.b3connect.dmf.client.android.boston.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 7714711
+    packageName: "com.b3connect.dmf.client.android.boston"
+    category: "Sports"
+    contactEmail: "bruinsfeedback@b3connect.com"
+    downloadsCountText: "50,000-250,000"
+    contactPhone: "+17149402900"
+    contactWebsite: "http://b3connect.com"
+    screenshotsCount: 7
+    promoText: "Stay connected year round with the Official Boston Bruins Mobile App.  Get up-to-the-second play-by-play and game stats with the all-new ice tracker, plus the latest Bruins news, video, and much more.  Download it now for free and keep up-to-date with everything Boston Bruins.\n \nIncluded in this app:\n- Live game updates with box scores, game stats and the all-new ice tracker\n- Custom Alerts and user controlled preferences\n- The latest Bruins news\n- Photo galleries from Bruins games and events around town\n- Video from bostonbruinsTV that brings you from the B\342\200\231s locker room to the ice\n- Bruins player bios, photos and updated stats\n- Conference/Division standings and out-of-town scores\n- Interactive game schedule, allowing you to buy Bruins tickets directly from your smartphone\n- Fantasy Five game where you can compete against other B\342\200\231s fans\n- Ability to incorporate your Twitter and Facebook accounts, allowing you to share content\n \nNew features are added periodically so make sure to keep your Official Bruins Mobile App updated through the App Store!"
+    recentChanges: "- Sleek new design \n- Revised user interface and menu navigation for ease of use \n- Integration with Bruins Instagram photos \n- Access Bruins Twitter feed with one-tap connection to your personal account \n- TD Garden concourse map with concession listings and locations \n- Increased personal preference settings for in-game/team app alerts \n- Additional sounds and wallpapers \n- Improved social sharing \n- And more"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "B3Connect"
+  packageName: "com.b3connect.dmf.client.android.boston"
+  versionCode: 8
+}
+app {
+  id: "v2:com.yinzcam.PenguinsMobile:1:34"
+  title: "Pittsburgh Penguins Mobile"
+  appType: APPLICATION
+  creator: "YinzCam, Inc."
+  version: "2.3.0"
+  rating: "4.6760893"
+  ratingsCount: 2547
+  ExtendedInfo {
+    description: "This is the official Pittsburgh Penguins Mobile app. Make your Android phone a unique part of your game-day experience for Penguins games. Want to catch breaking news of the team? See real-time statistics? Watch video-on-demand clips of press conferences and player interviews? Follow post-game recaps and pre-game previews of the matchups? \n\nNow, you can stay in touch with the Penguins anytime, anywhere, on your Android phone. And, with one click, you can spread the word--tweet, or post to facebook, any media item from the app! \n\n\342\200\250\342\200\250In-arena-only features: \n[Turn Settings > Wireless & networks > Wi-Fi > On on your Android phone, and then connect to SSID PensMobile] \n\n- INSTANT REPLAYS: Replays of every goal, save, penalty, fight seen from multiple views, seconds after the action on the ice \n- MULTIPLE LIVE CAMERAS: Multiple live streaming camera angles covering different sightlines, such as the goalies, the bench, star players, and more \n- CLOSED CAPTIONING: Closed-captioning text simultaneously visible on the live video feed \n\nAnytime-anywhere features: \n[Over 3G or Wi-Fi] \n\n- NEWS: Real-time breaking news from the Pens, previews of upcoming matchups, recaps of previous games \n- MEDIA: News, photos, video-on-demand clips of press conferences and player interviews, audio podcasts, organized by date \n- HD RADIO: Live streaming 24x7x365 Penguins HD Radio \n- STATS: Real-time statistics and scores from the official NHL stats engine, head-to-head live stats of game, player stats, box scores \n- STANDINGS: Division and conference standings \n- ICE TRACKER: Real-time visualization of the ice rink, viewable by shots, penalties, goals and saves \n- SOCIAL MEDIA: Aggregated twitter of all of your favorite Pens tweeters \n- DIGITAL KEEPSAKE: Your game-time moment superimposed on the Consol Energy Center jumbotron in the form of a unique digital keepsake \n- SCHEDULE: Schedule of upcoming games, scores/stats of previous games, ticket purchases \n\nFollow us @yinzcam on Twitter for updates or to ask questions and provide feedback. \nDeveloped by YinzCam, Inc."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "com.yinzcam.PenguinsMobile.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 11073891
+    packageName: "com.yinzcam.PenguinsMobile"
+    category: "Sports"
+    contactEmail: "support@yinzcam.com"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://www.yinzcam.com"
+    screenshotsCount: 5
+    promoText: "Official Pittsburgh Penguins Mobile app. Stats, scores, video clips, twitter."
+    recentChanges: "2.3.0\n\n- new splash\n- PensPoints integration\n- support for game blog articles"
+    19: 0
+    28: 1
+    34: 3
+    36: 1
+    37: "Everyone"
+  }
+  creatorId: "\"YinzCam, Inc.\""
+  packageName: "com.yinzcam.PenguinsMobile"
+  versionCode: 34
+}
+app {
+  id: "v2:com.yinzcam.nfl.cowboys:1:6"
+  title: "Dallas Cowboys Mobile"
+  appType: APPLICATION
+  creator: "Dallas Cowboys"
+  version: "1.1.4"
+  rating: "4.8034234"
+  ratingsCount: 1811
+  ExtendedInfo {
+    description: "This is the official mobile app of the Dallas Cowboys. Make your Android device a unique part of your game-day experience for Cowboys games. Want to catch breaking news of the team? See real-time statistics for every drive? Watch live and video-on-demand clips of press conferences and player interviews? Follow post-game blogs and pre-game previews of the matchups?\nNow, you can stay in touch with the Cowboys anytime, anywhere, on your Android device. \n\n\342\200\250\342\200\250Features include:\n- News: Real-time breaking news from the Cowboys, previews of upcoming matchups, post-game blogs\n- Video: Live and video-on-demand clips of the Cowboys\' press conferences, coach and player interviews\n- Photos: Gallery of game-time action\n- Audio: Podcasts \n- Stats: Real-time statistics and scores from the official NFL stats engine, head-to-head stats of the matchup, player stats, drive-by-drive stats, box score, out-of-town scores around the league\n- Standings: Division and conference standings\n- Fantasy: Keep track of your favorite fantasy players\n- Depth chart: Shown by offense, defense and special teams\n- Social media: Aggregated twitter of the Cowboys\' official tweets, check in to the stadium on game-day, one-click tweet of all media items, one-click facebook posting of all media items\n- Schedule: Schedule of upcoming games, and scores/stats of previous games from the season, ticket purchase for games\n- Evolving home-screen: Pre-game, in-game, post-game, off-season countdown, draft-day\n\nFollow us @dallascowboys on Twitter for updates or visit www.dallascowboys.com.\nFollow us @yinzcam on Twitter for updates or to ask questions and provide feedback.\n\nNote about App Permissions:\n\nThe camera permission is necessary for the video board feature so that the app may open the camera to let you take a picture.  It is also necessary for the SnapTag reader feature.  The app does not access your camera or photos at any time without your direct knowledge."
+    downloadsCount: 0
+    permissionId: "android.permission.INTERNET"
+    permissionId: "android.permission.WRITE_EXTERNAL_STORAGE"
+    permissionId: "android.permission.CAMERA"
+    permissionId: "android.permission.GET_TASKS"
+    permissionId: "android.permission.ACCESS_NETWORK_STATE"
+    permissionId: "android.permission.ACCESS_COARSE_LOCATION"
+    permissionId: "android.permission.ACCESS_FINE_LOCATION"
+    permissionId: "android.permission.WAKE_LOCK"
+    permissionId: "com.yinzcam.nfl.cowboys.permission.C2D_MESSAGE"
+    permissionId: "com.google.android.c2dm.permission.RECEIVE"
+    permissionId: "android.permission.READ_PHONE_STATE"
+    permissionId: "android.permission.VIBRATE"
+    permissionId: "android.permission.ACCESS_WIFI_STATE"
+    permissionId: "android.permission.CHANGE_WIFI_STATE"
+    permissionId: "android.permission.READ_EXTERNAL_STORAGE"
+    installSize: 16379433
+    packageName: "com.yinzcam.nfl.cowboys"
+    category: "Sports"
+    contactEmail: "cowboys.support@yinzcam.com"
+    downloadsCountText: "50,000-250,000"
+    contactWebsite: "http://www.dallascowboys.com"
+    screenshotsCount: 5
+    promoText: "This is the official mobile app of the Dallas Cowboys. Make your Android device a unique part of your game-day experience for Cowboys games. Want to catch breaking news of the team? See real-time statistics for every drive? Watch live and video-on-demand clips of press conferences and player interviews? Follow post-game blogs and pre-game previews of the matchups?\nNow, you can stay in touch with the Cowboys anytime, anywhere, on your Android device. \n\n\342\200\250\342\200\250Features include:\n- News: Real-time breaking news from the Cowboys, previews of upcoming matchups, post-game blogs\n- Video: Live and video-on-demand clips of the Cowboys\' press conferences, coach and player interviews\n- Photos: Gallery of game-time action\n- Audio: Podcasts \n- Stats: Real-time statistics and scores from the official NFL stats engine, head-to-head stats of the matchup, player stats, drive-by-drive stats, box score, out-of-town scores around the league\n- Standings: Division and conference standings\n- Fantasy: Keep track of your favorite fantasy players\n- Depth chart: Shown by offense, defense and special teams\n- Social media: Aggregated twitter of the Cowboys\' official tweets, check in to the stadium on game-day, one-click tweet of all media items, one-click facebook posting of all media items\n- Schedule: Schedule of upcoming games, and scores/stats of previous games from the season, ticket purchase for games\n- Evolving home-screen: Pre-game, in-game, post-game, off-season countdown, draft-day\n\nFollow us @dallascowboys on Twitter for updates or visit www.dallascowboys.com.\nFollow us @yinzcam on Twitter for updates or to ask questions and provide feedback.\n\nNote about App Permissions:\n\nThe camera permission is necessary for the video board feature so that the app may open the camera to let you take a picture.  It is also necessary for the SnapTag reader feature.  The app does not access your camera or photos at any time without your direct knowledge."
+    recentChanges: "- v1.1.0\n- UI improvements\n- Bug fixes\n\n- v1.1.1\n- Home screen button bug fix\n- Scores feature bug fix\n\n- v1.1.3\n- Maps & Directions feature - wayfinding in Cowboys Stadium\n- bug fixes\n\n-v1.1.2\n- Radio moved to home screen titlebar (appears at game time)\n- improved SnapTag functionality\n- game day info page added in Fan Zone\n- bug fixes"
+    19: 0
+    28: 1
+    34: 3
+    36: 2
+    37: "Low Maturity"
+  }
+  creatorId: "\"Dallas Cowboys\""
+  packageName: "com.yinzcam.nfl.cowboys"
+  versionCode: 6
+}
+
