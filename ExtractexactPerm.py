@@ -7,6 +7,7 @@
 
 
 import os,time
+import json
 
 class Depack:
   def __init__(self,sourcepath):
@@ -137,11 +138,11 @@ class Depack:
 				#print count
 
 
-    #print json.dumps(maindict)
-    for (k,v) in maindict.iteritems():
-    	print k + ":" 
-    	print v
-    print count
+    print json.dumps(maindict)
+    #for (k,v) in maindict.iteritems():
+    	#print k + ":"
+        #print v
+    #print count
 
 
 if __name__=="__main__":
