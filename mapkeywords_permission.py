@@ -15,7 +15,7 @@ class Map:
     kwcount=0
     maindict={}
 #the times a key word found
-    threshold=8
+    threshold=20
 
     for (k,v) in keyworddict.iteritems():
 	for elem in v:
@@ -59,23 +59,40 @@ class Map:
     permlist=[]
     permcount=0
     maindict={}
+    pmdict={}
+
+#the times a key word found
+    threshold=20
+
     for (k,v) in permissiondict.iteritems():
 	for elem in v:
-		if elem not in permlist:
-			permlist.append(elem)
-			permcount=permcount+1
+		if elem not in pmdict:
+			pmdict[elem]=1
+		if elem in pmdict:
+			pmdict[elem]=pmdict[elem]+1
+
+
+    for pmkey in pmdict:
+	if pmdict[pmkey]>threshold:
+		permlist.append(pmkey)
+		permcount=permcount+1
+    #for (k,v) in permissiondict.iteritems():
+	#for elem in v:
+	#	if elem not in permlist:
+	#		permlist.append(elem)
+	#		permcount=permcount+1
     #''print permcount
 
     for elem in permlist:
 
-        totalthisperm=0
+        #totalthisperm=0
 	keywordmap={}
 	orderedlist=[]	
 
 	for (k,v) in permissiondict.iteritems():
 		for perm in v:
 			if perm==elem:
-				totalthisperm=totalthisperm+1
+				#totalthisperm=totalthisperm+1
 				thiskeywords=keyworddict[k]
 				for kw in thiskeywords:
 					if kw not in keywordmap:
@@ -84,7 +101,8 @@ class Map:
 						keywordmap[kw]=keywordmap[kw]+1
 
 	for kkey in keywordmap:
-		keywordmap[kkey]= (keywordmap[kkey]*100.0)/totalthisperm
+		#keywordmap[kkey]= (keywordmap[kkey]*100.0)/totalthisperm
+		keywordmap[kkey]= (keywordmap[kkey]*100.0)/pmdict[elem]
 
 	orderedlist=sorted(keywordmap.iteritems(), key=lambda d:d[1], reverse=True)
 	maindict[elem]=orderedlist
@@ -97,6 +115,7 @@ class Map:
 
   def getkeyword(self,sourcepath, permissiondict):
     file_object=open(sourcepath)
+    count=0
 
     try:
     	alllines = file_object.readlines()
@@ -105,7 +124,7 @@ class Map:
 	keywords=[]
 	for line in alllines:
 		line=line.strip()
-		if line.find('.apk')==(len(line)-4):
+		if line.find('.apk')>0:#==(len(line)-4):
 			apkname=line
 			continue
 		if len(line)==0:
@@ -113,14 +132,20 @@ class Map:
 				maindict[apkname]=keywords
 			keywords=[]
 			apkname=''
+			count=count+1
 			continue
 		keywords.append(line)
     finally:
         file_object.close()
 	kwdict={}
+	#print 'In Jon\'s but not Zhengyang'
 	for kkey in maindict:
 		if kkey in permissiondict:
 			kwdict[kkey]=maindict[kkey]
+#test
+		#if kkey not in permissiondict:
+			#print kkey
+	#print count
     	return kwdict
 
 
@@ -244,6 +269,7 @@ class Map:
 					if (elem in underpermissions) or (elem in origpermissions):
 						finalpermissions.append(elem)
 				if appname not in maindict:
+					#appname=appname.lower()
 					maindict[appname]=finalpermissions
 					count=count+1
 
@@ -253,19 +279,14 @@ class Map:
 if __name__=="__main__":
   result=Map()
   permissiondict=result.getperm("/home/zyqu/res/")
-  keyworddict=result.getkeyword("/home/zyqu/Research/Android_sec/parsexml/semant/fulloutput.txt", permissiondict)
+  keyworddict=result.getkeyword("/home/zyqu/Research/Android_sec/parsexml/semant/fullopt", permissiondict)
   intersectpermissiondict={}
+  #print 'In Zhengyang\'s but not Jon\'s'
   for elem in permissiondict:
   	if elem in keyworddict:
 		intersectpermissiondict[elem]=permissiondict[elem]
-
-  #for k in keyworddict:
-#	print k
-#	for v in keyworddict[k]:
-#		print v
-  #print len(intersectpermissiondict)
-  #print len(keyworddict)
-
+	#if elem not in keyworddict:
+		#print elem
 
   kwfreq=result.getkeywordfrequency(keyworddict,intersectpermissiondict)
   pmfreq=result.getpermissionfrequency(keyworddict,intersectpermissiondict)
@@ -284,6 +305,11 @@ if __name__=="__main__":
 	for v in pmfreq[k]:
 		print v
 	print '\n',
+
+  #print len(keyworddict)
+  #print len(permissiondict)
+  #print len(intersectpermissiondict)
+  
 
 
 
