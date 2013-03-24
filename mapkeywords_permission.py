@@ -11,6 +11,156 @@ class Map:
   def __init__(self):
     pass
 
+  def getcombokwfreq(self,keyworddict,permissiondict):
+    permlist=[]
+    maindict={}
+    pmdict={}
+
+#the times a permission found
+    threshold=5
+
+    for (k,v) in permissiondict.iteritems():
+	for elem in v:
+		if elem not in pmdict:
+			pmdict[elem]=1
+		elif elem in pmdict:
+			pmdict[elem]=pmdict[elem]+1
+
+
+    for pmkey in pmdict:
+	if pmdict[pmkey]>threshold:
+		permlist.append(pmkey)
+
+
+    loopall=len(permlist)
+    loopcount=1
+    for elem in permlist:
+	print 'Loop: %s'%loopcount+'/%s'%loopall
+	loopcount=loopcount+1
+	kwlist=[]
+	totalcount=0
+	kwmap={}
+	orderedlist=[]
+	for apkname in permissiondict:
+		if elem in permissiondict[apkname]:
+			totalcount=totalcount+1
+			for eachkw in keyworddict[apkname]:
+				if eachkw not in kwlist:
+					kwlist.append(eachkw)
+
+        n=len(kwlist)
+        iterations=reduce(mul, range(1,n+1))/2/reduce(mul, range(1,n-2+1))
+	
+        print 'Number of iterations: %s'%iterations
+
+	for i in range(len(kwlist)-1):
+		for j in range(i+1,len(kwlist)):
+			targetkw1=kwlist[i]
+			targetkw2=kwlist[j]
+			for keyapk in permissiondict:
+				if elem in permissiondict[keyapk]:
+					if (targetkw1 in keyworddict[keyapk]) and (targetkw2 in keyworddict[keyapk]):
+						if ((targetkw1+', '+targetkw2) not in kwmap):
+							kwmap[targetkw1+', '+targetkw2]=1
+						elif ((targetkw1+', '+targetkw2) in kwmap):
+							kwmap[targetkw1+', '+targetkw2]=kwmap[targetkw1+', '+targetkw2]+1
+
+
+	for kperm in kwmap:
+		kwmap[kperm]=(kwmap[kperm]*100.0)/totalcount
+
+	orderedlist=sorted(kwmap.iteritems(), key=lambda d:d[1], reverse=True)
+	maindict[elem]=orderedlist
+						
+    file_op1=open('combokwFREQ.txt','w')
+    try:
+	for k in maindict:
+		file_op1.write(k)
+		file_op1.write('\n')
+		for v in maindict[k]:
+			file_op1.write(v)
+			file_op1.write('\n')
+		file_op1.write('\n')
+
+    except:
+	print "Errors in writing file combokwFREQ.txt"
+    finally:
+	file_op1.close()
+
+
+
+  def getcombopermfreq(self,keyworddict,permissiondict):
+
+    threshold=1
+    combothreshold=2
+    kwdict={}
+    maindict={}
+
+    for (k,v) in keyworddict.iteritems():
+	for elem in v:
+		if elem not in kwdict:
+			kwdict[elem]=1
+		elif elem in kwdict:
+			kwdict[elem]=kwdict[elem]+1
+
+    kwlist=[]
+    for kkey in kwdict:
+	if kwdict[kkey]>threshold:
+		kwlist.append(kkey)
+
+    n=len(kwlist)
+    loopall=reduce(mul, range(1,n+1))/2/reduce(mul, range(1,n-2+1))
+    loopcount=1
+    file_op2=open('combopermissionFREQ.txt','w')
+    try:
+    	for i in range(len(kwlist)-1):
+		for j in range(i+1,len(kwlist)):
+	        	print 'Loop: %s'%loopcount+'/%s'%loopall
+			loopcount=loopcount+1	
+			targetkw1=kwlist[i]
+			targetkw2=kwlist[j]
+			permissionmap={}
+			orderedlist=[]
+			totalcount=0
+			for targetapp in keyworddict:
+				if (targetkw1 in keyworddict[targetapp]) and (targetkw2 in keyworddict[targetapp]):
+					totalcount=totalcount+1
+					for pm in permissiondict[targetapp]:
+						if pm not in permissionmap:
+							permissionmap[pm]=1
+						elif pm in permissionmap:
+							temp=permissionmap[pm]
+							permissionmap[pm]=temp+1
+
+			if totalcount >= combothreshold:
+				for kperm in permissionmap:
+					tempcoun=permissionmap[kperm]
+					permissionmap[kperm]=(permissionmap[kperm]*100.0)/totalcount
+					if permissionmap[kperm] > 100:
+						print 'XXXXXXXXXXXXXXXX Error! XXXXXXXXXXXXXXXXXX'
+						print permissionmap[kperm]
+						print tempcoun
+						print totalcount
+
+				orderedlist=sorted(permissionmap.iteritems(), key=lambda d:d[1], reverse=True)
+				maindict[targetkw1+', '+targetkw2]=orderedlist
+				file_op2.write(targetkw1+', '+targetkw2)
+				file_op2.write('\n')
+				for v in orderedlist:
+					file_op2.write(v[0])
+					file_op2.write(', ')
+					file_op2.write('%s'%v[1])
+					file_op2.write('\n')
+				file_op2.write('\n')
+				file_op2.flush()
+			
+    except:
+    	print "Errors in writing file combopermissionFREQ.txt"
+
+    finally:
+    	file_op2.close()
+    #return maindict
+						
 
   def combovariation(self,keyworddict,permissiondict):
     permorder=1
@@ -36,20 +186,20 @@ class Map:
     finally:
 	file_op1.close()
 
-    threshold=2
+    threshold=1
     kwdict={}
     for (k,v) in keyworddict.iteritems():
 	for elem in v:
 		if elem not in kwdict:
 			kwdict[elem]=1
-		if elem in kwdict:
+		elif elem in kwdict:
 			kwdict[elem]=kwdict[elem]+1
 
     kwlist=[]
     for kkey in kwdict:
 	if kwdict[kkey]>threshold:
 		kwlist.append(kkey)
-    #rangprint 'How many keywords?\n%s'%len(kwlist)
+    print 'How many keywords?\n%s'%len(kwlist)
 
     file_op2=open('combokwmatchperms.txt',"w")
     file_op3=open('combokwstep.txt',"w")
@@ -132,13 +282,13 @@ class Map:
     finally:
 	file_op1.close()
 
-    threshold=0
+    threshold=1
     kwdict={}
     for (k,v) in keyworddict.iteritems():
 	for elem in v:
 		if elem not in kwdict:
 			kwdict[elem]=1
-		if elem in kwdict:
+		elif elem in kwdict:
 			kwdict[elem]=kwdict[elem]+1
 
     kwlist=[]
@@ -179,15 +329,83 @@ class Map:
 	file_op4.close()
 
 
+  def combochisquare(self,keyworddict,permissiondict):
+    permlist=[]
+    maindict={}
+    pmdict={}
+#the times a permission found
+    threshold=5
+
+    for (k,v) in permissiondict.iteritems():
+	for elem in v:
+		if elem not in pmdict:
+			pmdict[elem]=1
+		elif elem in pmdict:
+			pmdict[elem]=pmdict[elem]+1
+
+    for pmkey in pmdict:
+	if pmdict[pmkey]>threshold:
+		permlist.append(pmkey)    
+
+    loopall=len(permlist)
+    loopcount=1
+    for elem in permlist:
+	print 'Loop: %s'%loopcount+'/%s'%loopall
+	chisqlist=[]
+	loopcount=loopcount+1
+	kwlist=[]
+	kwmap={}
+	for apkname in permissiondict:
+		if elem in permissiondict[apkname]:
+			for eachkw in keyworddict[apkname]:
+				if eachkw not in kwlist:
+					kwlist.append(eachkw)
+
+        n=len(kwlist)
+        iterations=reduce(mul, range(1,n+1))/2/reduce(mul, range(1,n-2+1))
+        print 'Number of iterations: %s'%iterations
+
+	for i in range(len(kwlist)-1):
+		for j in range(i+1,len(kwlist)):
+			targetkw1=kwlist[i]
+			targetkw2=kwlist[j]
+			a=0
+			b=0
+			c=0	
+			d=0
+			for targetapk in permissiondict:
+				if (elem in permissiondict[targetapk]) and ((targetkw1 in keyworddict[targetapk]) and (targetkw2 in keyworddict[targetapk])):
+					a=a+1
+					continue
+				if (elem in permissiondict[targetapk]) and ((targetkw1 not in keyworddict[targetapk]) or (targetkw2 not in keyworddict[targetapk])):
+					b=b+1
+					continue
+				if (elem not in permissiondict[targetapk]) and ((targetkw1 in keyworddict[targetapk]) and (targetkw2 in keyworddict[targetapk])):
+					c=c+1
+					continue
+				if (elem not in permissiondict[targetapk]) and ((targetkw1 not in keyworddict[targetapk]) or (targetkw2 not in keyworddict[targetapk])):
+					d=d+1
+					continue
+
+			if (a+b+c+d)>40:
+				chisq=(a+b+c+d)* (abs(a*d-b*c)-0.5*(a+b+c+d)) * (abs(a*d-b*c)-0.5*(a+b+c+d)) *1.0/(a+b)/(c+d)/(b+d)/(a+c)
+			if (a+b+c+d)<=40:
+				chisq=(a+b+c+d)*(a*d-b*c)*(a*d-b*c)*1.0/(a+b)/(c+d)/(b+d)/(a+c)
+			chisqlist.append(chisq)
+	maindict[elem]=chisqlist
+
+    return maindict
+
   def chisquare(self,keyworddict,permissiondict):
     threshold=0
+    chisqthres=6.635
     pmdict={}
     permlist=[]  
     for (k,v) in permissiondict.iteritems():
 	for elem in v:
 		if elem not in pmdict:
 			pmdict[elem]=1
-		if elem in pmdict:
+		elif elem in pmdict:
 			pmdict[elem]=pmdict[elem]+1
     for pmkey in pmdict:
 	if pmdict[pmkey]>threshold:
@@ -196,6 +414,7 @@ class Map:
     permkeydict={}   
 
     for elem in permlist:
+	
 	permkeylist=[]
 	keywordmap={}
 	for (k,v) in permissiondict.iteritems():
@@ -205,7 +424,7 @@ class Map:
 				for kw in thiskeywords:
 					if kw not in keywordmap:
 						keywordmap[kw]=1
-					if kw in keywordmap:
+					elif kw in keywordmap:
 						keywordmap[kw]=keywordmap[kw]+1
 	for kw in keywordmap:
 		permkeylist.append(kw)
@@ -215,14 +434,20 @@ class Map:
     maindict={}
     print 'Ready to Go!'
     loopcount=1
+
+    chisqkw=open('chisqkeywordres.txt',"w")
+
+
     for (targetperm,v) in permkeydict.iteritems():
 	print 'Loop: %s'%loopcount+'/%s'%len(permkeydict)
 	loopcount=loopcount+1
         chisqlist=[]
 	print 'Number of keywords: %s'%len(v)
+
+	chisqkw.write(targetperm)
+	chisqkw.write('\n')
+
 	for targetkw in v:
-		#if loopcount==6:
-			#print targetkw
 		a=0
 		b=0
 		c=0
@@ -240,14 +465,23 @@ class Map:
 			if ((targetperm not in permissiondict[apkname]) and (targetkw not in keyworddict[apkname])):
 				d=d+1
 				continue
-		#print 'before devision'
 		if (a+b+c+d)>40:
 			chisq=(a+b+c+d)* (abs(a*d-b*c)-0.5*(a+b+c+d)) * (abs(a*d-b*c)-0.5*(a+b+c+d)) *1.0/(a+b)/(c+d)/(b+d)/(a+c)
 		if (a+b+c+d)<=40:
 			chisq=(a+b+c+d)*(a*d-b*c)*(a*d-b*c)*1.0/(a+b)/(c+d)/(b+d)/(a+c)
-		#print 'after devision'
+
 		chisqlist.append(chisq)
-	maindict[targetperm]=chisqlist		
+
+		if chisq>chisqthres:
+			chisqkw.write(targetkw+', a=%s'%a+', b=%s'%b+', c=%s'%c+', d=%s'%d)
+			chisqkw.write('\n')
+
+	chisqkw.write('\n')
+	chisqkw.flush()
+	maindict[targetperm]=chisqlist
+
+
+    chisqkw.close()		
     return maindict		
 		
   def getpermissionfrequency(self,keyworddict,permissiondict):
@@ -261,7 +495,7 @@ class Map:
 	for elem in v:
 		if elem not in kwdict:
 			kwdict[elem]=1
-		if elem in kwdict:
+		elif elem in kwdict:
 			kwdict[elem]=kwdict[elem]+1
 
     kwlist=[]
@@ -283,7 +517,7 @@ class Map:
 				for pm in thispermisions:
 					if pm not in permissionmap:
 						permissionmap[pm]=1
-					if pm in permissionmap:
+					elif pm in permissionmap:
 						permissionmap[pm]=permissionmap[pm]+1
 
 	for kperm in permissionmap:
@@ -308,7 +542,7 @@ class Map:
 	for elem in v:
 		if elem not in pmdict:
 			pmdict[elem]=1
-		if elem in pmdict:
+		elif elem in pmdict:
 			pmdict[elem]=pmdict[elem]+1
 
 
@@ -316,12 +550,7 @@ class Map:
 	if pmdict[pmkey]>threshold:
 		permlist.append(pmkey)
 		permcount=permcount+1
-    #for (k,v) in permissiondict.iteritems():
-	#for elem in v:
-	#	if elem not in permlist:
-	#		permlist.append(elem)
-	#		permcount=permcount+1
-    #''print permcount
+
 
     for elem in permlist:
 
@@ -336,7 +565,7 @@ class Map:
 				for kw in thiskeywords:
 					if kw not in keywordmap:
 						keywordmap[kw]=1
-					if kw in keywordmap:
+					elif kw in keywordmap:
 						keywordmap[kw]=keywordmap[kw]+1
 
 	for kkey in keywordmap:
@@ -534,16 +763,52 @@ if __name__=="__main__":
   	if elem in keyworddict:
 		intersectpermissiondict[elem]=permissiondict[elem]
 
+  #result.getcombopermfreq(keyworddict,intersectpermissiondict)
 
-  result.combovariation(keyworddict,intersectpermissiondict)
- 
+
+
+
+
+
+  #result.combovariation(keyworddict,intersectpermissiondict)
+  #result.getcombokwfreq(keyworddict,intersectpermissiondict)
+  #combochisqv=result.combochisquare(keyworddict,intersectpermissiondict)
+  #file_output=open("/home/zyqu/Research/Android_sec/parsexml/semant/combogenchisqres.txt","w")
+  #try:
+  #	for (k,v) in combochisqv.iteritems():
+#		file_output.write(k)
+#		file_output.write('|||||')
+#		for chival in v:
+#			outstr = "%s"%chival+', '
+#			file_output.write(outstr)
+#		file_output.write('\n\n')
+#  finally:
+#	file_output.close() 
+
+#  file_op1=open("/home/zyqu/Research/Android_sec/parsexml/semant/combogenchisqpermindex.txt","w")
+#  file_op2=open("/home/zyqu/Research/Android_sec/parsexml/semant/combogensqvals.txt","w")
+#  try:
+#  	for (k,v) in combochisqv.iteritems():
+#		file_op1.write(k)
+#		file_op1.write('\n')
+#		for sqval in v:
+#			outstr = "%s"%sqval+'	'
+#			file_op2.write(outstr)
+#		file_op2.write('\n')
+#  except:
+#	print 'Errors on writing to the files: combogenchisqpermindex.txt and combogensqvals.txt'					
+#  finally:
+#	file_op1.close() 
+#	file_op2.close()
+
+
   #result.variation(keyworddict,intersectpermissiondict)
 
   #print len(keyworddict)
   #print len(permissiondict)
   #print len(intersectpermissiondict)
 
-  #chisqv=result.chisquare(keyworddict,intersectpermissiondict)
+  chisqv=result.chisquare(keyworddict,intersectpermissiondict)
   #file_output=open("/home/zyqu/Research/Android_sec/parsexml/semant/genchisqres.txt","w")
   #try:
   	#for (k,v) in chisqv.iteritems():
