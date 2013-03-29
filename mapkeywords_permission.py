@@ -6,6 +6,9 @@
 
 import os, json
 from operator import mul
+import nltk
+from nltk.stem.wordnet import WordNetLemmatizer
+
 
 class Map:
   def __init__(self):
@@ -591,24 +594,86 @@ class Map:
 			apkname=line
 			continue
 		if len(line)==0:
-			if len(apkname)>0 and (apkname not in maindict):
+			if len(apkname)>0 and (apkname not in maindict) and len(keywords)>0:
 				maindict[apkname]=keywords
 				count=count+1
 			keywords=[]
 			apkname=''
 			continue
-		keywords.append(line)
+		keywords.append(line.lower())
     finally:
         file_object.close()
 	kwdict={}
 	for kkey in maindict:
 		if kkey in permissiondict:
 			kwdict[kkey]=maindict[kkey]
-#test
-		#if kkey not in permissiondict:
-			#print kkey
-	#print count
+	#print kwdict
     	return kwdict
+
+
+  def keywordrefine(self,keyworddict):
+
+
+    from nltk.stem.wordnet import WordNetLemmatizer
+    lmtzr = WordNetLemmatizer()
+    kwdict={}
+    threshold=1
+
+    for (k,v) in keyworddict.iteritems():
+	for elem in v:
+		if elem not in kwdict:
+			kwdict[elem]=1
+		elif elem in kwdict:
+			kwdict[elem]=kwdict[elem]+1
+
+    kwlist=[]
+    for kkey in kwdict:
+	if kwdict[kkey]>threshold:
+		kwlist.append(kkey)
+
+	
+    maindict={}
+    for apkname in keyworddict:
+	#print apkname
+	refinedkwlist=[]
+	for targetkw in keyworddict[apkname]:
+		if (targetkw not in kwlist) or (not targetkw.isalnum()):
+			continue
+		#flag=False
+		#for char in targetkw:
+			#flag=flag or char.isalnum()
+		#if flag==False:
+			#continue
+
+		elif targetkw in kwlist:
+			targetkw=targetkw.strip()
+			#print targetkw
+			while not targetkw[len(targetkw)-1].isalnum():
+				targetkw=targetkw[:len(targetkw)-1]
+
+			targetkw=lmtzr.lemmatize(targetkw)
+			targetkw=targetkw.replace('apps','app')
+			if targetkw not in refinedkwlist:
+				refinedkwlist.append(targetkw)
+
+	if len(refinedkwlist)>0:
+		maindict[apkname]=refinedkwlist
+    file_op=open('refinedkws','w')
+    try:
+	for key in maindict:
+		file_op.write(key)
+		file_op.write('\n')
+		for elem in maindict[key]:
+			file_op.write(elem)
+			file_op.write('\n')
+		file_op.write('\n')
+    except: 
+	print "Errors in writing refinedkws"
+    finally:
+	file_op.close()
+
+    return maindict
+			
 
 
   def getperm(self,sourcepath): 
@@ -753,23 +818,100 @@ class Map:
 
     return maindict
 
+
+
+  def getcate(self, path): 
+    catedict={
+		"BOOKS_AND_REFERENCE": 1, 
+		"BUSINESS" : 2, 
+		"COMICS": 3,
+		"COMMUNICATION" : 4,
+		"EDUCATION" : 5, 
+		"ENTERTAINMENT" : 6, 
+		"FINANCE" : 7,
+        	"HEALTH_AND_FITNESS" : 8, 
+		"LIBRARIES_AND_DEMO" : 9, 
+		"LIFESTYLE" : 10, 
+		"APP_WALLPAPER" : 11, 
+		"MEDIA_AND_VIDEO" : 12, 
+		"MEDICAL" : 13,
+	        "MUSIC_AND_AUDIO" : 14, 
+		"NEWS_AND_MAGAZINES" : 15, 
+		"PERSONALIZATION" : 16, 
+		"PHOTOGRAPHY" : 17, 
+		"PRODUCTIVITY" : 18, 
+		"SHOPPING" : 19, 
+		"SOCIAL" : 20,
+	        "SPORTS" : 21, 
+		"TOOLS" : 22, 
+		"TRANSPORTATION" : 23, 
+		"TRAVEL_AND_LOCAL" : 24, 
+		"WEATHER" : 25, 
+		"APP_WIDGETS" : 26, 
+		"ARCADE" : 27, 
+		"BRAIN" : 28, 
+		"CARDS" : 29,
+	        "CASUAL": 30, 
+		"GAME_WALLPAPER" : 31, 
+		"RACING" : 32, 
+		"SPORTS_GAMES" : 33, 
+		"GAME_WIDGETS": 34}	
+	
+    maindict = {}
+    list_dirs = os.walk(path) 
+    packagenamenum=0
+    catenum=0
+    package=''
+    category=''
+
+    for root, dirs, files in list_dirs: 
+    	for f in files:
+    		filepath=os.path.join(root, f)
+    		if filepath.find("meta")>=0:
+    			file_object=open(filepath)
+    			try:
+   				alllines = file_object.readlines()
+    				for line in alllines:
+					line=line.strip()
+					if line.find("packageName:")>=0: 
+						line = line[len("packageName:\"")+1: ]
+						package = line[: len(line)-1]
+						if package not in maindict:
+							packagenamenum=packagenamenum+1
+							category=filepath[filepath.find('meta_')+len('meta_'):filepath.find('.txt')]
+							maindict[package]=catedict[category]
+							continue
+						
+
+
+			finally:
+				file_object.close()
+   
+    #for k in maindict:
+	#print k+'.apk, %s'%maindict[k]
+    return maindict
+
 if __name__=="__main__":
   result=Map()
   permissiondict=result.getperm("/home/zyqu/res/")
-  keyworddict=result.getkeyword("/home/zyqu/Research/Android_sec/parsexml/semant/fullopt", permissiondict)
-  #keyworddict=result.getkeyword("/home/zyqu/Research/Android_sec/parsexml/semant/catigorizations.txt", permissiondict)
+  catedict=result.getcate("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
+  keyworddict=result.getkeyword("/home/zyqu/Research/Android_sec/parsexml/semant/kwdictiionary.txt", permissiondict)
+
+  #keyworddict=result.keywordrefine(keyworddict)
+
   intersectpermissiondict={}
   for elem in permissiondict:
   	if elem in keyworddict:
 		intersectpermissiondict[elem]=permissiondict[elem]
 
+
+
+  
+  #print len(permissiondict)
+  #print len(keyworddict)
+  #print len(intersectpermissiondict)
+
   #result.getcombopermfreq(keyworddict,intersectpermissiondict)
-
-
-
-
-
-
   #result.combovariation(keyworddict,intersectpermissiondict)
   #result.getcombokwfreq(keyworddict,intersectpermissiondict)
   #combochisqv=result.combochisquare(keyworddict,intersectpermissiondict)
@@ -808,7 +950,7 @@ if __name__=="__main__":
   #print len(permissiondict)
   #print len(intersectpermissiondict)
 
-  chisqv=result.chisquare(keyworddict,intersectpermissiondict)
+  #chisqv=result.chisquare(keyworddict,intersectpermissiondict)
   #file_output=open("/home/zyqu/Research/Android_sec/parsexml/semant/genchisqres.txt","w")
   #try:
   	#for (k,v) in chisqv.iteritems():
