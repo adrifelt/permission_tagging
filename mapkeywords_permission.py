@@ -859,15 +859,14 @@ class Map:
 	
     maindict = {}
     list_dirs = os.walk(path) 
-    packagenamenum=0
-    catenum=0
     package=''
     category=''
+
 
     for root, dirs, files in list_dirs: 
     	for f in files:
     		filepath=os.path.join(root, f)
-    		if filepath.find("meta")>=0:
+    		if filepath.find("meta")>=0 and filepath.find("WIDGETS")<0:
     			file_object=open(filepath)
     			try:
    				alllines = file_object.readlines()
@@ -876,33 +875,156 @@ class Map:
 					if line.find("packageName:")>=0: 
 						line = line[len("packageName:\"")+1: ]
 						package = line[: len(line)-1]
-						if package not in maindict:
-							packagenamenum=packagenamenum+1
+						if (package not in maindict) and len(package)>0:
 							category=filepath[filepath.find('meta_')+len('meta_'):filepath.find('.txt')]
 							maindict[package]=catedict[category]
 							continue
-						
-
 
 			finally:
 				file_object.close()
    
-    #for k in maindict:
-	#print k+'.apk, %s'%maindict[k]
+    print len(maindict)
+    for k in maindict:
+	print k+'.apk, %s'%maindict[k]
     return maindict
+
+  def getdesc(self,path):
+	maindict = {}
+	list_dirs = os.walk(path) 
+	i=0
+	j=0
+	k=0
+	speclist=[]
+	desc=''
+	package=''
+	while i<10:
+		while j<10:
+			while k<10:
+				speclist.append('\\'+'%s'%i+'%s'%j+'%s'%k)
+				k=k+1
+			k=0
+			j=j+1				
+		j=0
+		i=i+1
+
+	for root, dirs, files in list_dirs: 
+		for f in files:
+			filepath=os.path.join(root, f)
+			if filepath.find("meta")>=0 and filepath.find("WIDGETS")<0:
+				file_object=open(filepath)
+				try:
+					alllines = file_object.readlines()
+					for line in alllines:
+						if line.find("description:")>=0:
+							if (package not in maindict) and len(package)>0:# and len(desc)>0:
+								maindict[package]=desc
+							package=''
+							desc=''
+								
+							line=line.strip()
+							line = line[len("description:\"")+1: ]
+							desc = line[: len(line)-1]
+							for eachspecwd in speclist:
+								desc=desc.replace(eachspecwd,'')
+							desc=desc.replace('\\n',' ')
+							desc=desc.replace('\\t',' ')
+							desc=desc.replace("\\'","\'")
+							desc=desc.replace('\\"','\"')
+							desc=desc.replace('*','')
+							desc=desc.replace('#','')
+							desc=desc.replace('\\',' ')
+							desc=desc.strip()
+							continue
+						if line.find("promoText:")>=0:
+							line=line.strip()
+							line = line[len("promoText:\"")+1: ]
+							desc = desc + ' '+line[: len(line)-1]
+							for eachspecwd in speclist:
+								desc=desc.replace(eachspecwd,'')
+							desc=desc.replace('\\n',' ')
+							desc=desc.replace('\\t',' ')
+							desc=desc.replace("\\'","\'")
+							desc=desc.replace('\\"','\"')
+							desc=desc.replace('*','')
+							desc=desc.replace('#','')
+							desc=desc.replace('\\',' ')
+							desc=desc.strip()
+							continue
+
+						if line.find("recentChanges:")>=0:
+							line=line.strip()
+							line = line[len("recentChanges:\"")+1: ]
+							recentchange =  line[: len(line)-1]
+							for eachspecwd in speclist:
+								recentchange=recentchange.replace(eachspecwd,'')
+							recentchange=recentchange.replace('\\n',' ')
+							recentchange=recentchange.replace('\\t',' ')
+							recentchange=recentchange.replace("\\'","\'")
+							recentchange=recentchange.replace('\\"','\"')
+							recentchange=recentchange.replace('*','')
+							recentchange=recentchange.replace('#','')
+							recentchange=recentchange.replace('\\',' ')
+							recentchange=recentchange.replace('fixed','')
+							recentchange=recentchange.replace('Fixed','')
+							recentchange=recentchange.replace('fix','')
+							recentchange=recentchange.replace('Fix','')
+							recentchange=recentchange.replace('bugs','')
+							recentchange=recentchange.replace('Bugs','')
+							recentchange=recentchange.replace('bug','')
+							recentchange=recentchange.replace('Bug','')
+							desc=desc+recentchange.strip()
+							continue
+
+
+						if line.find("packageName:")>=0: 
+							line=line.strip()
+							line = line[len("packageName:\"")+1: ]
+							package = line[: len(line)-1]
+
+				finally:
+					file_object.close()
+					if (package not in maindict) and len(package)>0:# and len(desc)>0:
+						maindict[package]=desc
+					package=''
+					desc=''
+
+		#print json.dumps(maindict)
+
+	file_op=open('descwithapk.txt',"w")
+	try:
+		for k in maindict:
+			file_op.write(k+'.apk\n')
+			file_op.write(maindict[k]+'\n')
+			file_op.write('\n')
+			file_op.flush()
+	except:
+		print "Errors in writing the file keyworddictory.txt"
+	finally:
+		file_op.close()
+	#print len(maindict)
+	return maindict
 
 if __name__=="__main__":
   result=Map()
   permissiondict=result.getperm("/home/zyqu/res/")
   catedict=result.getcate("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
+  desc=result.getdesc("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
+  
   keyworddict=result.getkeyword("/home/zyqu/Research/Android_sec/parsexml/semant/kwdictiionary.txt", permissiondict)
-
-  #keyworddict=result.keywordrefine(keyworddict)
+  keyworddict=result.keywordrefine(keyworddict)
 
   intersectpermissiondict={}
   for elem in permissiondict:
   	if elem in keyworddict:
 		intersectpermissiondict[elem]=permissiondict[elem]
+  
+  #for elem in catedict:
+	#if elem not in desc:
+		#print "In catedict not in desc: "+elem+', %s'%catedict[elem]
+
+  #for elem in desc:
+	#if elem not in catedict:
+		#print "In desc not in catedict: "+ elem+desc[elem]
 
 
 
