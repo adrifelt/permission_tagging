@@ -93,7 +93,6 @@ class Map:
 
 
   def getcombopermfreq(self,keyworddict,permissiondict):
-
     threshold=1
     combothreshold=2
     kwdict={}
@@ -165,30 +164,7 @@ class Map:
     #return maindict
 						
 
-  def combovariation(self,keyworddict,permissiondict):
-    permorder=1
-    pmdict={}
-    for (k,v) in permissiondict.iteritems():
-	for elem in v:
-		if elem not in pmdict:
-			pmdict[elem]=permorder
-			permorder=permorder+1
-    file_op1=open('combovarpermindex.txt','w')
-    try:
-	lower=1
-	upper=len(pmdict)
-	while lower<=upper:
-		for k in pmdict:
-			if pmdict[k]==lower:
-				file_op1.write(k)
-				file_op1.write(', %s'%pmdict[k])
-				file_op1.write('\n')
-				lower=lower+1
-    except:
-	print 'fail to write file varpermindex.txt'
-    finally:
-	file_op1.close()
-
+  def combovariation(self,keyworddict,permissiondict,pmdict):
     threshold=1
     kwdict={}
     for (k,v) in keyworddict.iteritems():
@@ -261,7 +237,7 @@ class Map:
 		
 
 
-  def variation(self,keyworddict,permissiondict):
+  def getpermindex(self, permissiondict):
     permorder=1
     pmdict={}
     for (k,v) in permissiondict.iteritems():
@@ -269,22 +245,11 @@ class Map:
 		if elem not in pmdict:
 			pmdict[elem]=permorder
 			permorder=permorder+1
-    file_op1=open('varpermindex.txt','w')
-    try:
-	lower=1
-	upper=len(pmdict)
-	while lower<=upper:
-		for k in pmdict:
-			if pmdict[k]==lower:
-				file_op1.write(k)
-				#file_op1.write(', %s'%pmdict[k])
-				file_op1.write('\n')
-				lower=lower+1
-    except:
-	print 'fail to write file varpermindex.txt'
-    finally:
-	file_op1.close()
 
+    return pmdict
+
+
+  def variation(self,keyworddict,permissiondict,pmdict):
     threshold=1
     kwdict={}
     for (k,v) in keyworddict.iteritems():
@@ -332,7 +297,7 @@ class Map:
 	file_op4.close()
 
 
-  def combochisquare(self,keyworddict,permissiondict):
+  def combochisquare(self,keyworddict,permissiondict,permdict):
     permlist=[]
     maindict={}
     pmdict={}
@@ -875,6 +840,7 @@ class Map:
 					if line.find("packageName:")>=0: 
 						line = line[len("packageName:\"")+1: ]
 						package = line[: len(line)-1]
+						package=package+'.apk'
 						if (package not in maindict) and len(package)>0:
 							category=filepath[filepath.find('meta_')+len('meta_'):filepath.find('.txt')]
 							maindict[package]=catedict[category]
@@ -883,9 +849,6 @@ class Map:
 			finally:
 				file_object.close()
    
-    print len(maindict)
-    for k in maindict:
-	print k+'.apk, %s'%maindict[k]
     return maindict
 
   def getdesc(self,path):
@@ -980,6 +943,7 @@ class Map:
 							line=line.strip()
 							line = line[len("packageName:\"")+1: ]
 							package = line[: len(line)-1]
+							package=package+'.apk'
 
 				finally:
 					file_object.close()
@@ -993,7 +957,7 @@ class Map:
 	file_op=open('descwithapk.txt',"w")
 	try:
 		for k in maindict:
-			file_op.write(k+'.apk\n')
+			file_op.write(k+'\n')
 			file_op.write(maindict[k]+'\n')
 			file_op.write('\n')
 			file_op.flush()
@@ -1001,40 +965,161 @@ class Map:
 		print "Errors in writing the file keyworddictory.txt"
 	finally:
 		file_op.close()
-	#print len(maindict)
+	return maindict
+
+
+
+  def getrate(self,path):
+	maindict = {}
+	list_dirs = os.walk(path) 
+	rate=''
+	package=''
+	for root, dirs, files in list_dirs: 
+		for f in files:
+			filepath=os.path.join(root, f)
+			if filepath.find("meta")>=0 and filepath.find("WIDGETS")<0:
+				file_object=open(filepath)
+				try:
+					alllines = file_object.readlines()
+					for line in alllines:
+						if line.find("rating:")>=0:
+							line=line.strip()
+							line = line[len("rating:\"")+1: ]
+							rate = line[: len(line)-1]
+							continue
+						if line.find("packageName:")>=0: 
+							line=line.strip()
+							line = line[len("packageName:\"")+1: ]
+							package = line[: len(line)-1]
+							package=package+'.apk'
+							if (package not in maindict) and len(package)>0 and len(rate)>0:
+								maindict[package]=rate		
+							package=''
+							rate=''
+
+				finally:
+					file_object.close()
+
+	return maindict
+
+  def getnumofrate(self,path):
+	maindict = {}
+	list_dirs = os.walk(path) 
+	ratecount=''
+	package=''
+	for root, dirs, files in list_dirs: 
+		for f in files:
+			filepath=os.path.join(root, f)
+			if filepath.find("meta")>=0 and filepath.find("WIDGETS")<0:
+				file_object=open(filepath)
+				try:
+					alllines = file_object.readlines()
+					for line in alllines:
+						if line.find("ratingsCount:")>=0:
+							line=line.strip()
+							ratecount = line[len("ratingsCount:")+1: ]
+							continue
+						if line.find("packageName:")>=0: 
+							line=line.strip()
+							line = line[len("packageName:\"")+1: ]
+							package = line[: len(line)-1]
+							package=package+'.apk'
+							if (package not in maindict) and len(package)>0 and len(ratecount)>0:
+								maindict[package]=ratecount
+							package=''
+							ratecount=''
+
+				finally:
+					file_object.close()
+
+	return maindict
+
+  def getsize(self,path):
+	maindict = {}
+	list_dirs = os.walk(path) 
+	size=''
+	package=''
+	for root, dirs, files in list_dirs: 
+		for f in files:
+			filepath=os.path.join(root, f)
+			if filepath.find("meta")>=0 and filepath.find("WIDGETS")<0:
+				file_object=open(filepath)
+				try:
+					alllines = file_object.readlines()
+					for line in alllines:
+						if line.find("installSize:")>=0:
+							line=line.strip()
+							size = line[len("installSize:")+1: ]
+							continue
+						if line.find("packageName:")>=0: 
+							line=line.strip()
+							line = line[len("packageName:\"")+1: ]
+							package = line[: len(line)-1]
+							package=package+'.apk'
+							if (package not in maindict) and len(package)>0 and len(size)>0:
+								maindict[package]=size
+							package=''
+							size=''
+
+				finally:
+					file_object.close()
+
+	return maindict
+
+
+  def extractperms(self,permdict,permindexdict):
+	maindict={}
+	for apkname in permdict:
+		templist=[]
+		for targetperm in permdict[apkname]:
+				   templist.append(permindexdict[targetperm])
+		maindict[apkname]=templist
 	return maindict
 
 if __name__=="__main__":
   result=Map()
+
+
+
+################### Keywords Extraction and Processing ###################
+  #desc=result.getdesc("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
   permissiondict=result.getperm("/home/zyqu/res/")
-  catedict=result.getcate("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
-  desc=result.getdesc("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
-  
   keyworddict=result.getkeyword("/home/zyqu/Research/Android_sec/parsexml/semant/kwdictiionary.txt", permissiondict)
+  #print len(keyworddict)
   keyworddict=result.keywordrefine(keyworddict)
 
   intersectpermissiondict={}
   for elem in permissiondict:
   	if elem in keyworddict:
 		intersectpermissiondict[elem]=permissiondict[elem]
-  
-  #for elem in catedict:
-	#if elem not in desc:
-		#print "In catedict not in desc: "+elem+', %s'%catedict[elem]
-
-  #for elem in desc:
-	#if elem not in catedict:
-		#print "In desc not in catedict: "+ elem+desc[elem]
-
-
-
-  
-  #print len(permissiondict)
-  #print len(keyworddict)
   #print len(intersectpermissiondict)
+  #print len(keyworddict)
+
+
+################### Feature Extractions ###################
+  catedict=result.getcate("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
+  rate=result.getrate("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
+  numofrate=result.getnumofrate("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
+  size=result.getsize("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
+  permindexdict=result.getpermindex(intersectpermissiondict)
+  #print permindexdict
+  #print len(permindexdict)
+  permsdeclared=result.extractperms(intersectpermissiondict,permindexdict)
+  
+  #print permsdeclared
+  #print len(permsdeclared)
+  #print len(catedict)
+  #print len(rate)
+  #print len(numofrate)
+  #print len(size)
+  #print catedict['com.svox.pico.voice.spa.esp.apk']
+  #print rate['com.pandora.android.apk']
+  #print numofrate['com.pandora.android.apk']
+  #print size['com.pandora.android.apk']
+
 
   #result.getcombopermfreq(keyworddict,intersectpermissiondict)
-  #result.combovariation(keyworddict,intersectpermissiondict)
+  #result.combovariation(keyworddict,intersectpermissiondict,permindexdict)
   #result.getcombokwfreq(keyworddict,intersectpermissiondict)
   #combochisqv=result.combochisquare(keyworddict,intersectpermissiondict)
   #file_output=open("/home/zyqu/Research/Android_sec/parsexml/semant/combogenchisqres.txt","w")
@@ -1066,7 +1151,7 @@ if __name__=="__main__":
 #	file_op2.close()
 
 
-  #result.variation(keyworddict,intersectpermissiondict)
+  #result.variation(keyworddict,intersectpermissiondict,permindexdict)
 
   #print len(keyworddict)
   #print len(permissiondict)
