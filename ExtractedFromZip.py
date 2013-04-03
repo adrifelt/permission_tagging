@@ -20,14 +20,36 @@ class ExtractedFromZip:
     os.system(command)
     command="mkdir " + self.sinkpath
     os.system(command)
-    command="mkdir " + self.sinkpath+'/test'
-    os.system(command)
+    #command="mkdir " + self.sinkpath+'/test'
+    #os.system(command)
     for root, dirs, files in list_dirs:
       for f in files: 
         filepath=os.path.join(root, f)
 	appname=os.path.basename(filepath)
         command='unzip '+filepath+' -d '+self.sinkpath+'XXXXX'+appname
         os.system(command)
+
+
+  def dedex(self,path,dedexpath):
+    javapath='/home/zyqu/Research/Android_sec/jdk1.7.0_17/bin/'
+
+    list_dirs=os.walk(path)
+    for root, dirs, files in list_dirs:
+	for d in dirs:
+		if d.find('XXXXX')>=0 and d.find('.apk')>=0:
+			appname=d[d.find('XXXXX')+len('XXXXX'):]
+			list_dirs_level2=os.walk(path+d)
+			for rs, ds, fs in list_dirs_level2:
+				for f in fs:
+					if f.find('classes.dex')>=0:
+						fullpath=os.path.join(path,d)
+						fullpath=os.path.join(fullpath,f)
+						command=javapath+'java -cp .:'+javapath+' -jar ddx1.26.jar -d '+dedexpath+'XXXXX'+appname+'/ '+fullpath
+						os.system(command)
+
+
+
+
 
   def analysis(self,path): 
     maindict={}
@@ -100,6 +122,9 @@ class ExtractedFromZip:
 
 
 if __name__=="__main__":
+  dedexpath='/home/zyqu/Research/Android_sec/parsexml/semant/dedexedapps/'
   dep=ExtractedFromZip("/home/zyqu/Research/Android_sec/parsexml/semant/apps/","/home/zyqu/Research/Android_sec/parsexml/semant/extractedapps/")
   dep.extract()
-  dep.analysis("/home/zyqu/Research/Android_sec/parsexml/semant/extractedapps/")
+  dep.analysis(dep.sinkpath)
+  #dep.dedex(dep.sinkpath,dedexpath)
+

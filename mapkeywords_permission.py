@@ -891,10 +891,10 @@ class Map:
 								desc=desc.replace(eachspecwd,'')
 							desc=desc.replace('\\n',' ')
 							desc=desc.replace('\\t',' ')
-							desc=desc.replace("\\'","\'")
-							desc=desc.replace('\\"','\"')
-							desc=desc.replace('*','')
-							desc=desc.replace('#','')
+							desc=desc.replace("\\'"," ")
+							desc=desc.replace('\\"',' ')
+							desc=desc.replace('*',' ')
+							desc=desc.replace('#',' ')
 							desc=desc.replace('\\',' ')
 							desc=desc.strip()
 							continue
@@ -906,10 +906,10 @@ class Map:
 								desc=desc.replace(eachspecwd,'')
 							desc=desc.replace('\\n',' ')
 							desc=desc.replace('\\t',' ')
-							desc=desc.replace("\\'","\'")
-							desc=desc.replace('\\"','\"')
-							desc=desc.replace('*','')
-							desc=desc.replace('#','')
+							desc=desc.replace("\\'"," ")
+							desc=desc.replace('\\"',' ')
+							desc=desc.replace('*',' ')
+							desc=desc.replace('#',' ')
 							desc=desc.replace('\\',' ')
 							desc=desc.strip()
 							continue
@@ -922,19 +922,19 @@ class Map:
 								recentchange=recentchange.replace(eachspecwd,'')
 							recentchange=recentchange.replace('\\n',' ')
 							recentchange=recentchange.replace('\\t',' ')
-							recentchange=recentchange.replace("\\'","\'")
-							recentchange=recentchange.replace('\\"','\"')
-							recentchange=recentchange.replace('*','')
-							recentchange=recentchange.replace('#','')
+							recentchange=recentchange.replace("\\'"," ")
+							recentchange=recentchange.replace('\\"',' ')
+							recentchange=recentchange.replace('*',' ')
+							recentchange=recentchange.replace('#',' ')
 							recentchange=recentchange.replace('\\',' ')
-							recentchange=recentchange.replace('fixed','')
-							recentchange=recentchange.replace('Fixed','')
-							recentchange=recentchange.replace('fix','')
-							recentchange=recentchange.replace('Fix','')
-							recentchange=recentchange.replace('bugs','')
-							recentchange=recentchange.replace('Bugs','')
-							recentchange=recentchange.replace('bug','')
-							recentchange=recentchange.replace('Bug','')
+							recentchange=recentchange.replace('fixed',' ')
+							recentchange=recentchange.replace('Fixed',' ')
+							recentchange=recentchange.replace('fix',' ')
+							recentchange=recentchange.replace('Fix',' ')
+							recentchange=recentchange.replace('bugs',' ')
+							recentchange=recentchange.replace('Bugs',' ')
+							recentchange=recentchange.replace('bug',' ')
+							recentchange=recentchange.replace('Bug',' ')
 							desc=desc+recentchange.strip()
 							continue
 
@@ -1076,35 +1076,113 @@ class Map:
 		maindict[apkname]=templist
 	return maindict
 
+  def preprocessbfTF(self,desc):
+        from nltk.stem.wordnet import WordNetLemmatizer
+        lmtzr = WordNetLemmatizer()	
+	maindict={}
+	for apkname in desc:
+		string=desc[apkname]
+		delimlist=['!','.',',','-']
+		finallist=[]
+		for delim in delimlist:
+			string=string.replace(delim,' ')
+		templist=string.split(' ')
+		for elem in templist:
+			elem=elem.strip()
+			if len(elem)>1 and elem.isalpha():
+				finallist.append(lmtzr.lemmatize(elem.lower()))
+		if apkname not in maindict:
+			maindict[apkname]=finallist
+	return maindict
+
+  def appendString(self,descdict):
+        from nltk.stem.wordnet import WordNetLemmatizer
+        lmtzr = WordNetLemmatizer()	
+	appendstrdict={}
+	file_obj=open("/home/zyqu/Research/Android_sec/parsexml/semant/StringtoAppend.txt")
+	try:
+		alllines = file_obj.readlines()
+		keywords=[]
+		apkname=''
+		for line in alllines:
+			line=line.strip()
+			if line.find('.apk')>0:
+				apkname=line
+				continue
+			if len(line)==0:
+				if len(apkname)>0 and (apkname not in appendstrdict) and len(keywords)>0:
+					appendstrdict[apkname]=keywords
+				keywords=[]
+				apkname=''
+				continue
+			keywords.append(lmtzr.lemmatize(line.lower()))
+	except:
+		print "Errors in openning StringtoAppend.txt"
+	finally:
+		file_obj.close()
+
+
+	maindict={}
+	for apkname in appendstrdict:
+		keywlist=[]
+		for eachstring in appendstrdict[apkname]:
+			keywlist.append(eachstring)
+		if apkname in descdict:
+			for eachkw in descdict[apkname]:
+				keywlist.append(eachkw)
+		if (apkname not in maindict) and len(keywlist)>0:	
+			maindict[apkname]=keywlist
+
+	for apkname in descdict:
+		keywlist=[]
+		if apkname not in appendstrdict:			
+			for eachkw in descdict[apkname]:
+				keywlist.append(eachkw)
+			if (apkname not in maindict) and len(keywlist)>0:
+				maindict[apkname]=keywlist	
+
+	#print maindict
+	print len(appendstrdict)
+	print len(descdict)
+	print len(maindict)
+	#for k in maindict:
+		#print k
+		#for v in maindict:
+			#print v
+		#print '\n'
+	return maindict
+
+
 if __name__=="__main__":
   result=Map()
 
 
 
 ################### Keywords Extraction and Processing ###################
-  #desc=result.getdesc("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
-  permissiondict=result.getperm("/home/zyqu/res/")
-  keyworddict=result.getkeyword("/home/zyqu/Research/Android_sec/parsexml/semant/kwdictiionary.txt", permissiondict)
+  desc=result.getdesc("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
+  tempkwdict=result.appendString(result.preprocessbfTF(desc))
+  #permissiondict=result.getperm("/home/zyqu/res/")
+  #keyworddict=result.getkeyword("/home/zyqu/Research/Android_sec/parsexml/semant/kwdictiionary.txt", permissiondict)
   #print len(keyworddict)
-  keyworddict=result.keywordrefine(keyworddict)
+  #keyworddict=result.keywordrefine(keyworddict)
 
-  intersectpermissiondict={}
-  for elem in permissiondict:
-  	if elem in keyworddict:
-		intersectpermissiondict[elem]=permissiondict[elem]
+  #intersectpermissiondict={}
+  #for elem in permissiondict:
+  	#if elem in keyworddict:
+		#intersectpermissiondict[elem]=permissiondict[elem]
   #print len(intersectpermissiondict)
   #print len(keyworddict)
 
 
 ################### Feature Extractions ###################
-  catedict=result.getcate("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
-  rate=result.getrate("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
-  numofrate=result.getnumofrate("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
-  size=result.getsize("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
-  permindexdict=result.getpermindex(intersectpermissiondict)
+  #catedict=result.getcate("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
+  #rate=result.getrate("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
+  #numofrate=result.getnumofrate("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
+  #size=result.getsize("/home/zyqu/Research/Android_sec/parsexml/semant/metafiles/")
+  #permindexdict=result.getpermindex(intersectpermissiondict)
   #print permindexdict
   #print len(permindexdict)
-  permsdeclared=result.extractperms(intersectpermissiondict,permindexdict)
+  #permsdeclared=result.extractperms(intersectpermissiondict,permindexdict)
   
   #print permsdeclared
   #print len(permsdeclared)
