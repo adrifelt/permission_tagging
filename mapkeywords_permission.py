@@ -1091,7 +1091,7 @@ class Map:
 			elem=elem.strip()
 			if len(elem)>1 and elem.isalpha():
 				finallist.append(lmtzr.lemmatize(elem.lower()))
-		if apkname not in maindict:
+		if (apkname not in maindict) and len(finallist)>0:
 			maindict[apkname]=finallist
 	return maindict
 
@@ -1139,17 +1139,18 @@ class Map:
 			for eachkw in descdict[apkname]:
 				keywlist.append(eachkw)
 			if (apkname not in maindict) and len(keywlist)>0:
-				maindict[apkname]=keywlist	
+				maindict[apkname]=keywlist
+				#if len(keywlist)!=len(descdict[apkname]):
+					#print "XXXXXXXXXXXXX"	
 
 	#print maindict
-	print len(appendstrdict)
-	print len(descdict)
-	print len(maindict)
-	#for k in maindict:
-		#print k
-		#for v in maindict:
-			#print v
-		#print '\n'
+	#print len(appendstrdict)
+	#print len(descdict)
+	#print len(maindict)
+	#for elem in descdict:
+		#if elem not in maindict:
+			#print "In descdict not in maindict: "+elem
+			#print descdict[elem]
 	return maindict
 
 
